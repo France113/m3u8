@@ -2,45 +2,19 @@
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-1 综合
 https://iptv.gstory.cn/Cinetry/608807420
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-1 综合
+http://61.184.46.85:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-1 综合
 http://183.215.134.239:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-1 综合
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv1&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-1 综合
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-1 综合
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-1 综合
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-1 综合
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-1 综合
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=yu&mode=1&$4M
+http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-2 财经" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-2 财经
 https://iptv.gstory.cn/Cinetry/631780532
 #EXTINF:-1 tvg-name="CCTV-2 财经" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-2 财经
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-2 财经
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-2 财经
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-2 财经
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000031113&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-2 财经
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-2 财经
-http://123.191.28.178:7788/631780532
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-2 财经
 http://61.184.46.85:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-2 财经
+http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-3 综艺
 https://iptv.gstory.cn/Cinetry/624878271
-#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-3 综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-3 综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-3 综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000002000020548&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-3 综艺
-http://123.191.28.178:7788/624878271
 #EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-3 综艺
 http://61.184.46.85:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-3 综艺
@@ -48,43 +22,21 @@ http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际
 https://iptv.gstory.cn/Cinetry/631780421
 #EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际
-http://123.191.28.178:7788/631780421
-#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际
 http://61.184.46.85:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际 中文国际 K" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际 中文国际 K
+http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
+#EXTINF:-1 tvg-name="CCTV-4 中文国际 中文国际 K" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际 中文国际 K
 http://home.amucn.net:8800/udp/239.49.0.82:8000
 #EXTINF:-1 tvg-name="CCTV-4 中文国际 中文国际 K" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际 中文国际 K
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="CCTV-4 中文国际 中文国际 K" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际 中文国际 K
-http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
 #EXTINF:-1 tvg-name="CCTV-4 中文国际 中文国际 欧洲" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际 中文国际 欧洲
 https://iptv.gstory.cn/Cinetry/608807419
-#EXTINF:-1 tvg-name="CCTV-4 中文国际 中文国际 欧洲" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际 中文国际 欧洲
-http://123.191.28.178:7788/608807419
 #EXTINF:-1 tvg-name="CCTV-4 中文国际 中文国际 美洲" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际 中文国际 美洲
 https://iptv.gstory.cn/Cinetry/608807416
-#EXTINF:-1 tvg-name="CCTV-4 中文国际 中文国际 美洲" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-4 中文国际 中文国际 美洲
-http://123.191.28.178:7788/608807416
 #EXTINF:-1 tvg-name="CCTV-5 体育" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-5 体育
 https://iptv.gstory.cn/Cinetry/641886683
-#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-5 体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-5 体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000016619&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-5 体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-5 体育
-http://123.191.28.178:7788/641886683
 #EXTINF:-1 tvg-name="CCTV-5 体育" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-5 体育
 http://61.184.46.85:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-5 体育" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-5 体育
@@ -92,23 +44,9 @@ http://74.91.26.218:82/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-5 体育 体育 +" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-5 体育 体育 +
 http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 #EXTINF:-1 tvg-name="CCTV-5 体育 体育 +" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-5 体育 体育 +
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-5 体育 体育 +" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-5 体育 体育 +
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-5 体育 体育 +" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-5 体育 体育 +
 http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-6 电影" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-6 电影
 https://iptv.gstory.cn/Cinetry/624878396
-#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-6 电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-6 电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-6 电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6117099895556651277&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-6 电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000018433&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-6 电影
-http://123.191.28.178:7788/624878396
 #EXTINF:-1 tvg-name="CCTV-6 电影" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-6 电影
 http://61.184.46.85:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-6 电影" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-6 电影
@@ -116,27 +54,11 @@ http://74.91.26.218:82/live/cctv6hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-7 国防军事
 https://iptv.gstory.cn/Cinetry/673168121
 #EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-7 国防军事
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=yu&mode=1&$6M
+http://61.184.46.85:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-7 国防军事
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-7 国防军事
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-7 国防军事
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-7 国防军事
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-7 国防军事
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000026715&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-7 国防军事
-http://123.191.28.178:7788/673168121
+http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-8 电视剧
 https://iptv.gstory.cn/Cinetry/624878356
-#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-8 电视剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-8 电视剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-8 电视剧
-http://123.191.28.178:7788/624878356
 #EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-8 电视剧
 http://61.184.46.85:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-8 电视剧
@@ -146,45 +68,17 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-9 纪录
 https://iptv.gstory.cn/Cinetry/673168140
 #EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-9 纪录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-9 纪录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000288020&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-9 纪录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-9 纪录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-9 纪录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-9 纪录
-http://123.191.28.178:7788/673168140
-#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-9 纪录
 http://61.184.46.85:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-9 纪录
+http://74.91.26.218:82/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-10 科教" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-10 科教
 https://iptv.gstory.cn/Cinetry/624878405
 #EXTINF:-1 tvg-name="CCTV-10 科教" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-10 科教
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-10 科教
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-10 科教
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-10 科教
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-10 科教
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-10 科教
-http://123.191.28.178:7788/624878405
-#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-10 科教
 http://61.184.46.85:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-10 科教
+http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-11 戏曲
 https://iptv.gstory.cn/Cinetry/667987558
-#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-11 戏曲
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-11 戏曲
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-11 戏曲
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000006000040011&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-11 戏曲
-http://123.191.28.178:7788/667987558
 #EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-11 戏曲
 http://61.184.46.85:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-11 戏曲
@@ -192,29 +86,11 @@ http://74.91.26.218:82/live/cctv11hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-12 社会与法
 https://iptv.gstory.cn/Cinetry/673168185
 #EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-12 社会与法
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-12 社会与法
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-12 社会与法
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000006000040012&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-12 社会与法
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-12 社会与法
-http://123.191.28.178:7788/673168185
-#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-12 社会与法
 http://61.184.46.85:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-12 社会与法
 http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-13 新闻
 https://iptv.gstory.cn/Cinetry/608807423
-#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-13 新闻
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-13 新闻
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-13 新闻
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-13 新闻
-http://123.191.28.178:7788/608807423
 #EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-13 新闻
 http://61.184.46.85:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-13 新闻
@@ -222,49 +98,19 @@ http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-14 少儿
 https://iptv.gstory.cn/Cinetry/624878440
 #EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-14 少儿
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000000172&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-14 少儿
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000023358&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-14 少儿
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-14 少儿
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-14 少儿
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-14 少儿
-http://123.191.28.178:7788/624878440
-#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-14 少儿
 http://61.184.46.85:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-14 少儿
+http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-15 音乐
 https://iptv.gstory.cn/Cinetry/673168223
 #EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-15 音乐
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000018417&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-15 音乐
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-15 音乐
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-15 音乐
-http://123.191.28.178:7788/673168223
-#EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-15 音乐
 http://74.91.26.218:82/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-name="CCTV-16 奥林匹克" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-16 奥林匹克
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-16 奥林匹克" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-16 奥林匹克
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="CCTV-16 奥林匹克" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-16 奥林匹克
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-16 奥林匹克" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-16 奥林匹克
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-17 农业农村
 https://iptv.gstory.cn/Cinetry/673168256
-#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-17 农业农村
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-17 农业农村
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-17 农业农村
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-17 农业农村
-http://123.191.28.178:7788/673168256
 #EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-17 农业农村
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-id="" tvg-logo="" group-title="央视频道",CCTV-17 农业农村
@@ -298,57 +144,31 @@ https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd4
 #EXTINF:-1 tvg-name="CGTN" tvg-id="" tvg-logo="" group-title="央视频道",CGTN
 https://iptv.gstory.cn/Cinetry/609017205
 #EXTINF:-1 tvg-name="CGTN" tvg-id="" tvg-logo="" group-title="央视频道",CGTN
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CGTN" tvg-id="" tvg-logo="" group-title="央视频道",CGTN
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=4810873738577663591&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="CGTN" tvg-id="" tvg-logo="" group-title="央视频道",CGTN
-http://123.191.28.178:7788/609017205
-#EXTINF:-1 tvg-name="CGTN" tvg-id="" tvg-logo="" group-title="央视频道",CGTN
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN俄语
 https://iptv.gstory.cn/Cinetry/609006446
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN俄语
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN俄语
-http://123.191.28.178:7788/609006446
+https://0472.org/hls/cgtne.m3u8?3.24.170:5140
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN俄语
-https://0472.org/hls/cgtne.m3u8?3.24.170:5140
 #EXTINF:-1 tvg-name="CGTN外语纪录" tvg-id="" tvg-logo="" group-title="央视频道",CGTN外语纪录
 https://iptv.gstory.cn/Cinetry/609006487
-#EXTINF:-1 tvg-name="CGTN外语纪录" tvg-id="" tvg-logo="" group-title="央视频道",CGTN外语纪录
-http://123.191.28.178:7788/609006487
 #EXTINF:-1 tvg-name="CGTN法语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN法语
 https://iptv.gstory.cn/Cinetry/609006476
-#EXTINF:-1 tvg-name="CGTN法语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN法语
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CGTN法语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN法语
-http://123.191.28.178:7788/609006476
 #EXTINF:-1 tvg-name="CGTN法语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN法语
 http://zqh2333.top:2222/rtp/239.93.55.50:5140
 #EXTINF:-1 tvg-name="CGTN法语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN法语
 https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-name="CGTN西班牙语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN西班牙语
 https://iptv.gstory.cn/Cinetry/609006450
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN西班牙语
-http://123.191.28.178:7788/609006450
-#EXTINF:-1 tvg-name="CGTN西语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN西语
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="CGTN西语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN西语
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN记录" tvg-id="" tvg-logo="" group-title="央视频道",CGTN记录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=yu&mode=1&$2M
+https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
 #EXTINF:-1 tvg-name="CGTN记录" tvg-id="" tvg-logo="" group-title="央视频道",CGTN记录
 https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="CGTN记录" tvg-id="" tvg-logo="" group-title="央视频道",CGTN记录
-https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN阿拉伯语
 https://iptv.gstory.cn/Cinetry/609154345
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN阿拉伯语
-http://123.191.28.178:7788/609154345
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN阿语
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-id="" tvg-logo="" group-title="央视频道",CGTN阿语
@@ -408,11 +228,11 @@ https://stream1.freetv.fun/05d08ea65b8b2d697984abf19f4545c698308338fdf8aaeac8678
 #EXTINF:-1 tvg-name="星空卫视" tvg-id="" tvg-logo="" group-title="国外频道",星空卫视
 http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-logo="" group-title="国外频道",翡翠台
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-logo="" group-title="国外频道",翡翠台
 https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-logo="" group-title="国外频道",翡翠台
 https://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-logo="" group-title="国外频道",翡翠台
+https://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-name="靖天电影" tvg-id="" tvg-logo="" group-title="国外频道",靖天电影
 http://iptv.4666888.xyz/iptv2A.php?id=56
 #EXTINF:-1 tvg-name="龙华偶像" tvg-id="" tvg-logo="" group-title="国外频道",龙华偶像
@@ -436,25 +256,11 @@ https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",三沙卫视
 https://iptv.gstory.cn/Cinetry/961023778
 #EXTINF:-1 tvg-name="三沙卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",三沙卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288016&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="三沙卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",三沙卫视
 http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
-#EXTINF:-1 tvg-name="三沙卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",三沙卫视
-http://123.191.28.178:7788/961023778
-#EXTINF:-1 tvg-name="三沙卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",三沙卫视
-http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="上海卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",上海卫视
 http://61.184.46.85:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="东南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",东南卫视
 https://iptv.gstory.cn/Cinetry/849116810
-#EXTINF:-1 tvg-name="东南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",东南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="东南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",东南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000010584&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="东南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",东南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000005829&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="东南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",东南卫视
-http://123.191.28.178:7788/849116810
 #EXTINF:-1 tvg-name="东南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",东南卫视
 http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",东方卫视
@@ -462,45 +268,19 @@ https://iptv.gstory.cn/Cinetry/651632648
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",东方卫视
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",东方卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6081477947334326291&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="东方卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",东方卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000032246&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="东方卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",东方卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="东方卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",东方卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000014098&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="东方卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",东方卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="东方卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",东方卫视
-http://123.191.28.178:7788/651632648
-#EXTINF:-1 tvg-name="中国农林卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",中国农林卫视
-http://123.191.28.178:7788/956904896
-#EXTINF:-1 tvg-name="云南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",云南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031120&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="云南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",云南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="云南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",云南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000006000040019&livemode=1&stbId=yu&mode=1&$4M
+http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="云南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",云南卫视
 http://111.43.126.240:9003/hls/60/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",云南卫视
 http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="人间卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 tvg-name="人间卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",兵团卫视
 https://iptv.gstory.cn/Cinetry/956923145
 #EXTINF:-1 tvg-name="兵团卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",兵团卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266005&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="兵团卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",兵团卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040020&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="兵团卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",兵团卫视
-http://123.191.28.178:7788/956923145
-#EXTINF:-1 tvg-name="兵团卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",兵团卫视
 http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",内蒙古卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7331079758781182663&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",内蒙古卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000014080&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",内蒙古卫视
 http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="农林卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",农林卫视
@@ -510,205 +290,79 @@ http://8.138.7.223/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%A6%B4%E8%8A%
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",北京卫视
 https://iptv.gstory.cn/Cinetry/630287636
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",北京卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=yu&mode=1&$4M
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",北京卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000011502&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="北京卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",北京卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="北京卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",北京卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8186688740528366039&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="北京卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",北京卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000031556&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="北京卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",北京卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265027&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 tvg-name="北京卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",北京卫视
-http://123.191.28.178:7788/630287636
+http://61.184.46.85:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",卫视
-http://183.184.51.41:9003/hls/21/index.m3u8
+http://183.184.48.59:9003/hls/26/index.m3u8
+#EXTINF:-1 tvg-name="卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",卫视
+http://183.184.48.59:9003/hls/22/index.m3u8
+#EXTINF:-1 tvg-name="卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",卫视
+http://183.184.51.41:9003/hls/26/index.m3u8
 #EXTINF:-1 tvg-name="卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",卫视
 http://183.184.48.59:9003/hls/34/index.m3u8
 #EXTINF:-1 tvg-name="卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",卫视
-http://183.184.51.41:9003/hls/20/index.m3u8
+http://183.184.48.59:9003/hls/37/index.m3u8
 #EXTINF:-1 tvg-name="卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",卫视
-http://183.184.51.41:9003/hls/34/index.m3u8
+http://183.184.51.41:9003/hls/37/index.m3u8
 #EXTINF:-1 tvg-name="卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",卫视
-http://183.184.48.59:9003/hls/23/index.m3u8
+http://183.184.48.59:9003/hls/21/index.m3u8
 #EXTINF:-1 tvg-name="卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",卫视
-http://183.184.51.41:9003/hls/23/index.m3u8
-#EXTINF:-1 tvg-name="卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",卫视
-http://183.184.48.59:9003/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",卫视
-http://183.184.51.41:9003/hls/24/index.m3u8
-#EXTINF:-1 tvg-name="厦门卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",厦门卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266006&livemode=1&stbId=yu&mode=1&$4M
+http://183.184.51.41:9003/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",厦门卫视
 http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="吉林卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",吉林卫视
 https://iptv.gstory.cn/Cinetry/947472500
 #EXTINF:-1 tvg-name="吉林卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",吉林卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031117&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="吉林卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",吉林卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6042486520432105075&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="吉林卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",吉林卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000006000040013&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="吉林卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",吉林卫视
-http://123.191.28.178:7788/947472500
-#EXTINF:-1 tvg-name="吉林卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",吉林卫视
 http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="四川卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",四川卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006119&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="四川卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",四川卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000016825&livemode=1&stbId=yu&mode=1&$4M
+http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="四川卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",四川卫视
 http://61.184.46.85:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="四川卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",四川卫视
-http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",大湾区卫视
 https://iptv.gstory.cn/Cinetry/608917627
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",大湾区卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000011619&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",大湾区卫视
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=toShengfen&mode=1&$4M-ystenlive
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",大湾区卫视
-http://123.191.28.178:7788/608917627
-#EXTINF:-1 tvg-name="天津卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",天津卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6707942579111517572&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="天津卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",天津卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="天津卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",天津卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006827&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="天津卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",天津卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000000831&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="天津卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",天津卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 tvg-name="天津卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",天津卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000030788&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="天津卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",天津卫视
-http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="天津卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",天津卫视
 http://61.184.46.85:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="天津卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",天津卫视
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",宁夏卫视
 https://iptv.gstory.cn/Cinetry/738910535
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",宁夏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000031451&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",宁夏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040022&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",宁夏卫视
-http://123.191.28.178:7788/738910535
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",宁夏卫视
 http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="安多卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",安多卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000022124&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="安徽卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",安徽卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000027288&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="安徽卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",安徽卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000030159&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="安徽卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",安徽卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265025&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 tvg-name="安徽卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",安徽卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000023002&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="安徽卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",安徽卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000020780&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="安徽卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",安徽卫视
 http://61.184.46.85:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="安徽卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",安徽卫视
 http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="山东卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",山东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000016568&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="山东卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",山东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000020424&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="山东卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",山东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000012807&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="山东卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",山东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000027763&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="山东卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",山东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7347081113971056899&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="山东卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",山东卫视
 http://61.184.46.85:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="山东卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",山东卫视
 http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",山东教育卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000004097&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="山西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",山西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000021220&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="山西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",山西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040023&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="山西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",山西卫视
 http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广东卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",广东卫视
 https://iptv.gstory.cn/Cinetry/608831231
 #EXTINF:-1 tvg-name="广东卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",广东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000014176&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="广东卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",广东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000014694&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="广东卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",广东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000028357&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="广东卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",广东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000030417&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="广东卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",广东卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5616881981321254555&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="广东卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",广东卫视
-http://123.191.28.178:7788/608831231
+http://61.184.46.85:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",广东卫视
 http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",广西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031118&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="广西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",广西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000006000040014&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="广西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",广西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="广西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",广西卫视
 http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="康巴卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",康巴卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266002&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="延边卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",延边卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266008&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="延边卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",延边卫视
 https://srs.iyb983.cn:443/video/CYS/index.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",新疆卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040018&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="新疆卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",新疆卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000029441&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="新疆卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",新疆卫视
 http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="江苏卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",江苏卫视
 https://iptv.gstory.cn/Cinetry/623899368
 #EXTINF:-1 tvg-name="江苏卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",江苏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000018509&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="江苏卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",江苏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=4796340999304424198&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="江苏卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",江苏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="江苏卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",江苏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000019351&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="江苏卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",江苏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000001828&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="江苏卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",江苏卫视
-http://123.191.28.178:7788/623899368
+http://61.184.46.85:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="江苏卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",江苏卫视
 http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="江西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",江西卫视
 https://iptv.gstory.cn/Cinetry/783847495
 #EXTINF:-1 tvg-name="江西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",江西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000268001&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="江西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",江西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000011210&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="江西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",江西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000013731&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="江西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",江西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000032154&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="江西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",江西卫视
-http://123.191.28.178:7788/783847495
-#EXTINF:-1 tvg-name="江西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",江西卫视
 http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="河北卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",河北卫视
 https://iptv.gstory.cn/Cinetry/962042070
-#EXTINF:-1 tvg-name="河北卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",河北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000017118&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="河北卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",河北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040016&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="河北卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",河北卫视
-http://123.191.28.178:7788/962042070
 #EXTINF:-1 tvg-name="河北卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",河北卫视
 http://61.184.46.85:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河北卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",河北卫视
@@ -718,21 +372,9 @@ https://iptv.gstory.cn/Cinetry/790187291
 #EXTINF:-1 tvg-name="河南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",河南卫视
 http://1.94.31.214/php/hntv.php?id=hnws
 #EXTINF:-1 tvg-name="河南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",河南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031119&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="河南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",河南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7304224304099543804&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="河南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",河南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000017925&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="河南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",河南卫视
-http://123.191.28.178:7788/790187291
-#EXTINF:-1 tvg-name="河南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",河南卫视
 http://61.184.46.85:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",河南卫视
 http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="浙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$3甘电FD直
-#EXTINF:-1 tvg-name="浙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8$1甘电HD直
 #EXTINF:-1 tvg-name="浙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",浙江卫视
 http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$2甘电FD直
 #EXTINF:-1 tvg-name="浙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",浙江卫视
@@ -740,19 +382,17 @@ https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",浙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000017320&livemode=1&stbId=yu&mode=1&$4M
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$3甘电FD直
+#EXTINF:-1 tvg-name="浙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8$1甘电HD直
 #EXTINF:-1 tvg-name="浙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",浙江卫视
 http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",浙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=yu&mode=1&$4M
+http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",浙江卫视
+http://61.184.46.85:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="海南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",海南卫视
 https://iptv.gstory.cn/Cinetry/947472502
-#EXTINF:-1 tvg-name="海南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",海南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7899627377857656087&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="海南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",海南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006211&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="海南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",海南卫视
-http://123.191.28.178:7788/947472502
 #EXTINF:-1 tvg-name="海南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",海南卫视
 http://61.184.46.85:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="海峡卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",海峡卫视
@@ -760,61 +400,23 @@ https://iptv.gstory.cn/Cinetry/849119120
 #EXTINF:-1 tvg-name="海峡卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",海峡卫视
 http://8.138.7.223/tv/hxws.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",海峡卫视
-http://123.191.28.178:7788/849119120
-#EXTINF:-1 tvg-name="海峡卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",海峡卫视
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 tvg-name="深圳卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",深圳卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000009227&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="深圳卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",深圳卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000007410&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="深圳卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",深圳卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000011645&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="深圳卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",深圳卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000024026&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="深圳卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",深圳卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5352218613763113657&livemode=1&stbId=yu&mode=1&$2M
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="深圳卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",深圳卫视
 http://61.184.46.85:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="深圳卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",深圳卫视
-http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="湖北卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖北卫视
 https://iptv.gstory.cn/Cinetry/947472496
 #EXTINF:-1 tvg-name="湖北卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000022140&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="湖北卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265023&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 tvg-name="湖北卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="湖北卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="湖北卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖北卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000014954&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="湖北卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖北卫视
-http://123.191.28.178:7788/947472496
-#EXTINF:-1 tvg-name="湖北卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖北卫视
 http://61.184.46.85:85/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖北卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖北卫视
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="湖南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000030452&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="湖南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="湖南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006692&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="湖南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="湖南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 tvg-name="湖南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6954818217931477266&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="湖南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖南卫视
 http://61.184.46.85:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",甘肃卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000006000040021&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",甘肃卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031121&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",甘肃卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000017827&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="湖南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",湖南卫视
+http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",甘肃卫视
 http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="福建东南卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",福建东南卫视
@@ -822,31 +424,11 @@ http://61.184.46.85:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="蒙语卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",蒙语卫视
 http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
 #EXTINF:-1 tvg-name="藏语卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",藏语卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7134589828528695864&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="藏语卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",藏语卫视
 http://php.jdshipin.com:8880/xztv.php?id=zy
-#EXTINF:-1 tvg-name="西藏卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",西藏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6603041244077933770&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="西藏卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",西藏卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5381760837640571168&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="贵州卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",贵州卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="贵州卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",贵州卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000025843&livemode=1&stbId=yu&mode=1&$8M
 #EXTINF:-1 tvg-name="贵州卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",贵州卫视
 http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",辽宁卫视
 https://iptv.gstory.cn/Cinetry/630291707
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",辽宁卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000001945&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",辽宁卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000011671&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",辽宁卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000024033&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",辽宁卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000008940&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",辽宁卫视
-http://123.191.28.178:7788/630291707
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",辽宁卫视
 http://61.184.46.85:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",辽宁卫视
@@ -854,111 +436,53 @@ http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="重庆卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",重庆卫视
 https://iptv.gstory.cn/Cinetry/738910914
 #EXTINF:-1 tvg-name="重庆卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",重庆卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000018937&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="重庆卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",重庆卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000001096&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="重庆卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",重庆卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000025797&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="重庆卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",重庆卫视
-http://123.191.28.178:7788/738910914
-#EXTINF:-1 tvg-name="重庆卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",重庆卫视
 http://61.184.46.85:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="重庆卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",重庆卫视
 http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="陕西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",陕西卫视
 https://iptv.gstory.cn/Cinetry/738910838
 #EXTINF:-1 tvg-name="陕西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",陕西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000007495&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="陕西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",陕西卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000006000040017&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="陕西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",陕西卫视
-http://123.191.28.178:7788/738910838
-#EXTINF:-1 tvg-name="陕西卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",陕西卫视
 http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="青海卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",青海卫视
 https://iptv.gstory.cn/Cinetry/947472506
 #EXTINF:-1 tvg-name="青海卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",青海卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000013359&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="青海卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",青海卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040015&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="青海卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",青海卫视
-http://123.191.28.178:7788/947472506
-#EXTINF:-1 tvg-name="青海卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",青海卫视
 http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="香港卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",香港卫视
 https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",黑龙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000001925&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",黑龙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000031107&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",黑龙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000025203&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",黑龙江卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="香港卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",香港卫视
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",黑龙江卫视
 https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",黑龙江卫视
 http://61.184.46.85:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="" tvg-logo="" group-title="卫视剧场",黑龙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-id="" tvg-logo="" group-title="新闻资讯",上海新闻综合
-http://123.191.28.178:7788/651632657
 #EXTINF:-1 tvg-name="中天新闻" tvg-id="" tvg-logo="" group-title="新闻资讯",中天新闻
 https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
 #EXTINF:-1 tvg-name="中视新闻" tvg-id="" tvg-logo="" group-title="新闻资讯",中视新闻
 http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1 tvg-name="公共新闻" tvg-id="" tvg-logo="" group-title="新闻资讯",公共新闻
-http://123.191.28.178:7788/626064693
 #EXTINF:-1 tvg-name="华视新闻" tvg-id="" tvg-logo="" group-title="新闻资讯",华视新闻
 http://74.91.26.218:82/live/ctsnews.m3u8
-#EXTINF:-1 tvg-name="南京新闻综合" tvg-id="" tvg-logo="" group-title="新闻资讯",南京新闻综合
-http://123.191.28.178:7788/838109047
-#EXTINF:-1 tvg-name="南通新闻综合" tvg-id="" tvg-logo="" group-title="新闻资讯",南通新闻综合
-http://123.191.28.178:7788/955227985
 #EXTINF:-1 tvg-name="台视新闻" tvg-id="" tvg-logo="" group-title="新闻资讯",台视新闻
 http://74.91.26.218:82/live/ttvnews.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-id="" tvg-logo="" group-title="新闻资讯",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="宜兴新闻综合" tvg-id="" tvg-logo="" group-title="新闻资讯",宜兴新闻综合
-http://123.191.28.178:7788/955227996
-#EXTINF:-1 tvg-name="宿迁新闻综合" tvg-id="" tvg-logo="" group-title="新闻资讯",宿迁新闻综合
-http://123.191.28.178:7788/639731832
-#EXTINF:-1 tvg-name="徐州新闻综合" tvg-id="" tvg-logo="" group-title="新闻资讯",徐州新闻综合
-http://123.191.28.178:7788/639731747
 #EXTINF:-1 tvg-name="无线新闻" tvg-id="" tvg-logo="" group-title="新闻资讯",无线新闻
 http://74.91.26.218:82/live/inews.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-id="" tvg-logo="" group-title="新闻资讯",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-id="" tvg-logo="" group-title="新闻资讯",民视新闻
 http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 tvg-name="江阴新闻综合" tvg-id="" tvg-logo="" group-title="新闻资讯",江阴新闻综合
-http://123.191.28.178:7788/955227979
-#EXTINF:-1 tvg-name="泰州新闻综合" tvg-id="" tvg-logo="" group-title="新闻资讯",泰州新闻综合
-http://123.191.28.178:7788/639731818
-#EXTINF:-1 tvg-name="淮安新闻综合" tvg-id="" tvg-logo="" group-title="新闻资讯",淮安新闻综合
-http://123.191.28.178:7788/639731826
-#EXTINF:-1 tvg-name="溧水新闻综合" tvg-id="" tvg-logo="" group-title="新闻资讯",溧水新闻综合
-http://123.191.28.178:7788/639737327
-#EXTINF:-1 tvg-name="盐城新闻综合" tvg-id="" tvg-logo="" group-title="新闻资讯",盐城新闻综合
-http://123.191.28.178:7788/639731825
 #EXTINF:-1 tvg-name="荆州新闻" tvg-id="" tvg-logo="" group-title="新闻资讯",荆州新闻
 http://61.184.46.85:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="连云港新闻综合" tvg-id="" tvg-logo="" group-title="新闻资讯",连云港新闻综合
-http://123.191.28.178:7788/639731715
-#EXTINF:-1 tvg-name="镇江新闻综合" tvg-id="" tvg-logo="" group-title="新闻资讯",镇江新闻综合
-http://123.191.28.178:7788/639731783
 #EXTINF:-1 tvg-name="镜新闻" tvg-id="" tvg-logo="" group-title="新闻资讯",镜新闻
 https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-id="" tvg-logo="" group-title="新闻资讯",陕西新闻资讯
-http://123.191.28.178:7788/956909289
 #EXTINF:-1 tvg-name="非凡新闻" tvg-id="" tvg-logo="" group-title="新闻资讯",非凡新闻
 http://iptv.4666888.xyz/iptv2A.php?id=44
 #EXTINF:-1 tvg-name="非凡新闻" tvg-id="" tvg-logo="" group-title="新闻资讯",非凡新闻
 rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 tvg-name="24×7音乐" tvg-id="" tvg-logo="" group-title="戏曲文艺",24×7音乐
 https://isus.cc/php/huya.php?id=30483433
-#EXTINF:-1 tvg-name="BesTV戏曲" tvg-id="" tvg-logo="" group-title="戏曲文艺",BesTV戏曲
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288012&livemode=1&stbId=yu&mode=1&$8M
 #EXTINF:-1 tvg-name="下饭音乐" tvg-id="" tvg-logo="" group-title="戏曲文艺",下饭音乐
 http://222.186.39.21:35466/douyu/8661966
 #EXTINF:-1 tvg-name="动漫音乐专场" tvg-id="" tvg-logo="" group-title="戏曲文艺",动漫音乐专场
@@ -995,16 +519,8 @@ https://isus.cc/php/huya.php?id=23860057
 http://222.186.39.21:35466/douyu/8666105
 #EXTINF:-1 tvg-name="黑糖音乐秀" tvg-id="" tvg-logo="" group-title="戏曲文艺",黑糖音乐秀
 http://222.186.39.21:35466/douyu/9560563
-#EXTINF:-1 tvg-name="BesTV宝宝动画" tvg-id="" tvg-logo="" group-title="少儿动漫",BesTV宝宝动画
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288002&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV青春动漫" tvg-id="" tvg-logo="" group-title="少儿动漫",BesTV青春动漫
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288008&livemode=1&stbId=yu&mode=1&$8M
 #EXTINF:-1 tvg-name="优漫卡通" tvg-id="" tvg-logo="" group-title="少儿动漫",优漫卡通
 https://iptv.gstory.cn/Cinetry/626064703
-#EXTINF:-1 tvg-name="优漫卡通" tvg-id="" tvg-logo="" group-title="少儿动漫",优漫卡通
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000010063&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="优漫卡通" tvg-id="" tvg-logo="" group-title="少儿动漫",优漫卡通
-http://123.191.28.178:7788/626064703
 #EXTINF:-1 tvg-name="动漫秀场" tvg-id="" tvg-logo="" group-title="少儿动漫",动漫秀场
 http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="动漫秀场" tvg-id="" tvg-logo="" group-title="少儿动漫",动漫秀场
@@ -1014,27 +530,15 @@ http://222.186.39.21:35466/douyu/9742136
 #EXTINF:-1 tvg-name="动画片系列" tvg-id="" tvg-logo="" group-title="少儿动漫",动画片系列
 https://isus.cc/php/huya.php?id=11352878
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-id="" tvg-logo="" group-title="少儿动漫",卡酷少儿
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7851974109718180595&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="" tvg-logo="" group-title="少儿动漫",卡酷少儿
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7589856436881630561&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="" tvg-logo="" group-title="少儿动漫",卡酷少儿
 http://61.184.46.85:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="" tvg-logo="" group-title="少儿动漫",嘉佳卡通
 https://iptv.gstory.cn/Cinetry/614952364
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="" tvg-logo="" group-title="少儿动漫",嘉佳卡通
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4739906347743456369&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="" tvg-logo="" group-title="少儿动漫",嘉佳卡通
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000025964&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="" tvg-logo="" group-title="少儿动漫",嘉佳卡通
-http://123.191.28.178:7788/614952364
 #EXTINF:-1 tvg-name="国产动漫系列" tvg-id="" tvg-logo="" group-title="少儿动漫",国产动漫系列
 https://isus.cc/php/huya.php?id=11352869
 #EXTINF:-1 tvg-name="开心锤锤动漫" tvg-id="" tvg-logo="" group-title="少儿动漫",开心锤锤动漫
 http://222.186.39.21:35466/douyu/9018297
 #EXTINF:-1 tvg-name="新动漫" tvg-id="" tvg-logo="" group-title="少儿动漫",新动漫
 https://iptv.gstory.cn/Cinetry/961930269
-#EXTINF:-1 tvg-name="新动漫" tvg-id="" tvg-logo="" group-title="少儿动漫",新动漫
-http://123.191.28.178:7788/961930269
 #EXTINF:-1 tvg-name="浙江少儿" tvg-id="" tvg-logo="" group-title="少儿动漫",浙江少儿
 http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 #EXTINF:-1 tvg-name="海南少儿" tvg-id="" tvg-logo="" group-title="少儿动漫",海南少儿
@@ -1045,46 +549,28 @@ https://isus.cc/php/huya.php?id=25243852
 http://222.186.39.21:35466/douyu/10351891
 #EXTINF:-1 tvg-name="经典动画" tvg-id="" tvg-logo="" group-title="少儿动漫",经典动画
 https://iptv.gstory.cn/Cinetry/629942219
-#EXTINF:-1 tvg-name="经典动画大集合" tvg-id="" tvg-logo="" group-title="少儿动漫",经典动画大集合
-http://123.191.28.178:7788/629942219
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-id="" tvg-logo="" group-title="少儿动漫",金鹰卡通
 http://8.138.7.223/tv/mgtv.php?id=287
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-id="" tvg-logo="" group-title="少儿动漫",金鹰卡通
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000016601&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="" tvg-logo="" group-title="少儿动漫",金鹰卡通
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040024&livemode=1&stbId=yu&mode=1&$4M
+http://61.184.46.85:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-id="" tvg-logo="" group-title="少儿动漫",金鹰卡通
 http://183.237.95.108:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="" tvg-logo="" group-title="少儿动漫",金鹰卡通
-http://61.184.46.85:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="黑莓动画" tvg-id="" tvg-logo="" group-title="少儿动漫",黑莓动画
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6497762188035533951&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="黑莓动画" tvg-id="" tvg-logo="" group-title="少儿动漫",黑莓动画
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000021734&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="1905环球经典" tvg-id="" tvg-logo="" group-title="影视娱乐",1905环球经典
 http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
 #EXTINF:-1 tvg-name="1905电影网" tvg-id="" tvg-logo="" group-title="影视娱乐",1905电影网
 http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
-#EXTINF:-1 tvg-name="BesTV华语影院" tvg-id="" tvg-logo="" group-title="影视娱乐",BesTV华语影院
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288005&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV星光影院" tvg-id="" tvg-logo="" group-title="影视娱乐",BesTV星光影院
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288013&livemode=1&stbId=yu&mode=1&$8M
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="" tvg-logo="" group-title="影视娱乐",CHC动作电影
 https://iptv.gstory.cn/Cinetry/644368714
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-id="" tvg-logo="" group-title="影视娱乐",CHC动作电影
-http://123.191.28.178:7788/644368714
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-id="" tvg-logo="" group-title="影视娱乐",CHC动作电影
-http://go.bkpcp.top/mg/dzdy
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="" tvg-logo="" group-title="影视娱乐",CHC动作电影
 http://61.184.46.85:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="" tvg-logo="" group-title="影视娱乐",CHC动作电影
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-id="" tvg-logo="" group-title="影视娱乐",CHC动作电影
+http://go.bkpcp.top/mg/dzdy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-logo="" group-title="影视娱乐",CHC家庭影院
 https://iptv.gstory.cn/Cinetry/644368373
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-logo="" group-title="影视娱乐",CHC家庭影院
 http://27.41.245.32:801/hls/905/index.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-logo="" group-title="影视娱乐",CHC家庭影院
-http://123.191.28.178:7788/644368373
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-logo="" group-title="影视娱乐",CHC家庭影院
 http://go.bkpcp.top/mg/jtyy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-logo="" group-title="影视娱乐",CHC家庭影院
@@ -1094,31 +580,9 @@ http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="" tvg-logo="" group-title="影视娱乐",CHC影迷电影
 https://iptv.gstory.cn/Cinetry/952383261
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="" tvg-logo="" group-title="影视娱乐",CHC影迷电影
-http://123.191.28.178:7788/952383261
+http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="" tvg-logo="" group-title="影视娱乐",CHC影迷电影
 http://go.bkpcp.top/mg/ymdy
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="" tvg-logo="" group-title="影视娱乐",CHC影迷电影
-http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-id="" tvg-logo="" group-title="影视娱乐",NewTV动作电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000018653&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-id="" tvg-logo="" group-title="影视娱乐",NewTV动作电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8103864434730665389&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV超级电影" tvg-id="" tvg-logo="" group-title="影视娱乐",NewTV超级电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000012884&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV超级电影" tvg-id="" tvg-logo="" group-title="影视娱乐",NewTV超级电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000003000012426&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="NewTV超级电影" tvg-id="" tvg-logo="" group-title="影视娱乐",NewTV超级电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000002120&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-id="" tvg-logo="" group-title="影视娱乐",NewTV超级综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000025771&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-id="" tvg-logo="" group-title="影视娱乐",NewTV超级综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000023658&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-id="" tvg-logo="" group-title="影视娱乐",NewTV超级综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000268002&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-id="" tvg-logo="" group-title="影视娱乐",NewTV金牌综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000026167&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-id="" tvg-logo="" group-title="影视娱乐",NewTV金牌综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6399725674632152632&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="华数电影" tvg-id="" tvg-logo="" group-title="影视娱乐",华数电影
 http://hmfs.f3322.net:3388/hls/40/index.m3u8
 #EXTINF:-1 tvg-name="吾聊电影" tvg-id="" tvg-logo="" group-title="影视娱乐",吾聊电影
@@ -1133,16 +597,12 @@ https://isus.cc/php/huya.php?id=16028551
 https://isus.cc/php/huya.php?id=29833341
 #EXTINF:-1 tvg-name="最强综艺趴" tvg-id="" tvg-logo="" group-title="影视娱乐",最强综艺趴
 https://iptv.gstory.cn/Cinetry/629942228
-#EXTINF:-1 tvg-name="最强综艺趴" tvg-id="" tvg-logo="" group-title="影视娱乐",最强综艺趴
-http://123.191.28.178:7788/629942228
 #EXTINF:-1 tvg-name="最长的电影" tvg-id="" tvg-logo="" group-title="影视娱乐",最长的电影
 https://cfss.cc/api/kg/756444.mp4
 #EXTINF:-1 tvg-name="欧美综艺" tvg-id="" tvg-logo="" group-title="影视娱乐",欧美综艺
 https://isus.cc/php/huya.php?id=20969124
 #EXTINF:-1 tvg-name="止戈电影" tvg-id="" tvg-logo="" group-title="影视娱乐",止戈电影
 https://isus.cc/php/huya.php?id=19863777
-#EXTINF:-1 tvg-name="江苏综艺" tvg-id="" tvg-logo="" group-title="影视娱乐",江苏综艺
-http://123.191.28.178:7788/626065193
 #EXTINF:-1 tvg-name="澳门综艺" tvg-id="" tvg-logo="" group-title="影视娱乐",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 tvg-name="生命电影" tvg-id="" tvg-logo="" group-title="影视娱乐",生命电影
@@ -1153,8 +613,6 @@ https://isus.cc/php/huya.php?id=11774959
 https://isus.cc/php/huya.php?id=18715610
 #EXTINF:-1 tvg-name="经典香港电影" tvg-id="" tvg-logo="" group-title="影视娱乐",经典香港电影
 https://iptv.gstory.cn/Cinetry/625703337
-#EXTINF:-1 tvg-name="经典香港电影" tvg-id="" tvg-logo="" group-title="影视娱乐",经典香港电影
-http://123.191.28.178:7788/625703337
 #EXTINF:-1 tvg-name="老巴电影" tvg-id="" tvg-logo="" group-title="影视娱乐",老巴电影
 https://isus.cc/php/huya.php?id=29340502
 #EXTINF:-1 tvg-name="邵氏电影" tvg-id="" tvg-logo="" group-title="影视娱乐",邵氏电影
@@ -1163,44 +621,18 @@ http://feilong123.vip/409990236/tv.php?id=ssdy
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="韩国综艺" tvg-id="" tvg-logo="" group-title="影视娱乐",韩国综艺
 https://isus.cc/php/huya.php?id=11336725
-#EXTINF:-1 tvg-name="黑莓电影" tvg-id="" tvg-logo="" group-title="影视娱乐",黑莓电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000019624&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="黑莓电影" tvg-id="" tvg-logo="" group-title="影视娱乐",黑莓电影
-http://gslbserv.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7951969344461621383
-#EXTINF:-1 tvg-name="黑莓电影" tvg-id="" tvg-logo="" group-title="影视娱乐",黑莓电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8785669936177902664&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="BesTV健康养生" tvg-id="" tvg-logo="" group-title="生活健康",BesTV健康养生
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288006&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV怡伴健康" tvg-id="" tvg-logo="" group-title="生活健康",BesTV怡伴健康
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7820874641606664941&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="CEC国际健康" tvg-id="" tvg-logo="" group-title="生活健康",CEC国际健康
 http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 #EXTINF:-1 tvg-name="CEC国际旅游" tvg-id="" tvg-logo="" group-title="生活健康",CEC国际旅游
 http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-#EXTINF:-1 tvg-name="NewTV农业致富" tvg-id="" tvg-logo="" group-title="生活健康",NewTV农业致富
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6193684637634073625&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-id="" tvg-logo="" group-title="生活健康",四海钓鱼
 https://iptv.gstory.cn/Cinetry/637444975
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-id="" tvg-logo="" group-title="生活健康",四海钓鱼
-http://123.191.28.178:7788/637444975
 #EXTINF:-1 tvg-name="湖北生活" tvg-id="" tvg-logo="" group-title="生活健康",湖北生活
 http://61.184.46.85:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="环球旅游" tvg-id="" tvg-logo="" group-title="生活健康",环球旅游
 https://iptv.gstory.cn/Cinetry/958475356
-#EXTINF:-1 tvg-name="环球旅游" tvg-id="" tvg-logo="" group-title="生活健康",环球旅游
-http://123.191.28.178:7788/958475356
-#EXTINF:-1 tvg-name="辽宁广播电视台生活" tvg-id="" tvg-logo="" group-title="生活健康",辽宁广播电视台生活
-http://123.191.28.178:7788/962045226
 #EXTINF:-1 tvg-name="钓鱼欧尼" tvg-id="" tvg-logo="" group-title="生活健康",钓鱼欧尼
 http://222.186.39.21:35466/douyu/10616765
-#EXTINF:-1 tvg-name="BesTV睛彩广场舞" tvg-id="" tvg-logo="" group-title="休闲体育",BesTV睛彩广场舞
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270003&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV睛彩广场舞" tvg-id="" tvg-logo="" group-title="休闲体育",BesTV睛彩广场舞
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV睛彩广场舞" tvg-id="" tvg-logo="" group-title="休闲体育",BesTV睛彩广场舞
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV睛彩广场舞" tvg-id="" tvg-logo="" group-title="休闲体育",BesTV睛彩广场舞
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270005&livemode=1&stbId=yu&mode=1&$8M
 #EXTINF:-1 tvg-name="你的瑜伽女孩" tvg-id="" tvg-logo="" group-title="休闲体育",你的瑜伽女孩
 http://222.186.39.21:35466/douyu/10205199
 #EXTINF:-1 tvg-name="健身专场" tvg-id="" tvg-logo="" group-title="休闲体育",健身专场
@@ -1209,8 +641,6 @@ https://isus.cc/php/huya.php?id=24354754
 https://iptv.gstory.cn/Cinetry/961930263
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="" tvg-logo="" group-title="休闲体育",快乐垂钓
 http://8.138.7.223/tv/mgtv.php?id=218
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="" tvg-logo="" group-title="休闲体育",快乐垂钓
-http://123.191.28.178:7788/961930263
 #EXTINF:-1 tvg-name="手游/JJ斗地主专场" tvg-id="" tvg-logo="" group-title="休闲体育",手游/JJ斗地主专场
 https://isus.cc/php/huya.php?id=30814433
 #EXTINF:-1 tvg-name="手游/欢乐斗地主专场" tvg-id="" tvg-logo="" group-title="休闲体育",手游/欢乐斗地主专场
@@ -1219,8 +649,6 @@ https://isus.cc/php/huya.php?id=21103928
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523
 #EXTINF:-1 tvg-name="武术世界" tvg-id="" tvg-logo="" group-title="休闲体育",武术世界
 https://iptv.gstory.cn/Cinetry/958475359
-#EXTINF:-1 tvg-name="武术世界" tvg-id="" tvg-logo="" group-title="休闲体育",武术世界
-http://123.191.28.178:7788/958475359
 #EXTINF:-1 tvg-name="瑜伽专场" tvg-id="" tvg-logo="" group-title="休闲体育",瑜伽专场
 https://isus.cc/php/huya.php?id=20753449
 #EXTINF:-1 tvg-name="花花努力健身中" tvg-id="" tvg-logo="" group-title="休闲体育",花花努力健身中
@@ -1267,40 +695,6 @@ https://o11.163189.xyz/stream/live/aec/
 https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-name="Astro酷哒哒" tvg-id="" tvg-logo="" group-title="其他综合",Astro酷哒哒
 https://o11.163189.xyz/stream/live/test/
-#EXTINF:-1 tvg-name="BesTV中国天气" tvg-id="" tvg-logo="" group-title="其他综合",BesTV中国天气
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000005000031974&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="BesTV全球大片" tvg-id="" tvg-logo="" group-title="其他综合",BesTV全球大片
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288009&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV家庭理财" tvg-id="" tvg-logo="" group-title="其他综合",BesTV家庭理财
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031210&livemode=1&stbId=toShengfen&mode=1&$2M-bestzb
-#EXTINF:-1 tvg-name="BesTV武搏世界" tvg-id="" tvg-logo="" group-title="其他综合",BesTV武搏世界
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=bokesen&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="BesTV热门剧场" tvg-id="" tvg-logo="" group-title="其他综合",BesTV热门剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288010&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV电竞天堂" tvg-id="" tvg-logo="" group-title="其他综合",BesTV电竞天堂
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288003&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV看天下" tvg-id="" tvg-logo="" group-title="其他综合",BesTV看天下
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288007&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV睛彩竞技" tvg-id="" tvg-logo="" group-title="其他综合",BesTV睛彩竞技
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV睛彩竞技" tvg-id="" tvg-logo="" group-title="其他综合",BesTV睛彩竞技
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270001&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV睛彩篮球" tvg-id="" tvg-logo="" group-title="其他综合",BesTV睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270006&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV睛彩篮球" tvg-id="" tvg-logo="" group-title="其他综合",BesTV睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV睛彩篮球" tvg-id="" tvg-logo="" group-title="其他综合",BesTV睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000270002&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV睛彩青少" tvg-id="" tvg-logo="" group-title="其他综合",BesTV睛彩青少
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV睛彩青少" tvg-id="" tvg-logo="" group-title="其他综合",BesTV睛彩青少
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV纯享" tvg-id="" tvg-logo="" group-title="其他综合",BesTV纯享
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000011651&livemode=1&stbId=yu&mode=1&$16M
-#EXTINF:-1 tvg-name="BesTV谍战剧场" tvg-id="" tvg-logo="" group-title="其他综合",BesTV谍战剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288004&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="BesTV财富天下" tvg-id="" tvg-logo="" group-title="其他综合",BesTV财富天下
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000011&livemode=1&stbId=toShengfen&mode=1&$8M-hnbblive
 #EXTINF:-1 tvg-name="Beyond精选40首(3小时)" tvg-id="" tvg-logo="" group-title="其他综合",Beyond精选40首(3小时)
 https://txmov2.a.kwimgs.com/upic/2024/01/24/14/BMjAyNDAxMjQxNDQxMjZfODI4NTk1NTQ0XzEyMzAwNzQ1MTk1Ml8yXzM=_b_Bf4811084a61390aced44f1c86a2ebddf.mp4
 #EXTINF:-1 tvg-name="Big3专场" tvg-id="" tvg-logo="" group-title="其他综合",Big3专场
@@ -1321,34 +715,10 @@ http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CETV1" tvg-id="" tvg-logo="" group-title="其他综合",CETV1
 https://iptv.gstory.cn/Cinetry/923287154
-#EXTINF:-1 tvg-name="CETV1" tvg-id="" tvg-logo="" group-title="其他综合",CETV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288015&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CETV1" tvg-id="" tvg-logo="" group-title="其他综合",CETV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000002652&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CETV1" tvg-id="" tvg-logo="" group-title="其他综合",CETV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000027253&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CETV1" tvg-id="" tvg-logo="" group-title="其他综合",CETV1
-http://123.191.28.178:7788/923287154
 #EXTINF:-1 tvg-name="CETV2" tvg-id="" tvg-logo="" group-title="其他综合",CETV2
 https://iptv.gstory.cn/Cinetry/923287211
-#EXTINF:-1 tvg-name="CETV2" tvg-id="" tvg-logo="" group-title="其他综合",CETV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288017&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CETV2" tvg-id="" tvg-logo="" group-title="其他综合",CETV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031201&livemode=1&stbId=yu&mode=1&$3M
-#EXTINF:-1 tvg-name="CETV2" tvg-id="" tvg-logo="" group-title="其他综合",CETV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266004&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CETV2" tvg-id="" tvg-logo="" group-title="其他综合",CETV2
-http://123.191.28.178:7788/923287211
 #EXTINF:-1 tvg-name="CETV4" tvg-id="" tvg-logo="" group-title="其他综合",CETV4
 https://iptv.gstory.cn/Cinetry/923287339
-#EXTINF:-1 tvg-name="CETV4" tvg-id="" tvg-logo="" group-title="其他综合",CETV4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000012123&livemode=1&stbId=yu&mode=1&$3M
-#EXTINF:-1 tvg-name="CETV4" tvg-id="" tvg-logo="" group-title="其他综合",CETV4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031126&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CETV4" tvg-id="" tvg-logo="" group-title="其他综合",CETV4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000025333&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CETV4" tvg-id="" tvg-logo="" group-title="其他综合",CETV4
-http://123.191.28.178:7788/923287339
 #EXTINF:-1 tvg-name="CH5" tvg-id="" tvg-logo="" group-title="其他综合",CH5
 http://cdn6.163189.xyz/163189/ch5
 #EXTINF:-1 tvg-name="CH8" tvg-id="" tvg-logo="" group-title="其他综合",CH8
@@ -1366,9 +736,9 @@ https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch
 #EXTINF:-1 tvg-name="GOOD2" tvg-id="" tvg-logo="" group-title="其他综合",GOOD2
 http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="GOODTV" tvg-id="" tvg-logo="" group-title="其他综合",GOODTV
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-#EXTINF:-1 tvg-name="GOODTV" tvg-id="" tvg-logo="" group-title="其他综合",GOODTV
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-id="" tvg-logo="" group-title="其他综合",GOODTV
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1 tvg-name="GOODTV好消息" tvg-id="" tvg-logo="" group-title="其他综合",GOODTV好消息
 http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="HOY76" tvg-id="" tvg-logo="" group-title="其他综合",HOY76
@@ -1403,74 +773,26 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&e
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
 #EXTINF:-1 tvg-name="NOW体育7" tvg-id="" tvg-logo="" group-title="其他综合",NOW体育7
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
-#EXTINF:-1 tvg-name="NewTV东北热剧" tvg-id="" tvg-logo="" group-title="其他综合",NewTV东北热剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266013&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-id="" tvg-logo="" group-title="其他综合",NewTV中国功夫
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5897056882324761054&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="NewTV传奇剧场" tvg-id="" tvg-logo="" group-title="其他综合",NewTV传奇剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
-#EXTINF:-1 tvg-name="NewTV军事评论" tvg-id="" tvg-logo="" group-title="其他综合",NewTV军事评论
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5822616274253344775&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-id="" tvg-logo="" group-title="其他综合",NewTV军旅剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7485075951068666323&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-id="" tvg-logo="" group-title="其他综合",NewTV军旅剧场
-http://gslbserv.itv.cmvideo.cn:80/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7485075951068666323&owchid=ystenlive&owsid=7951969344461285239
 #EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-id="" tvg-logo="" group-title="其他综合",NewTV军旅剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
 #EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-id="" tvg-logo="" group-title="其他综合",NewTV军旅剧场
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010079
 #EXTINF:-1 tvg-name="NewTV古装剧场" tvg-id="" tvg-logo="" group-title="其他综合",NewTV古装剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6859053933687922163&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-id="" tvg-logo="" group-title="其他综合",NewTV古装剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 #EXTINF:-1 tvg-name="NewTV大家剧场" tvg-id="" tvg-logo="" group-title="其他综合",NewTV大家剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-id="" tvg-logo="" group-title="其他综合",NewTV家庭剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000008284&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-id="" tvg-logo="" group-title="其他综合",NewTV家庭剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6316377948248689070&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-id="" tvg-logo="" group-title="其他综合",NewTV家庭剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-id="" tvg-logo="" group-title="其他综合",NewTV惊悚悬疑
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000024282&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-id="" tvg-logo="" group-title="其他综合",NewTV惊悚悬疑
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7151256057701199617&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="NewTV搜狐视频" tvg-id="" tvg-logo="" group-title="其他综合",NewTV搜狐视频
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 #EXTINF:-1 tvg-name="NewTV搞笑剧场" tvg-id="" tvg-logo="" group-title="其他综合",NewTV搞笑剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-id="" tvg-logo="" group-title="其他综合",NewTV明星大片
-http://gslbserv.itv.cmvideo.cn:80/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=7951969344461437044
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-id="" tvg-logo="" group-title="其他综合",NewTV明星大片
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000019008&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-id="" tvg-logo="" group-title="其他综合",NewTV欢乐剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266012&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="NewTV泰语剧场" tvg-id="" tvg-logo="" group-title="其他综合",NewTV泰语剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-id="" tvg-logo="" group-title="其他综合",NewTV潮妈辣婆
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6516734029835465177&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-id="" tvg-logo="" group-title="其他综合",NewTV炫舞未来
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000000515&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="NewTV爱情剧场" tvg-id="" tvg-logo="" group-title="其他综合",NewTV爱情剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-id="" tvg-logo="" group-title="其他综合",NewTV爱情喜剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8393829412396288037&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV精品体育" tvg-id="" tvg-logo="" group-title="其他综合",NewTV精品体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000014634&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV精品体育" tvg-id="" tvg-logo="" group-title="其他综合",NewTV精品体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6460382139625130259&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-id="" tvg-logo="" group-title="其他综合",NewTV精品大剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7882297361445410858&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-id="" tvg-logo="" group-title="其他综合",NewTV精品大剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000013968&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV精品记录" tvg-id="" tvg-logo="" group-title="其他综合",NewTV精品记录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6298506997017621594&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-id="" tvg-logo="" group-title="其他综合",NewTV超级电视剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000008139&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-id="" tvg-logo="" group-title="其他综合",NewTV超级电视剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000024993&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-id="" tvg-logo="" group-title="其他综合",NewTV超级电视剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000268003&livemode=1&stbId=yu&mode=1&$8M
 #EXTINF:-1 tvg-name="OK甜甜" tvg-id="" tvg-logo="" group-title="其他综合",OK甜甜
 https://videodowntx.9xiuzb.com/9xiu/124209737.m3u8
 #EXTINF:-1 tvg-name="POPC" tvg-id="" tvg-logo="" group-title="其他综合",POPC
@@ -1551,10 +873,6 @@ https://rvsh.jtw.sh.gov.cn/live/200120a4-3d7c-4a7d-82dc-71fdfef3e045_sub/index.m
 https://cfss.cc/api/kg/598114.mp4
 #EXTINF:-1 tvg-name="上海临港大道东大公路" tvg-id="" tvg-logo="" group-title="其他综合",上海临港大道东大公路
 https://rvsh.jtw.sh.gov.cn/live/310120a4-3d7c-4a7d-82dc-71fde233e060_sub/index.m3u8?t=1902119782&k=e5d9cad0fb4bde78
-#EXTINF:-1 tvg-name="上海第一财经" tvg-id="" tvg-logo="" group-title="其他综合",上海第一财经
-http://123.191.28.178:7788/608780988
-#EXTINF:-1 tvg-name="上视东方影视" tvg-id="" tvg-logo="" group-title="其他综合",上视东方影视
-http://123.191.28.178:7788/617290047
 #EXTINF:-1 tvg-name="不思异剧场" tvg-id="" tvg-logo="" group-title="其他综合",不思异剧场
 http://222.186.39.21:35466/douyu/9297412
 #EXTINF:-1 tvg-name="不能说的秘密" tvg-id="" tvg-logo="" group-title="其他综合",不能说的秘密
@@ -1575,12 +893,8 @@ https://cfss.cc/api/kg/158899.mp4
 https://isus.cc/php/huya.php?id=24314160
 #EXTINF:-1 tvg-name="中华特产" tvg-id="" tvg-logo="" group-title="其他综合",中华特产
 https://iptv.gstory.cn/Cinetry/959986618
-#EXTINF:-1 tvg-name="中华特产" tvg-id="" tvg-logo="" group-title="其他综合",中华特产
-http://123.191.28.178:7788/959986618
 #EXTINF:-1 tvg-name="中国天气" tvg-id="" tvg-logo="" group-title="其他综合",中国天气
 https://iptv.gstory.cn/Cinetry/959986621
-#EXTINF:-1 tvg-name="中国天气" tvg-id="" tvg-logo="" group-title="其他综合",中国天气
-http://123.191.28.178:7788/959986621
 #EXTINF:-1 tvg-name="中国通史" tvg-id="" tvg-logo="" group-title="其他综合",中国通史
 https://isus.cc/php/huya.php?id=20985822
 #EXTINF:-1 tvg-name="中央新影-发现之旅" tvg-id="" tvg-logo="" group-title="其他综合",中央新影-发现之旅
@@ -1589,8 +903,6 @@ http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="中学生" tvg-id="" tvg-logo="" group-title="其他综合",中学生
 https://iptv.gstory.cn/Cinetry/708869532
-#EXTINF:-1 tvg-name="中学生" tvg-id="" tvg-logo="" group-title="其他综合",中学生
-http://123.191.28.178:7788/708869532
 #EXTINF:-1 tvg-name="中文DJ舞曲点播" tvg-id="" tvg-logo="" group-title="其他综合",中文DJ舞曲点播
 https://txmov2.a.kwimgs.com/bs3/video-hls/5225020119572067546_hlsb.m3u8
 #EXTINF:-1 tvg-name="中旺电视" tvg-id="" tvg-logo="" group-title="其他综合",中旺电视
@@ -1639,8 +951,6 @@ https://cfss.cc/api/kg/758240.mp4
 https://txmov2.a.kwimgs.com/upic/2020/09/23/14/BMjAyMDA5MjMxNDA1MjFfMTc4NDYxNDcyNl8zNjQ5NDI4NzI1Nl8yXzM=_b_B0f6d5151ab2c346816996328a0b66b78.mp4
 #EXTINF:-1 tvg-name="任贤齐精选36首(2小时)" tvg-id="" tvg-logo="" group-title="其他综合",任贤齐精选36首(2小时)
 https://txmov2.a.kwimgs.com/bs3/video-hls/5254012023525680703_hlsb.m3u8
-#EXTINF:-1 tvg-name="体育休闲" tvg-id="" tvg-logo="" group-title="其他综合",体育休闲
-http://123.191.28.178:7788/626064707
 #EXTINF:-1 tvg-name="体育片系列" tvg-id="" tvg-logo="" group-title="其他综合",体育片系列
 https://isus.cc/php/huya.php?id=23864480
 #EXTINF:-1 tvg-name="你听得到" tvg-id="" tvg-logo="" group-title="其他综合",你听得到
@@ -1702,9 +1012,9 @@ https://isus.cc/php/huya.php?id=30805945
 #EXTINF:-1 tvg-name="冰糖葫芦没放盐V" tvg-id="" tvg-logo="" group-title="其他综合",冰糖葫芦没放盐V
 http://222.186.39.21:35466/douyu/3505453
 #EXTINF:-1 tvg-name="分裂" tvg-id="" tvg-logo="" group-title="其他综合",分裂
-https://alimov2.a.kwimgs.com/upic/2024/10/09/09/BMjAyNDEwMDkwOTA4NDFfMTMxNzAwMDUwNV8xNDU2Nzg0MDk5MDdfMl8z_b_Bf4bc983e2d5804ab066c988ba7652ec5.mp4
-#EXTINF:-1 tvg-name="分裂" tvg-id="" tvg-logo="" group-title="其他综合",分裂
 https://cfss.cc/api/kg/758257.mp4
+#EXTINF:-1 tvg-name="分裂" tvg-id="" tvg-logo="" group-title="其他综合",分裂
+https://alimov2.a.kwimgs.com/upic/2024/10/09/09/BMjAyNDEwMDkwOTA4NDFfMTMxNzAwMDUwNV8xNDU2Nzg0MDk5MDdfMl8z_b_Bf4bc983e2d5804ab066c988ba7652ec5.mp4
 #EXTINF:-1 tvg-name="刑事侦缉档案" tvg-id="" tvg-logo="" group-title="其他综合",刑事侦缉档案
 https://isus.cc/php/huya.php?id=29465856
 #EXTINF:-1 tvg-name="刑侦剧专区" tvg-id="" tvg-logo="" group-title="其他综合",刑侦剧专区
@@ -1741,6 +1051,8 @@ https://cfss.cc/api/kg/34453.mp4
 https://cfss.cc/api/kg/608135.mp4
 #EXTINF:-1 tvg-name="华视" tvg-id="" tvg-logo="" group-title="其他综合",华视
 http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 tvg-name="华视" tvg-id="" tvg-logo="" group-title="其他综合",华视
+rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-name="华视教育体育文化" tvg-id="" tvg-logo="" group-title="其他综合",华视教育体育文化
 http://74.91.26.218:82/live/ctsjy.m3u8
 #EXTINF:-1 tvg-name="单机/小霸王专场" tvg-id="" tvg-logo="" group-title="其他综合",单机/小霸王专场
@@ -1749,10 +1061,6 @@ https://isus.cc/php/huya.php?id=24723731
 https://isus.cc/php/huya.php?id=667788
 #EXTINF:-1 tvg-name="单机/拳皇专场" tvg-id="" tvg-logo="" group-title="其他综合",单机/拳皇专场
 https://isus.cc/php/huya.php?id=17167271
-#EXTINF:-1 tvg-name="南京十八" tvg-id="" tvg-logo="" group-title="其他综合",南京十八
-http://123.191.28.178:7788/838151753
-#EXTINF:-1 tvg-name="南京教科" tvg-id="" tvg-logo="" group-title="其他综合",南京教科
-http://123.191.28.178:7788/838153729
 #EXTINF:-1 tvg-name="南国都市" tvg-id="" tvg-logo="" group-title="其他综合",南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 tvg-name="南宁影视娱乐" tvg-id="" tvg-logo="" group-title="其他综合",南宁影视娱乐
@@ -1763,8 +1071,6 @@ http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cqfnlknog65p5u0cnn9g&ratio=720p&line=0
 #EXTINF:-1 tvg-name="南方影视" tvg-id="" tvg-logo="" group-title="其他综合",南方影视
 https://iptv.gstory.cn/Cinetry/614961829
-#EXTINF:-1 tvg-name="南方影视" tvg-id="" tvg-logo="" group-title="其他综合",南方影视
-http://123.191.28.178:7788/614961829
 #EXTINF:-1 tvg-name="南西视频" tvg-id="" tvg-logo="" group-title="其他综合",南西视频
 https://isus.cc/php/huya.php?id=16913382
 #EXTINF:-1 tvg-name="印度片系列" tvg-id="" tvg-logo="" group-title="其他综合",印度片系列
@@ -1785,8 +1091,6 @@ https://cfss.cc/api/kg/52705.mp4
 https://cfss.cc/api/kg/2761.mp4
 #EXTINF:-1 tvg-name="发现之旅" tvg-id="" tvg-logo="" group-title="其他综合",发现之旅
 https://iptv.gstory.cn/Cinetry/624878970
-#EXTINF:-1 tvg-name="发现之旅" tvg-id="" tvg-logo="" group-title="其他综合",发现之旅
-http://123.191.28.178:7788/624878970
 #EXTINF:-1 tvg-name="变形计专场" tvg-id="" tvg-logo="" group-title="其他综合",变形计专场
 https://isus.cc/php/huya.php?id=23903164
 #EXTINF:-1 tvg-name="古天乐专场" tvg-id="" tvg-logo="" group-title="其他综合",古天乐专场
@@ -1807,3 +1111,67 @@ https://isus.cc/php/huya.php?id=11342436
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-name="台视" tvg-id="" tvg-logo="" group-title="其他综合",台视
 http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 tvg-name="台视综合" tvg-id="" tvg-logo="" group-title="其他综合",台视综合
+http://iptv.4666888.xyz/iptv2A.php?id=51
+#EXTINF:-1 tvg-name="台视财经" tvg-id="" tvg-logo="" group-title="其他综合",台视财经
+http://74.91.26.218:82/live/ttvcj.m3u8
+#EXTINF:-1 tvg-name="吉他专场" tvg-id="" tvg-logo="" group-title="其他综合",吉他专场
+https://isus.cc/php/huya.php?id=21241765
+#EXTINF:-1 tvg-name="名侦探柯南" tvg-id="" tvg-logo="" group-title="其他综合",名侦探柯南
+https://isus.cc/php/huya.php?id=30080236
+#EXTINF:-1 tvg-name="君陌观影" tvg-id="" tvg-logo="" group-title="其他综合",君陌观影
+https://isus.cc/php/huya.php?id=29420446
+#EXTINF:-1 tvg-name="听妈妈的话" tvg-id="" tvg-logo="" group-title="其他综合",听妈妈的话
+https://cfss.cc/api/kg/578726.mp4
+#EXTINF:-1 tvg-name="听见下雨的声音" tvg-id="" tvg-logo="" group-title="其他综合",听见下雨的声音
+https://cfss.cc/api/kg/174237.mp4
+#EXTINF:-1 tvg-name="吴京专场" tvg-id="" tvg-logo="" group-title="其他综合",吴京专场
+https://isus.cc/php/huya.php?id=11602077
+#EXTINF:-1 tvg-name="吴镇宇专场" tvg-id="" tvg-logo="" group-title="其他综合",吴镇宇专场
+https://isus.cc/php/huya.php?id=23865096
+#EXTINF:-1 tvg-name="告白气球" tvg-id="" tvg-logo="" group-title="其他综合",告白气球
+https://cfss.cc/api/kg/589001.mp4
+#EXTINF:-1 tvg-name="周传雄精选20首(1小时)" tvg-id="" tvg-logo="" group-title="其他综合",周传雄精选20首(1小时)
+https://k0ub7yffy10y9z.djvod.ndcimgs.com/bs3/video-hls/5210101864526740619_hlsb.m3u8
+#EXTINF:-1 tvg-name="周星驰专场" tvg-id="" tvg-logo="" group-title="其他综合",周星驰专场
+https://isus.cc/php/huya.php?id=11336587
+#EXTINF:-1 tvg-name="周杰伦24小时电台抓取" tvg-id="" tvg-logo="" group-title="其他综合",周杰伦24小时电台抓取
+https://stream.zeno.fm/zibntg5gtr7vv
+#EXTINF:-1 tvg-name="周杰伦专场" tvg-id="" tvg-logo="" group-title="其他综合",周杰伦专场
+http://222.186.39.21:35466/douyu/7537296
+#EXTINF:-1 tvg-name="周杰伦精选120首(8小时)" tvg-id="" tvg-logo="" group-title="其他综合",周杰伦精选120首(8小时)
+https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
+#EXTINF:-1 tvg-name="周润发专场" tvg-id="" tvg-logo="" group-title="其他综合",周润发专场
+https://isus.cc/php/huya.php?id=11342387
+#EXTINF:-1 tvg-name="周深精选72首(5小时)" tvg-id="" tvg-logo="" group-title="其他综合",周深精选72首(5小时)
+https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
+#EXTINF:-1 tvg-name="咒术回战" tvg-id="" tvg-logo="" group-title="其他综合",咒术回战
+https://isus.cc/php/huya.php?id=21059561
+#EXTINF:-1 tvg-name="咩咩" tvg-id="" tvg-logo="" group-title="其他综合",咩咩
+https://videodowntx.9xiuzb.com/9xiu/123321837.m3u8
+#EXTINF:-1 tvg-name="咪视界" tvg-id="" tvg-logo="" group-title="其他综合",咪视界
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180
+#EXTINF:-1 tvg-name="咪视界" tvg-id="" tvg-logo="" group-title="其他综合",咪视界
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011522
+#EXTINF:-1 tvg-name="咪视界-2" tvg-id="" tvg-logo="" group-title="其他综合",咪视界-2
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308
+#EXTINF:-1 tvg-name="咪视通-1" tvg-id="" tvg-logo="" group-title="其他综合",咪视通-1
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005969
+#EXTINF:-1 tvg-name="咪视通-10" tvg-id="" tvg-logo="" group-title="其他综合",咪视通-10
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000031494
+#EXTINF:-1 tvg-name="咪视通-11" tvg-id="" tvg-logo="" group-title="其他综合",咪视通-11
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005837
+#EXTINF:-1 tvg-name="咪视通-12" tvg-id="" tvg-logo="" group-title="其他综合",咪视通-12
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011518
+#EXTINF:-1 tvg-name="咪视通-13" tvg-id="" tvg-logo="" group-title="其他综合",咪视通-13
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011519
+#EXTINF:-1 tvg-name="咪视通-14" tvg-id="" tvg-logo="" group-title="其他综合",咪视通-14
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011520
+#EXTINF:-1 tvg-name="咪视通-15" tvg-id="" tvg-logo="" group-title="其他综合",咪视通-15
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011521
+#EXTINF:-1 tvg-name="咪视通-18" tvg-id="" tvg-logo="" group-title="其他综合",咪视通-18
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011524
+#EXTINF:-1 tvg-name="咪视通-22" tvg-id="" tvg-logo="" group-title="其他综合",咪视通-22
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011530
+#EXTINF:-1 tvg-name="咪视通-23" tvg-id="" tvg-logo="" group-title="其他综合",咪视通-23
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011531
