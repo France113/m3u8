@@ -1,0 +1,28 @@
+# GitHub 文件上传测试 - Python脚本版
+## 仓库信息
+- 仓库：France113/m3u8
+- 分支：main
+- 文件：test_upload.txt
+## 上传信息
+- 上传时间：2026-02-21 14:34:37 (北京时间)
+- 时间戳：2026-02-21T14:34:37.341723
+- 执行环境：Python脚本
+- Python版本：3.11.14
+## 测试说明
+这是一个通过 Python 脚本自动上传的测试文件。
+如果看到这个文件，说明 GitHub API 上传功能正常工作。
+## 仓库已知文件
+根据截图，仓库中已有以下文件：
+1. TV.txt
+2. fyxzgrl.m3u  
+3. m3u8电视直播.txt
+此文件为自动生成的测试文件，每次执行都会更新内容。
+## 链接信息
+- 原始链接：https://raw.githubusercontent.com/France113/m3u8/main/test_upload.txt
+- CDN加速：https://cdn.jsdelivr.net/gh/France113/m3u8/test_upload.txt
+- GitHub页面：https://github.com/France113/m3u8/blob/main/test_upload.txt
+## 脚本信息
+- 脚本类型：Python
+- 生成时间：2026-02-21 14:34:37
+- 脚本作者：自动生成
+🔄 最后更新：2026-02-21T14:34:37.341723
