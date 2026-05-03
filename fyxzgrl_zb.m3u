@@ -1,40 +1,34 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 tvg-name="CCTV-4 中文国际 中文国际 K" group-title="公·央视频道",CCTV-4 中文国际 中文国际 K
-http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
+http://home.amucn.net:8800/udp/239.49.0.82:8000
 #EXTINF:-1 tvg-name="12道锋味专场" group-title="众·家庭频道",12道锋味专场
 https://live.ottiptv.cc/huya/30080162
 #EXTINF:-1 tvg-name="Big3专场" group-title="众·家庭频道",Big3专场
 https://live.ottiptv.cc/huya/30847442
+#EXTINF:-1 tvg-name="DJ专场" group-title="众·家庭频道",DJ专场
+https://live.ottiptv.cc/huya/20432228
 #EXTINF:-1 tvg-name="TVB娱乐新闻" group-title="众·家庭频道",TVB娱乐新闻
 http://iptv.4666888.xyz/iptv2A.php?id=36
-#EXTINF:-1 tvg-name="不思异剧场" group-title="众·家庭频道",不思异剧场
-http://live.nctv.top/douyu1.php?id=9297412
 #EXTINF:-1 tvg-name="丧尸片系列" group-title="众·家庭频道",丧尸片系列
 https://live.ottiptv.cc/huya/24314160
 #EXTINF:-1 tvg-name="乒乓球专场" group-title="众·家庭频道",乒乓球专场
 https://live.ottiptv.cc/huya/23505696
-#EXTINF:-1 tvg-name="乡村剧专区" group-title="众·家庭频道",乡村剧专区
-https://live.ottiptv.cc/huya/30080255
 #EXTINF:-1 tvg-name="二十四小时专场" group-title="众·家庭频道",二十四小时专场
 https://live.ottiptv.cc/huya/29982610
 #EXTINF:-1 tvg-name="五十公里桃花坞专场" group-title="众·家庭频道",五十公里桃花坞专场
 https://live.ottiptv.cc/huya/29465869
-#EXTINF:-1 tvg-name="体育片系列" group-title="众·家庭频道",体育片系列
-https://live.ottiptv.cc/huya/23864480
 #EXTINF:-1 tvg-name="健美专场" group-title="众·家庭频道",健美专场
 https://live.ottiptv.cc/huya/26106704
 #EXTINF:-1 tvg-name="健身专场" group-title="众·家庭频道",健身专场
 https://live.ottiptv.cc/huya/24354754
 #EXTINF:-1 tvg-name="偶像剧专区" group-title="众·家庭频道",偶像剧专区
 https://live.ottiptv.cc/huya/11601964
-#EXTINF:-1 tvg-name="僵尸剧专区" group-title="众·家庭频道",僵尸剧专区
-https://live.ottiptv.cc/huya/23865148
-#EXTINF:-1 tvg-name="僵尸片系列" group-title="众·家庭频道",僵尸片系列
-https://live.ottiptv.cc/huya/11352917
 #EXTINF:-1 tvg-name="刑侦剧专区" group-title="众·家庭频道",刑侦剧专区
 https://live.ottiptv.cc/huya/20969130
 #EXTINF:-1 tvg-name="刘德华专场" group-title="众·家庭频道",刘德华专场
 https://live.ottiptv.cc/huya/11342424
+#EXTINF:-1 tvg-name="动作片系列" group-title="众·家庭频道",动作片系列
+https://live.ottiptv.cc/huya/10871113
 #EXTINF:-1 tvg-name="动漫音乐专场" group-title="众·家庭频道",动漫音乐专场
 http://live.nctv.top/douyu1.php?id=9409703
 #EXTINF:-1 tvg-name="动画片系列" group-title="众·家庭频道",动画片系列
@@ -51,8 +45,6 @@ https://live.ottiptv.cc/huya/29386152
 https://live.ottiptv.cc/huya/26355799
 #EXTINF:-1 tvg-name="双笙专场" group-title="众·家庭频道",双笙专场
 http://live.nctv.top/douyu1.php?id=6476693
-#EXTINF:-1 tvg-name="变形计专场" group-title="众·家庭频道",变形计专场
-https://live.ottiptv.cc/huya/23903164
 #EXTINF:-1 tvg-name="古天乐专场" group-title="众·家庭频道",古天乐专场
 https://live.ottiptv.cc/huya/29982675
 #EXTINF:-1 tvg-name="古装剧专区" group-title="众·家庭频道",古装剧专区
@@ -71,14 +63,10 @@ http://live.nctv.top/douyu1.php?id=7537296
 https://live.ottiptv.cc/huya/11342387
 #EXTINF:-1 tvg-name="咱们穿越吧专场" group-title="众·家庭频道",咱们穿越吧专场
 https://live.ottiptv.cc/huya/11352907
-#EXTINF:-1 tvg-name="哈哈哈哈哈专场" group-title="众·家庭频道",哈哈哈哈哈专场
-https://live.ottiptv.cc/huya/30080247
 #EXTINF:-1 tvg-name="复仇片系列" group-title="众·家庭频道",复仇片系列
 https://live.ottiptv.cc/huya/29982645
 #EXTINF:-1 tvg-name="天赐的声音专场" group-title="众·家庭频道",天赐的声音专场
 https://live.ottiptv.cc/huya/30080249
-#EXTINF:-1 tvg-name="奇幻片系列" group-title="众·家庭频道",奇幻片系列
-https://live.ottiptv.cc/huya/26355847
 #EXTINF:-1 tvg-name="奔跑吧兄弟专场" group-title="众·家庭频道",奔跑吧兄弟专场
 https://live.ottiptv.cc/huya/29465870
 #EXTINF:-1 tvg-name="娱乐百分百" group-title="众·家庭频道",娱乐百分百
@@ -89,10 +77,10 @@ http://live.nctv.top/douyu1.php?id=9456028
 http://live.nctv.top/douyu1.php?id=9498354
 #EXTINF:-1 tvg-name="室外专场" group-title="众·家庭频道",室外专场
 http://live.nctv.top/douyu1.php?id=9627625
-#EXTINF:-1 tvg-name="家庭剧专区" group-title="众·家庭频道",家庭剧专区
-https://live.ottiptv.cc/huya/11352872
 #EXTINF:-1 tvg-name="年代剧专区" group-title="众·家庭频道",年代剧专区
 https://live.ottiptv.cc/huya/20969095
+#EXTINF:-1 tvg-name="幸福三重奏专场" group-title="众·家庭频道",幸福三重奏专场
+https://live.ottiptv.cc/huya/29982647
 #EXTINF:-1 tvg-name="张卫健专场" group-title="众·家庭频道",张卫健专场
 https://live.ottiptv.cc/huya/11342423
 #EXTINF:-1 tvg-name="强森专场" group-title="众·家庭频道",强森专场
@@ -101,14 +89,26 @@ https://live.ottiptv.cc/huya/21059581
 https://live.ottiptv.cc/huya/11352909
 #EXTINF:-1 tvg-name="徐峥专场" group-title="众·家庭频道",徐峥专场
 https://live.ottiptv.cc/huya/11602043
+#EXTINF:-1 tvg-name="怀旧剧专区" group-title="众·家庭频道",怀旧剧专区
+https://live.ottiptv.cc/huya/30080241
+#EXTINF:-1 tvg-name="怪兽片系列" group-title="众·家庭频道",怪兽片系列
+https://live.ottiptv.cc/huya/29982674
+#EXTINF:-1 tvg-name="恐怖片系列" group-title="众·家庭频道",恐怖片系列
+https://live.ottiptv.cc/huya/24884334
+#EXTINF:-1 tvg-name="悬疑片系列" group-title="众·家庭频道",悬疑片系列
+https://live.ottiptv.cc/huya/21059530
+#EXTINF:-1 tvg-name="惊悚片系列" group-title="众·家庭频道",惊悚片系列
+https://live.ottiptv.cc/huya/26355802
+#EXTINF:-1 tvg-name="成龙专场" group-title="众·家庭频道",成龙专场
+https://live.ottiptv.cc/huya/11342386
 #EXTINF:-1 tvg-name="TVBS新闻" group-title="风·新闻资讯",TVBS新闻
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-name="非凡新闻" group-title="风·新闻资讯",非凡新闻
 http://iptv.4666888.xyz/iptv2A.php?id=44
-#EXTINF:-1 tvg-name="3030相声小品" group-title="雨·戏曲文艺",3030相声小品
-http://live.nctv.top/douyu1.php?id=9286868
 #EXTINF:-1 tvg-name="Duck TV儿童卡通" group-title="信·少儿动漫",Duck TV儿童卡通
 http://iptv.4666888.xyz/iptv2A.php?id=39
+#EXTINF:-1 tvg-name="动画大师姐" group-title="信·少儿动漫",动画大师姐
+http://live.nctv.top/douyu1.php?id=9742136
 #EXTINF:-1 tvg-name="哆啦A梦" group-title="信·少儿动漫",哆啦A梦
 https://live.ottiptv.cc/huya/11601963
 #EXTINF:-1 tvg-name="四驱兄弟" group-title="信·少儿动漫",四驱兄弟
@@ -121,8 +121,6 @@ https://live.ottiptv.cc/huya/11352946
 http://iptv.4666888.xyz/iptv2A.php?id=40
 #EXTINF:-1 tvg-name="熊孩子沙雕动画" group-title="信·少儿动漫",熊孩子沙雕动画
 https://live.ottiptv.cc/huya/25243852
-#EXTINF:-1 tvg-name="立秋动画" group-title="信·少儿动漫",立秋动画
-http://live.nctv.top/douyu1.php?id=10351891
 #EXTINF:-1 tvg-name="2002THEONE演唱会完整版" group-title="中·影音娱乐",2002THEONE演唱会完整版
 https://vd3.bdstatic.com/mda-nmgdfvsm9kc46pcz/576p/h264/1671270120913302151/mda-nmgdfvsm9kc46pcz.mp4
 #EXTINF:-1 tvg-name="2004无与伦比演唱会完整版" group-title="中·影音娱乐",2004无与伦比演唱会完整版
@@ -135,8 +133,6 @@ https://vd2.bdstatic.com/mda-nmc4khkjnn0k62bn/360p/h264/1670901524505595792/mda-
 https://vd4.bdstatic.com/mda-nmcex5u2u9puxz6d/576p/h264/1670928165588976698/mda-nmcex5u2u9puxz6d.mp4
 #EXTINF:-1 tvg-name="2016地表最强演唱会完整版" group-title="中·影音娱乐",2016地表最强演唱会完整版
 https://vd2.bdstatic.com/mda-nmd5ujxqrmxh59qj/576p/h264/1670992604552514459/mda-nmd5ujxqrmxh59qj.mp4
-#EXTINF:-1 tvg-name="24小时点歌台" group-title="中·影音娱乐",24小时点歌台
-https://live.ottiptv.cc/huya/25261191
 #EXTINF:-1 tvg-name="40首精选慢摇点播" group-title="中·影音娱乐",40首精选慢摇点播
 https://txmov2.a.kwimgs.com/bs3/video-hls/5224175695511900493_hlsb.m3u8
 #EXTINF:-1 tvg-name="Alin精选16首(1小时)" group-title="中·影音娱乐",Alin精选16首(1小时)
@@ -183,8 +179,8 @@ http://live.nctv.top/douyu1.php?id=9568091
 https://cfss.cc/api/kg/2762.mp4
 #EXTINF:-1 tvg-name="孙燕姿精选30首(2小时)" group-title="中·影音娱乐",孙燕姿精选30首(2小时)
 https://txmov2.a.kwimgs.com/upic/2020/07/15/19/BMjAyMDA3MTUxOTA1MzhfNTAyNzg4MTc0XzMyNDIzMzUwMjAyXzJfMw==_b_Bd09b171541ea966fd7a324624cfe6c16.mp4
-#EXTINF:-1 tvg-name="小丑电影" group-title="中·影音娱乐",小丑电影
-https://live.ottiptv.cc/huya/29869799
+#EXTINF:-1 tvg-name="小丑讲电影" group-title="中·影音娱乐",小丑讲电影
+https://live.ottiptv.cc/huya/16857432
 #EXTINF:-1 tvg-name="小贱精选9首(半小时)" group-title="中·影音娱乐",小贱精选9首(半小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000d2l30hfog65v5tq1s9fg&ratio=720p&line=0
 #EXTINF:-1 tvg-name="小飞飞流行DJ音乐" group-title="中·影音娱乐",小飞飞流行DJ音乐
@@ -223,8 +219,10 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5250071375165662691_hlsb.m3u8
 https://k0ub7yffy10yez.djvod.ndcimgs.com/upic/2024/01/16/07/BMjAyNDAxMTYwNzEzNTNfODI4NTk1NTQ0XzEyMjIyODI2OTMyM18yXzM=_b_B358e6b1dbf7db9a80ffc4f82cee98a4e.mp4
 #EXTINF:-1 tvg-name="林志炫精选34首(2小时)" group-title="中·影音娱乐",林志炫精选34首(2小时)
 https://txmov2.a.kwimgs.com/bs3/video-hls/5253449075409106514_hlsb.m3u8
-#EXTINF:-1 tvg-name="钓鱼欧尼" group-title="故·生活健康",钓鱼欧尼
-http://live.nctv.top/douyu1.php?id=10616765
+#EXTINF:-1 tvg-name="梁静茹精选40首(2小时)" group-title="中·影音娱乐",梁静茹精选40首(2小时)
+https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzA3MTVfODM0NDUzMTQ2XzEwOTgwOTYwMjQ1OV8wXzM=_b_Bd9c215cb7ac961de3d5db54cb7bffed6.mp4
+#EXTINF:-1 tvg-name="你的瑜伽女孩" group-title="人·休闲健身",你的瑜伽女孩
+http://live.nctv.top/douyu1.php?id=10205199
 #EXTINF:-1 tvg-name="晴彩广场舞" group-title="人·休闲健身",晴彩广场舞
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523
 #EXTINF:-1 tvg-name="花花努力健身中" group-title="人·休闲健身",花花努力健身中
@@ -233,6 +231,10 @@ https://live.ottiptv.cc/huya/30805993
 http://live.nctv.top/douyu1.php?id=17732
 #EXTINF:-1 tvg-name="DJ舞曲串烧点播" group-title="来·其他综合",DJ舞曲串烧点播
 https://txmov2.a.kwimgs.com/bs3/video-hls/5259923016524978973_hlsb.m3u8
+#EXTINF:-1 tvg-name="GOOD2" group-title="来·其他综合",GOOD2
+http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="GOODTV好消息" group-title="来·其他综合",GOODTV好消息
+http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="HOY77" group-title="来·其他综合",HOY77
 http://iptv.4666888.xyz/iptv2A.php?id=35
 #EXTINF:-1 tvg-name="HOY国际财经" group-title="来·其他综合",HOY国际财经
@@ -261,12 +263,14 @@ https://cfss.cc/api/kg/13221831.mp4
 http://iptv.4666888.xyz/iptv2A.php?id=62
 #EXTINF:-1 tvg-name="S哥影视" group-title="来·其他综合",S哥影视
 https://live.ottiptv.cc/huya/24720260
-#EXTINF:-1 tvg-name="TVB1" group-title="来·其他综合",TVB1
-http://iptv.4666888.xyz/iptv2A.php?id=25
+#EXTINF:-1 tvg-name="TVB-奖门人" group-title="来·其他综合",TVB-奖门人
+http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-name="TVBJ1" group-title="来·其他综合",TVBJ1
 http://iptv.4666888.xyz/iptv2A.php?id=26
 #EXTINF:-1 tvg-name="TVBS精彩" group-title="来·其他综合",TVBS精彩
 http://iptv.4666888.xyz/iptv2A.php?id=47
+#EXTINF:-1 tvg-name="TVB明珠" group-title="来·其他综合",TVB明珠
+http://iptv.4666888.xyz/iptv2A.php?id=29
 #EXTINF:-1 tvg-name="TVB翡翠(马来)" group-title="来·其他综合",TVB翡翠(马来)
 http://iptv.4666888.xyz/iptv2A.php?id=28
 #EXTINF:-1 tvg-name="TVB翡翠剧集" group-title="来·其他综合",TVB翡翠剧集
@@ -275,8 +279,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=33
 http://iptv.4666888.xyz/iptv2A.php?id=57
 #EXTINF:-1 tvg-name="TVB黄金华剧" group-title="来·其他综合",TVB黄金华剧
 http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 tvg-name="YAYA晓雅" group-title="来·其他综合",YAYA晓雅
-https://live.ottiptv.cc/huya/30631709
 #EXTINF:-1 tvg-name="iQIYI" group-title="来·其他综合",iQIYI
 http://iptv.4666888.xyz/iptv2A.php?id=21
 #EXTINF:-1 tvg-name="mine mine" group-title="来·其他综合",mine mine
@@ -325,7 +327,3 @@ https://cfss.cc/api/kg/592430.mp4
 https://cfss.cc/api/kg/758247.mp4
 #EXTINF:-1 tvg-name="倒带" group-title="来·其他综合",倒带
 https://cfss.cc/api/kg/57894.mp4
-#EXTINF:-1 tvg-name="倒影" group-title="来·其他综合",倒影
-https://cfss.cc/api/kg/10919745.mp4
-#EXTINF:-1 tvg-name="借口" group-title="来·其他综合",借口
-https://cfss.cc/api/kg/29375.mp4
