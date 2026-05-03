@@ -1,5 +1,5 @@
 公·央视频道,#genre#
-CCTV-4 中文国际 中文国际 K,http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
+CCTV-4 中文国际 中文国际 K,http://home.amucn.net:8800/udp/239.49.0.82:8000
 
 
 众·家庭频道,#genre#
@@ -7,21 +7,17 @@ CCTV-4 中文国际 中文国际 K,http://www.520345.xyz:8188/rtp/239.69.1.111:1
 
 Big3专场,https://live.ottiptv.cc/huya/30847442
 
-TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
+DJ专场,https://live.ottiptv.cc/huya/20432228
 
-不思异剧场,http://live.nctv.top/douyu1.php?id=9297412
+TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 
 丧尸片系列,https://live.ottiptv.cc/huya/24314160
 
 乒乓球专场,https://live.ottiptv.cc/huya/23505696
 
-乡村剧专区,https://live.ottiptv.cc/huya/30080255
-
 二十四小时专场,https://live.ottiptv.cc/huya/29982610
 
 五十公里桃花坞专场,https://live.ottiptv.cc/huya/29465869
-
-体育片系列,https://live.ottiptv.cc/huya/23864480
 
 健美专场,https://live.ottiptv.cc/huya/26106704
 
@@ -29,13 +25,11 @@ TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 
 偶像剧专区,https://live.ottiptv.cc/huya/11601964
 
-僵尸剧专区,https://live.ottiptv.cc/huya/23865148
-
-僵尸片系列,https://live.ottiptv.cc/huya/11352917
-
 刑侦剧专区,https://live.ottiptv.cc/huya/20969130
 
 刘德华专场,https://live.ottiptv.cc/huya/11342424
+
+动作片系列,https://live.ottiptv.cc/huya/10871113
 
 动漫音乐专场,http://live.nctv.top/douyu1.php?id=9409703
 
@@ -52,8 +46,6 @@ TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 印度片系列,https://live.ottiptv.cc/huya/26355799
 
 双笙专场,http://live.nctv.top/douyu1.php?id=6476693
-
-变形计专场,https://live.ottiptv.cc/huya/23903164
 
 古天乐专场,https://live.ottiptv.cc/huya/29982675
 
@@ -73,13 +65,9 @@ TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 
 咱们穿越吧专场,https://live.ottiptv.cc/huya/11352907
 
-哈哈哈哈哈专场,https://live.ottiptv.cc/huya/30080247
-
 复仇片系列,https://live.ottiptv.cc/huya/29982645
 
 天赐的声音专场,https://live.ottiptv.cc/huya/30080249
-
-奇幻片系列,https://live.ottiptv.cc/huya/26355847
 
 奔跑吧兄弟专场,https://live.ottiptv.cc/huya/29465870
 
@@ -91,9 +79,9 @@ TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 
 室外专场,http://live.nctv.top/douyu1.php?id=9627625
 
-家庭剧专区,https://live.ottiptv.cc/huya/11352872
-
 年代剧专区,https://live.ottiptv.cc/huya/20969095
+
+幸福三重奏专场,https://live.ottiptv.cc/huya/29982647
 
 张卫健专场,https://live.ottiptv.cc/huya/11342423
 
@@ -103,6 +91,18 @@ TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 
 徐峥专场,https://live.ottiptv.cc/huya/11602043
 
+怀旧剧专区,https://live.ottiptv.cc/huya/30080241
+
+怪兽片系列,https://live.ottiptv.cc/huya/29982674
+
+恐怖片系列,https://live.ottiptv.cc/huya/24884334
+
+悬疑片系列,https://live.ottiptv.cc/huya/21059530
+
+惊悚片系列,https://live.ottiptv.cc/huya/26355802
+
+成龙专场,https://live.ottiptv.cc/huya/11342386
+
 
 风·新闻资讯,#genre#
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
@@ -110,12 +110,10 @@ TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 
 
-雨·戏曲文艺,#genre#
-3030相声小品,http://live.nctv.top/douyu1.php?id=9286868
-
-
 信·少儿动漫,#genre#
 Duck TV儿童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
+
+动画大师姐,http://live.nctv.top/douyu1.php?id=9742136
 
 哆啦A梦,https://live.ottiptv.cc/huya/11601963
 
@@ -128,8 +126,6 @@ Duck TV儿童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
 梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
 
 熊孩子沙雕动画,https://live.ottiptv.cc/huya/25243852
-
-立秋动画,http://live.nctv.top/douyu1.php?id=10351891
 
 
 中·影音娱乐,#genre#
@@ -144,8 +140,6 @@ Duck TV儿童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
 2013摩天轮演唱会完整版,https://vd4.bdstatic.com/mda-nmcex5u2u9puxz6d/576p/h264/1670928165588976698/mda-nmcex5u2u9puxz6d.mp4
 
 2016地表最强演唱会完整版,https://vd2.bdstatic.com/mda-nmd5ujxqrmxh59qj/576p/h264/1670992604552514459/mda-nmd5ujxqrmxh59qj.mp4
-
-24小时点歌台,https://live.ottiptv.cc/huya/25261191
 
 40首精选慢摇点播,https://txmov2.a.kwimgs.com/bs3/video-hls/5224175695511900493_hlsb.m3u8
 
@@ -193,7 +187,7 @@ Tank精选15首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 
 孙燕姿精选30首(2小时),https://txmov2.a.kwimgs.com/upic/2020/07/15/19/BMjAyMDA3MTUxOTA1MzhfNTAyNzg4MTc0XzMyNDIzMzUwMjAyXzJfMw==_b_Bd09b171541ea966fd7a324624cfe6c16.mp4
 
-小丑电影,https://live.ottiptv.cc/huya/29869799
+小丑讲电影,https://live.ottiptv.cc/huya/16857432
 
 小贱精选9首(半小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000d2l30hfog65v5tq1s9fg&ratio=720p&line=0
 
@@ -233,12 +227,12 @@ Tank精选15首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 
 林志炫精选34首(2小时),https://txmov2.a.kwimgs.com/bs3/video-hls/5253449075409106514_hlsb.m3u8
 
-
-故·生活健康,#genre#
-钓鱼欧尼,http://live.nctv.top/douyu1.php?id=10616765
+梁静茹精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzA3MTVfODM0NDUzMTQ2XzEwOTgwOTYwMjQ1OV8wXzM=_b_Bd9c215cb7ac961de3d5db54cb7bffed6.mp4
 
 
 人·休闲健身,#genre#
+你的瑜伽女孩,http://live.nctv.top/douyu1.php?id=10205199
+
 晴彩广场舞,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523
 
 花花努力健身中,https://live.ottiptv.cc/huya/30805993
@@ -248,6 +242,10 @@ Tank精选15首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 7师傅,http://live.nctv.top/douyu1.php?id=17732
 
 DJ舞曲串烧点播,https://txmov2.a.kwimgs.com/bs3/video-hls/5259923016524978973_hlsb.m3u8
+
+GOOD2,http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
+
+GOODTV好消息,http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
 
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 
@@ -277,11 +275,13 @@ SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
 
 S哥影视,https://live.ottiptv.cc/huya/24720260
 
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+TVB-奖门人,http://iptv.4666888.xyz/iptv2A.php?id=31
 
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 
 TVBS精彩,http://iptv.4666888.xyz/iptv2A.php?id=47
+
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
 
 TVB翡翠(马来),http://iptv.4666888.xyz/iptv2A.php?id=28
 
@@ -290,8 +290,6 @@ TVB翡翠剧集,http://iptv.4666888.xyz/iptv2A.php?id=33
 TVB金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
 
 TVB黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=34
-
-YAYA晓雅,https://live.ottiptv.cc/huya/30631709
 
 iQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
 
@@ -340,8 +338,4 @@ mine mine,https://cfss.cc/api/kg/67367.mp4
 你好吗,https://cfss.cc/api/kg/758247.mp4
 
 倒带,https://cfss.cc/api/kg/57894.mp4
-
-倒影,https://cfss.cc/api/kg/10919745.mp4
-
-借口,https://cfss.cc/api/kg/29375.mp4
 
