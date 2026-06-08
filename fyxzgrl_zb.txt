@@ -1,28 +1,32 @@
 公·央视频道,#genre#
 CCTV-1 综合,http://207.56.13.146:81/cdnlive/cctv1.m3u8
+CCTV-1 综合,http://124.223.82.228:89/608807420
 CCTV-1 综合,http://124.77.202.8:49155/608807420
-CCTV-1 综合,http://139.226.85.127:5678/608807420
+CCTV-1 综合,http://58.32.26.112:5080/608807420
 CCTV-1 综合,http://173.208.212.130:8181/1080p/cctv1.m3u8
 CCTV-1 综合,http://192.151.150.154/live/cctv1hd.m3u8
 CCTV-1 综合,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
 
 CCTV-2 财经,http://207.56.13.146:81/cdnlive/cctv2.m3u8
+CCTV-2 财经,http://124.223.82.228:89/631780532
+CCTV-2 财经,http://58.32.26.112:5080/631780532
 CCTV-2 财经,http://124.77.202.8:49155/631780532
-CCTV-2 财经,http://139.226.85.127:5678/631780532
-CCTV-2 财经,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2
 CCTV-2 财经,http://173.208.212.130:8181/1080p/cctv2.m3u8
 CCTV-2 财经,http://192.151.150.154/live/cctv2hd.m3u8
+CCTV-2 财经,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2
 
 CCTV-3 综艺,http://207.56.13.146:81/cdnlive/cctv3.m3u8
+CCTV-3 综艺,http://124.223.82.228:89/624878271
 CCTV-3 综艺,http://124.77.202.8:49155/624878271
-CCTV-3 综艺,http://139.226.85.127:5678/624878271
-CCTV-3 综艺,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3
+CCTV-3 综艺,http://58.32.26.112:5080/624878271
 CCTV-3 综艺,http://173.208.212.130:8181/1080p/cctv3.m3u8
 CCTV-3 综艺,http://192.151.150.154/live/cctv3hd.m3u8
+CCTV-3 综艺,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3
 
 CCTV-4 中文国际,http://207.56.13.146:81/cdnlive/cctv4.m3u8
+CCTV-4 中文国际,http://124.223.82.228:89/631780421
 CCTV-4 中文国际,http://124.77.202.8:49155/631780421
-CCTV-4 中文国际,http://139.226.85.127:5678/631780421
+CCTV-4 中文国际,http://58.32.26.112:5080/631780421
 CCTV-4 中文国际,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv4
 CCTV-4 中文国际,http://173.208.212.130:8181/1080p/cctv4.m3u8
 CCTV-4 中文国际,http://192.151.150.154/live/cctv4hd.m3u8
@@ -32,41 +36,46 @@ CCTV-4 中文国际 中文国际 K,http://www.520345.xyz:8188/rtp/239.69.1.111:1
 CCTV-4 中文国际 中文国际 K,http://192.151.150.154/live/cctv4k.m3u8
 
 CCTV-4 中文国际 中文国际 欧洲,http://124.77.202.8:49155/608807419
-CCTV-4 中文国际 中文国际 欧洲,http://139.226.85.127:5678/608807419
+CCTV-4 中文国际 中文国际 欧洲,http://124.223.82.228:89/608807419
+CCTV-4 中文国际 中文国际 欧洲,http://58.32.26.112:5080/608807419
 
 CCTV-4 中文国际 中文国际 美洲,http://124.77.202.8:49155/608807416
-CCTV-4 中文国际 中文国际 美洲,http://139.226.85.127:5678/608807416
+CCTV-4 中文国际 中文国际 美洲,http://124.223.82.228:89/608807416
+CCTV-4 中文国际 中文国际 美洲,http://58.32.26.112:5080/608807416
 
 CCTV-5 体育,http://207.56.13.146:81/cdnlive/cctv5.m3u8
+CCTV-5 体育,http://124.223.82.228:89/641886683
+CCTV-5 体育,http://58.32.26.112:5080/641886683
 CCTV-5 体育,http://124.77.202.8:49155/641886683
-CCTV-5 体育,http://139.226.85.127:5678/641886683
 CCTV-5 体育,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5
 CCTV-5 体育,http://173.208.212.130:8181/1080p/cctv5.m3u8
-CCTV-5 体育,http://192.151.150.154/live/cctv5hd.m3u8
 
 CCTV-5 体育 体育 +,http://207.56.13.146:81/cdnlive/cctv5p.m3u8
+CCTV-5 体育 体育 +,http://124.223.82.228:89/641886773
 CCTV-5 体育 体育 +,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 CCTV-5 体育 体育 +,http://173.208.212.130:8181/1080p/cctv5p.m3u8
-CCTV-5 体育 体育 +,http://192.151.150.154/live/cctv5p.m3u8
 CCTV-5 体育 体育 +,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p
 
 CCTV-6 电影,http://207.56.13.146:81/cdnlive/cctv6.m3u8
+CCTV-6 电影,http://124.223.82.228:89/624878396
 CCTV-6 电影,http://124.77.202.8:49155/624878396
-CCTV-6 电影,http://139.226.85.127:5678/624878396
+CCTV-6 电影,http://58.32.26.112:5080/624878396
+CCTV-6 电影,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6
 CCTV-6 电影,http://173.208.212.130:8181/1080p/cctv6.m3u8
 CCTV-6 电影,http://192.151.150.154/live/cctv6hd.m3u8
-CCTV-6 电影,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6
 
 CCTV-7 国防军事,http://207.56.13.146:81/cdnlive/cctv7.m3u8
 CCTV-7 国防军事,http://124.77.202.8:49155/673168121
-CCTV-7 国防军事,http://139.226.85.127:5678/673168121
-CCTV-7 国防军事,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7
+CCTV-7 国防军事,http://124.223.82.228:89/673168121
+CCTV-7 国防军事,http://58.32.26.112:5080/673168121
 CCTV-7 国防军事,http://173.208.212.130:8181/1080p/cctv7.m3u8
 CCTV-7 国防军事,http://192.151.150.154/live/cctv7hd.m3u8
+CCTV-7 国防军事,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7
 
 CCTV-8 电视剧,http://207.56.13.146:81/cdnlive/cctv8.m3u8
+CCTV-8 电视剧,http://124.223.82.228:89/624878356
+CCTV-8 电视剧,http://58.32.26.112:5080/624878356
 CCTV-8 电视剧,http://124.77.202.8:49155/624878356
-CCTV-8 电视剧,http://139.226.85.127:5678/624878356
 CCTV-8 电视剧,http://173.208.212.130:8181/1080p/cctv8.m3u8
 CCTV-8 电视剧,http://192.151.150.154/live/cctv8hd.m3u8
 CCTV-8 电视剧,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8
@@ -74,62 +83,69 @@ CCTV-8 电视剧,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8
 CCTV-8 电视剧 电视剧 K,http://192.151.150.154/live/cctv8k.m3u8
 
 CCTV-9 纪录,http://207.56.13.146:81/cdnlive/cctv9.m3u8
+CCTV-9 纪录,http://124.223.82.228:89/673168140
 CCTV-9 纪录,http://124.77.202.8:49155/673168140
-CCTV-9 纪录,http://139.226.85.127:5678/673168140
+CCTV-9 纪录,http://58.32.26.112:5080/673168140
 CCTV-9 纪录,http://173.208.212.130:8181/1080p/cctv9.m3u8
 CCTV-9 纪录,http://192.151.150.154/live/cctv9hd.m3u8
 CCTV-9 纪录,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9
 
 CCTV-10 科教,http://207.56.13.146:81/cdnlive/cctv10.m3u8
 CCTV-10 科教,http://124.77.202.8:49155/624878405
-CCTV-10 科教,http://139.226.85.127:5678/624878405
+CCTV-10 科教,http://124.223.82.228:89/624878405
+CCTV-10 科教,http://58.32.26.112:5080/624878405
 CCTV-10 科教,http://173.208.212.130:8181/1080p/cctv10.m3u8
 CCTV-10 科教,http://192.151.150.154/live/cctv10hd.m3u8
 CCTV-10 科教,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv10
 
 CCTV-11 戏曲,http://207.56.13.146:81/cdnlive/cctv11.m3u8
+CCTV-11 戏曲,http://124.223.82.228:89/667987558
 CCTV-11 戏曲,http://124.77.202.8:49155/667987558
-CCTV-11 戏曲,http://139.226.85.127:5678/667987558
+CCTV-11 戏曲,http://58.32.26.112:5080/667987558
 CCTV-11 戏曲,http://173.208.212.130:8181/1080p/cctv11.m3u8
 CCTV-11 戏曲,http://192.151.150.154/live/cctv11hd.m3u8
 CCTV-11 戏曲,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv11
 
 CCTV-12 社会与法,http://207.56.13.146:81/cdnlive/cctv12.m3u8
+CCTV-12 社会与法,http://124.223.82.228:89/673168185
 CCTV-12 社会与法,http://124.77.202.8:49155/673168185
-CCTV-12 社会与法,http://139.226.85.127:5678/673168185
+CCTV-12 社会与法,http://58.32.26.112:5080/673168185
 CCTV-12 社会与法,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv12
 CCTV-12 社会与法,http://173.208.212.130:8181/1080p/cctv12.m3u8
 CCTV-12 社会与法,http://192.151.150.154/live/cctv12hd.m3u8
 
 CCTV-13 新闻,http://207.56.13.146:81/cdnlive/cctv13.m3u8
 CCTV-13 新闻,http://124.77.202.8:49155/608807423
-CCTV-13 新闻,http://139.226.85.127:5678/608807423
+CCTV-13 新闻,http://124.223.82.228:89/608807423
+CCTV-13 新闻,http://58.32.26.112:5080/608807423
 CCTV-13 新闻,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13
 CCTV-13 新闻,http://173.208.212.130:8181/1080p/cctv13.m3u8
 CCTV-13 新闻,http://192.151.150.154/live/cctv13hd.m3u8
 
 CCTV-14 少儿,http://207.56.13.146:81/cdnlive/cctv14.m3u8
+CCTV-14 少儿,http://124.223.82.228:89/624878440
 CCTV-14 少儿,http://124.77.202.8:49155/624878440
-CCTV-14 少儿,http://139.226.85.127:5678/624878440
+CCTV-14 少儿,http://58.32.26.112:5080/624878440
 CCTV-14 少儿,http://173.208.212.130:8181/1080p/cctv14.m3u8
 CCTV-14 少儿,http://192.151.150.154/live/cctv14hd.m3u8
 CCTV-14 少儿,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv14
 
 CCTV-15 音乐,http://207.56.13.146:81/cdnlive/cctv15.m3u8
+CCTV-15 音乐,http://124.223.82.228:89/673168223
 CCTV-15 音乐,http://124.77.202.8:49155/673168223
-CCTV-15 音乐,http://139.226.85.127:5678/673168223
+CCTV-15 音乐,http://58.32.26.112:5080/673168223
 CCTV-15 音乐,http://173.208.212.130:8181/1080p/cctv15.m3u8
 CCTV-15 音乐,http://192.151.150.154/live/cctv15hd.m3u8
 CCTV-15 音乐,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15
 
 CCTV-16 奥林匹克,http://207.56.13.146:81/cdnlive/cctv16.m3u8
 CCTV-16 奥林匹克,http://173.208.212.130:8181/1080p/cctv16.m3u8
-CCTV-16 奥林匹克,http://192.151.150.154/live/cctv16hd.m3u8
 CCTV-16 奥林匹克,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16
 
 CCTV-17 农业农村,http://207.56.13.146:81/cdnlive/cctv17.m3u8
+CCTV-17 农业农村,http://124.223.82.228:89/673168256
 CCTV-17 农业农村,http://124.77.202.8:49155/673168256
-CCTV-17 农业农村,http://139.226.85.127:5678/673168256
+CCTV-17 农业农村,http://58.32.26.112:5080/673168256
 CCTV-17 农业农村,http://173.208.212.130:8181/1080p/cctv17.m3u8
 CCTV-17 农业农村,http://192.151.150.154/live/cctv17hd.m3u8
 CCTV-17 农业农村,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
@@ -176,23 +192,23 @@ CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
 CCTV风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 
 CGTN,http://124.77.202.8:49155/609017205
-CGTN,http://139.226.85.127:5678/609017205
+CGTN,http://58.32.26.112:5080/609017205
 
 CGTN俄语,http://124.77.202.8:49155/609006446
-CGTN俄语,http://139.226.85.127:5678/609006446
+CGTN俄语,http://58.32.26.112:5080/609006446
 
 CGTN外语纪录,http://124.77.202.8:49155/609006487
-CGTN外语纪录,http://139.226.85.127:5678/609006487
+CGTN外语纪录,http://58.32.26.112:5080/609006487
 
 CGTN法语,http://124.77.202.8:49155/609006476
-CGTN法语,http://139.226.85.127:5678/609006476
+CGTN法语,http://58.32.26.112:5080/609006476
 CGTN法语,http://zqh2333.top:2222/rtp/239.93.55.50:5140
 
 CGTN西班牙语,http://124.77.202.8:49155/609006450
-CGTN西班牙语,http://139.226.85.127:5678/609006450
+CGTN西班牙语,http://58.32.26.112:5080/609006450
 
+CGTN阿拉伯语,http://58.32.26.112:5080/609154345
 CGTN阿拉伯语,http://124.77.202.8:49155/609154345
-CGTN阿拉伯语,http://139.226.85.127:5678/609154345
 
 
 众·家庭频道,#genre#
@@ -209,7 +225,7 @@ NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_108
 
 一年一度喜剧大赛,https://alicoccdncmnet-hd.inter.71edge.com/tslive/l1/c51_lb_728_300_t10/S2SosBg_68g057-zBj7nmfrgs91iP37_pf6vxKx85ogguLIU3CU8SW_Y7H-1PHvyi99Ii2JFYijxYOei6iZner8QzyvFSNdDHH4HKjClgQKWGTbBdcHKOCHdsU3b1N-BrKiw3S7j3SCX6dyCTs7rcy64zcIPximAOEVgehMq3yBKfCmtJcbxGNJTLBalpWxFnS9TqEPfTjxnpz6YXBKxsqktgAuvSZh0YMwgtqXXpGW4Acf6eDoCMetaXupxvOjeXiYwJ8PWE2EHCz8E5RUSVIkgzqdr0H_UCDMLBgDOxh9Fx5wQklSuDVjds1N736MIdknpyHFEh4FV_aYUv-nsSA/1dd9185f7c7a34c902ab9b23bf6e849c8/c51_lb_728_300_t10.m3u8?key=0baa5db205ac0d2962788b935d5dc8a5c&dis_t=1752408293&random=1&rand_hash=0&uuid=6f1d53dc-6873a0e5-454&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
 
-体育专区,https://iptv.catvod.com/yy/54645
+乡野专区,https://iptv.catvod.com/yy/79122
 
 动漫音乐专场,http://live.nctv.top/douyu1.php?id=9409703
 
@@ -217,7 +233,11 @@ NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_108
 
 双笙专场,http://live.nctv.top/douyu1.php?id=6476693
 
+听书专区,https://iptv.catvod.com/yy/9691
+
 周杰伦专场,http://live.nctv.top/douyu1.php?id=7537296
+
+国漫专区,https://iptv.catvod.com/yy/630045
 
 娱乐专区,https://iptv.catvod.com/yy/1509085223
 
@@ -231,15 +251,14 @@ NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_108
 
 室外专场,http://live.nctv.top/douyu1.php?id=9627625
 
-小品专区,https://iptv.catvod.com/yy/11348
-
 少儿专区,https://iptv.catvod.com/yy/1382736904
 
 日漫专区,https://iptv.catvod.com/yy/1459675153
 
-最强综艺趴,http://139.226.85.127:5678/629942228
+最强综艺趴,http://124.223.82.228:89/629942228
+最强综艺趴,http://58.32.26.112:5080/629942228
 
-江苏综艺,http://139.226.85.127:5678/626065193
+江苏综艺,http://58.32.26.112:5080/626065193
 
 沈腾马丽专场,http://live.nctv.top/douyu1.php?id=10153463
 
@@ -251,9 +270,12 @@ NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_108
 
 篮球专区,https://iptv.catvod.com/yy/1354946982
 
+经典电影,https://down-hls.qxiu.com/live/453135/index.m3u8
 经典电影,https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
 
 翻唱专场,http://live.nctv.top/douyu1.php?id=9572351
+
+舞蹈专区,https://iptv.catvod.com/yy/993
 
 苏州娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 
@@ -271,62 +293,66 @@ NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_108
 
 号·卫视剧场,#genre#
 三沙卫视,http://124.77.202.8:49155/961023778
-三沙卫视,http://139.226.85.127:5678/961023778
+三沙卫视,http://58.32.26.112:5080/961023778
 三沙卫视,http://192.151.150.154/live/ssws.m3u8
 
 东南卫视,http://207.56.13.146:81/cdnlive/dnws.m3u8
-东南卫视,http://124.77.202.8:49155/849116810
 东南卫视,http://192.151.150.154/live/dnwshd.m3u8
 
 东方卫视,http://207.56.13.146:81/cdnlive/dfws.m3u8
+东方卫视,http://124.223.82.228:89/651632648
 东方卫视,http://124.77.202.8:49155/651632648
-东方卫视,http://139.226.85.127:5678/651632648
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东方卫视,http://58.32.26.112:5080/651632648
 东方卫视,http://192.151.150.154/live/dfwshd.m3u8
 
 中国农林卫视,http://124.77.202.8:49155/956904896
-中国农林卫视,http://139.226.85.127:5678/956904896
+中国农林卫视,http://58.32.26.112:5080/956904896
 
 云南卫视,http://207.56.13.146:81/cdnlive/ynws.m3u8
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
 
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
+兵团卫视,http://124.223.82.228:89/956923145
 兵团卫视,http://124.77.202.8:49155/956923145
-兵团卫视,http://139.226.85.127:5678/956923145
+兵团卫视,http://58.32.26.112:5080/956923145
 兵团卫视,http://192.151.150.154/live/btws.m3u8
 
 内蒙古卫视,http://207.56.13.146:81/cdnlive/nmgws.m3u8
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 
 农林卫视,http://8.138.7.223/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86%E3%80%91/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.m3u8
+农林卫视,http://124.223.82.228:89/956904896
 
 北京卫视,http://207.56.13.146:81/cdnlive/bjws.m3u8
+北京卫视,http://124.223.82.228:89/630287636
+北京卫视,http://58.32.26.112:5080/630287636
 北京卫视,http://124.77.202.8:49155/630287636
-北京卫视,http://139.226.85.127:5678/630287636
 北京卫视,http://192.151.150.154/live/bjwshd.m3u8
 
-卫视,http://112.92.128.71:9003/hls/39/index.m3u8
-卫视,http://112.92.128.71:9003/hls/46/index.m3u8
-卫视,http://112.92.128.71:9003/hls/27/index.m3u8
+卫视,http://112.92.128.71:9003/hls/38/index.m3u8
 卫视,http://112.92.128.71:9003/hls/42/index.m3u8
+卫视,http://112.92.128.71:9003/hls/39/index.m3u8
+卫视,http://112.92.128.71:9003/hls/65/index.m3u8
 卫视,http://112.92.128.71:9003/hls/64/index.m3u8
-卫视,http://112.92.128.71:9003/hls/40/index.m3u8
-卫视,http://112.92.128.71:9003/hls/32/index.m3u8
-卫视,http://112.92.128.71:9003/hls/73/index.m3u8
+卫视,http://112.92.128.71:9003/hls/41/index.m3u8
+卫视,http://112.92.128.71:9003/hls/37/index.m3u8
+卫视,http://112.92.128.71:9003/hls/45/index.m3u8
 
 厦门卫视,http://192.151.150.154/live/xmws.m3u8
 
-吉林卫视,http://124.77.202.8:49155/947472500
-吉林卫视,http://139.226.85.127:5678/947472500
-吉林卫视,http://192.151.150.154/live/jlwshd.m3u8
 吉林卫视,http://207.56.13.146:81/cdnlive/jlws.m3u8
+吉林卫视,http://124.77.202.8:49155/947472500
+吉林卫视,http://58.32.26.112:5080/947472500
+吉林卫视,http://192.151.150.154/live/jlwshd.m3u8
 
 四川卫视,http://207.56.13.146:81/cdnlive/scws.m3u8
 四川卫视,http://192.151.150.154/live/scwshd.m3u8
 
+大湾区卫视,http://124.223.82.228:89/608917627
+大湾区卫视,http://58.32.26.112:5080/608917627
 大湾区卫视,http://124.77.202.8:49155/608917627
-大湾区卫视,http://139.226.85.127:5678/608917627
 大湾区卫视,http://192.151.150.154/live/nfws.m3u8
 
 天津卫视,http://207.56.13.146:81/cdnlive/tjws.m3u8
@@ -334,7 +360,7 @@ NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_108
 
 宁夏卫视,http://207.56.13.146:81/cdnlive/nxws.m3u8
 宁夏卫视,http://124.77.202.8:49155/738910535
-宁夏卫视,http://139.226.85.127:5678/738910535
+宁夏卫视,http://58.32.26.112:5080/738910535
 宁夏卫视,http://192.151.150.154/live/nxws.m3u8
 
 安徽卫视,http://207.56.13.146:81/cdnlive/ahws.m3u8
@@ -347,8 +373,9 @@ NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_108
 山西卫视,http://192.151.150.154/live/sxwshd.m3u8
 
 广东卫视,http://207.56.13.146:81/cdnlive/gdws.m3u8
+广东卫视,http://124.223.82.228:89/608831231
 广东卫视,http://124.77.202.8:49155/608831231
-广东卫视,http://139.226.85.127:5678/608831231
+广东卫视,http://58.32.26.112:5080/608831231
 广东卫视,http://192.151.150.154/live/gdwshd.m3u8
 
 广西卫视,http://207.56.13.146:81/cdnlive/gxws.m3u8
@@ -361,49 +388,52 @@ NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_108
 
 江苏卫视,http://207.56.13.146:81/cdnlive/jsws.m3u8
 江苏卫视,http://124.77.202.8:49155/623899368
-江苏卫视,http://139.226.85.127:5678/623899368
+江苏卫视,http://124.223.82.228:89/623899368
+江苏卫视,http://58.32.26.112:5080/623899368
 江苏卫视,http://173.208.212.130:8181/1080p/jsws.m3u8
 江苏卫视,http://192.151.150.154/live/jswshd.m3u8
 
 江西卫视,http://207.56.13.146:81/cdnlive/jxws.m3u8
+江西卫视,http://124.223.82.228:89/783847495
 江西卫视,http://124.77.202.8:49155/783847495
-江西卫视,http://139.226.85.127:5678/783847495
+江西卫视,http://58.32.26.112:5080/783847495
 江西卫视,http://192.151.150.154/live/jxwshd.m3u8
 
 河北卫视,http://207.56.13.146:81/cdnlive/hews.m3u8
+河北卫视,http://124.223.82.228:89/962042070
 河北卫视,http://124.77.202.8:49155/962042070
-河北卫视,http://139.226.85.127:5678/962042070
+河北卫视,http://58.32.26.112:5080/962042070
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
 
 河南卫视,http://207.56.13.146:81/cdnlive/haws.m3u8
 河南卫视,http://124.77.202.8:49155/790187291
-河南卫视,http://139.226.85.127:5678/790187291
+河南卫视,http://58.32.26.112:5080/790187291
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://192.151.150.154/live/hawshd.m3u8
 
 浙江卫视,http://207.56.13.146:81/cdnlive/zjws.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$2甘电FD直
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8$1甘电HD直
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$3甘电FD直
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$2甘电FD直
 浙江卫视,http://173.208.212.130:8181/1080p/zjws.m3u8
 浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
 
-海南卫视,http://124.77.202.8:49155/947472502
-海南卫视,http://139.226.85.127:5678/947472502
 海南卫视,http://207.56.13.146:81/cdnlive/lyws.m3u8
+海南卫视,http://124.77.202.8:49155/947472502
+海南卫视,http://58.32.26.112:5080/947472502
 
 海峡卫视,http://8.138.7.223/tv/hxws.m3u8
 海峡卫视,http://124.77.202.8:49155/849119120
-海峡卫视,http://139.226.85.127:5678/849119120
 
 深圳卫视,http://207.56.13.146:81/cdnlive/szws.m3u8
 深圳卫视,http://192.151.150.154/live/szwshd.m3u8
 
 湖北卫视,http://207.56.13.146:81/cdnlive/hbws.m3u8
+湖北卫视,http://124.223.82.228:89/947472496
 湖北卫视,http://124.77.202.8:49155/947472496
-湖北卫视,http://139.226.85.127:5678/947472496
+湖北卫视,http://58.32.26.112:5080/947472496
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 
 湖南卫视,http://207.56.13.146:81/cdnlive/hnws.m3u8
@@ -420,23 +450,25 @@ NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_108
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 
 辽宁卫视,http://207.56.13.146:81/cdnlive/lnws.m3u8
+辽宁卫视,http://124.223.82.228:89/630291707
 辽宁卫视,http://124.77.202.8:49155/630291707
-辽宁卫视,http://139.226.85.127:5678/630291707
+辽宁卫视,http://58.32.26.112:5080/630291707
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 
 重庆卫视,http://207.56.13.146:81/cdnlive/cqws.m3u8
 重庆卫视,http://124.77.202.8:49155/738910914
-重庆卫视,http://139.226.85.127:5678/738910914
+重庆卫视,http://58.32.26.112:5080/738910914
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
 
 陕西卫视,http://207.56.13.146:81/cdnlive/snws.m3u8
+陕西卫视,http://124.223.82.228:89/738910838
 陕西卫视,http://124.77.202.8:49155/738910838
-陕西卫视,http://139.226.85.127:5678/738910838
+陕西卫视,http://58.32.26.112:5080/738910838
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
 
 青海卫视,http://207.56.13.146:81/cdnlive/qhws.m3u8
+青海卫视,http://58.32.26.112:5080/947472506
 青海卫视,http://124.77.202.8:49155/947472506
-青海卫视,http://139.226.85.127:5678/947472506
 青海卫视,http://192.151.150.154/live/qhws.m3u8
 
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
@@ -453,49 +485,53 @@ NOW新闻,http://cdn.163189.xyz/163189/now
 
 三立新闻,https://4gtv.158.qzz.io/163189/6fb8aec9-e4b2-4bed-8832-b5e9cce4a830/
 
-上海新闻综合,http://139.226.85.127:5678/651632657
+上海新闻综合,http://124.223.82.228:89/651632657
+上海新闻综合,http://58.32.26.112:5080/651632657
 
-东森新闻,http://rihou.cc:555/tv/东森新闻
-
-公共新闻,http://139.226.85.127:5678/626064693
+公共新闻,http://58.32.26.112:5080/626064693
+公共新闻,http://124.223.82.228:89/626064693
 
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
 
-南京新闻综合,http://139.226.85.127:5678/838109047
+南京新闻综合,http://58.32.26.112:5080/838109047
 
-南通新闻综合,http://139.226.85.127:5678/955227985
+南通新闻综合,http://124.223.82.228:89/955227985
+南通新闻综合,http://58.32.26.112:5080/955227985
 
-宜兴新闻综合,http://139.226.85.127:5678/955227996
+宜兴新闻综合,http://124.223.82.228:89/955227996
+宜兴新闻综合,http://58.32.26.112:5080/955227996
 
-宿迁新闻综合,http://139.226.85.127:5678/639731832
+宿迁新闻综合,http://58.32.26.112:5080/639731832
 
-寰宇新闻,http://rihou.cc:555/tv/寰宇新闻
-
-徐州新闻综合,http://139.226.85.127:5678/639731747
+徐州新闻综合,http://58.32.26.112:5080/639731747
 
 无线新闻,http://cdn6.163189.xyz/163189/wxxw
 
 民视新闻,http://rihou.cc:555/tv/民视新闻
 
-江阴新闻综合,http://139.226.85.127:5678/955227979
+江阴新闻综合,http://124.223.82.228:89/955227979
+江阴新闻综合,http://58.32.26.112:5080/955227979
 
-泰州新闻综合,http://139.226.85.127:5678/639731818
+泰州新闻综合,http://58.32.26.112:5080/639731818
 
-淮安新闻综合,http://139.226.85.127:5678/639731826
+淮安新闻综合,http://58.32.26.112:5080/639731826
 
-溧水新闻综合,http://139.226.85.127:5678/639737327
+溧水新闻综合,http://124.223.82.228:89/639737327
+溧水新闻综合,http://58.32.26.112:5080/639737327
 
-盐城新闻综合,http://139.226.85.127:5678/639731825
+盐城新闻综合,http://124.223.82.228:89/639731825
+盐城新闻综合,http://58.32.26.112:5080/639731825
 
-连云港新闻综合,http://139.226.85.127:5678/639731715
+连云港新闻综合,http://58.32.26.112:5080/639731715
 
-镇江新闻综合,http://139.226.85.127:5678/639731783
+镇江新闻综合,http://58.32.26.112:5080/639731783
 
 长沙新闻,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/CSXWMPP360.m3u8
 
-陕西新闻资讯,http://139.226.85.127:5678/956909289
+陕西新闻资讯,http://124.223.82.228:89/956909289
+陕西新闻资讯,http://58.32.26.112:5080/956909289
 
 
 雨·戏曲文艺,#genre#
@@ -511,7 +547,8 @@ CN卡通,http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 
 DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 
-优漫卡通,http://139.226.85.127:5678/626064703
+优漫卡通,http://58.32.26.112:5080/626064703
+优漫卡通,http://192.151.150.154/live/ymkt.m3u8
 
 动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
 
@@ -519,19 +556,22 @@ DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 
-嘉佳卡通,http://139.226.85.127:5678/614952364
+卡酷少儿,http://192.151.150.154/live/btvkk.m3u8
+
+嘉佳卡通,http://58.32.26.112:5080/614952364
+嘉佳卡通,http://192.151.150.154/live/gdjjkt.m3u8
 
 广东少儿,http://192.151.150.154/live/gdtvs5.m3u8
 
 开心锤锤动漫,http://live.nctv.top/douyu1.php?id=9018297
 
-新动漫,http://139.226.85.127:5678/961930269
+新动漫,http://58.32.26.112:5080/961930269
 
 立秋动画,http://live.nctv.top/douyu1.php?id=10351891
 
 精选动漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
 
-经典动画大集合,http://139.226.85.127:5678/629942219
+经典动画大集合,http://58.32.26.112:5080/629942219
 
 金鹰卡通,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYKTMPP360.m3u8
 金鹰卡通,http://183.237.95.108:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -563,7 +603,8 @@ By2精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d0
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC动作电影,http://192.151.150.154/live/chcdz.m3u8
 
-CHC影迷电影,http://139.226.85.127:5678/952383261
+CHC影迷电影,http://124.223.82.228:89/952383261
+CHC影迷电影,http://58.32.26.112:5080/952383261
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 CHC影迷电影,http://192.151.150.154/live/chchd.m3u8
 
@@ -647,7 +688,8 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 
 经典老歌,https://down-hls.qxiu.com/live/461450/index.m3u8
 
-经典香港电影,http://139.226.85.127:5678/625703337
+经典香港电影,http://124.223.82.228:89/625703337
+经典香港电影,http://58.32.26.112:5080/625703337
 
 给我一首歌的时间,https://cfss.cc/api/kg/28273.mp4
 
@@ -719,11 +761,14 @@ CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 台湾生活,http://rihou.cc:555/tv/台湾生活
 
 四海钓鱼,http://124.77.202.8:49155/637444975
-四海钓鱼,http://139.226.85.127:5678/637444975
+四海钓鱼,http://124.223.82.228:89/637444975
+四海钓鱼,http://58.32.26.112:5080/637444975
 
-环球旅游,http://139.226.85.127:5678/958475356
+环球旅游,http://58.32.26.112:5080/958475356
 
-辽宁广播电视台生活,http://139.226.85.127:5678/962045226
+辽宁广播电视台生活,http://58.32.26.112:5080/962045226
+
+辽宁生活,http://124.223.82.228:89/962045226
 
 钓鱼欧尼,http://live.nctv.top/douyu1.php?id=10616765
 
@@ -731,12 +776,12 @@ CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 人·休闲健身,#genre#
 你的瑜伽女孩,http://live.nctv.top/douyu1.php?id=10205199
 
-快乐垂钓,http://124.77.202.8:49155/961930263
 快乐垂钓,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLCDMPP360.m3u8
-快乐垂钓,http://139.226.85.127:5678/961930263
+快乐垂钓,http://58.32.26.112:5080/961930263
+快乐垂钓,http://124.77.202.8:49155/961930263
 
 武术世界,http://124.77.202.8:49155/958475359
-武术世界,http://139.226.85.127:5678/958475359
+武术世界,http://58.32.26.112:5080/958475359
 
 
 来·其他综合,#genre#
@@ -780,11 +825,11 @@ CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 
 CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 
-CETV1,http://139.226.85.127:5678/923287154
+CETV1,http://58.32.26.112:5080/923287154
 
-CETV2,http://139.226.85.127:5678/923287211
+CETV2,http://58.32.26.112:5080/923287211
 
-CETV4,http://139.226.85.127:5678/923287339
+CETV4,http://58.32.26.112:5080/923287339
 
 CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
 
@@ -821,8 +866,8 @@ E!,http://23.237.104.106:8080/USA_E/index.m3u8
 E4 UK,http://epicboss.live/bjune@teksavvy.com/5193594414/9437
 
 EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 
 EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 
@@ -944,8 +989,6 @@ RTE One IE,http://epicboss.live/bjune@teksavvy.com/5193594414/4628
 
 RTHK32,http://cdn.163189.xyz/163189/rthk32
 
-RTM Asean,https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 S4C UK,http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/242020
@@ -982,8 +1025,8 @@ TVB功夫台,http://cdn6.163189.xyz/163189/yzwx
 
 TVB明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
 
-TVB星河,http://cdn6.163189.xyz/163189/tvbxh
 TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
+TVB星河,http://cdn6.163189.xyz/163189/tvbxh
 TVB星河,http://r.jdshipin.com/Voac4
 
 TVB翡翠剧集台(TVBDRAMA),http://cdn6.163189.xyz/163189/tvbd
@@ -1000,11 +1043,15 @@ VIUTV,https://cdn.163189.xyz/163189/viu
 
 WE TV,http://23.237.104.106:8080/USA_WE_TV/mpegts
 
+Wen,https://iptv.catvod.com/douyin/164347568
+
 X SPORT 🇷🇺,http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 ZB Cartoon,https://server.zillarbarta.com/zbcatun/video.m3u8
 
 ZB Cinema,https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+
+beila,https://iptv.catvod.com/douyin/SQii522.
 
 fuse,http://23.237.104.106:8080/USA_FUSE/index.m3u8
 
@@ -1054,7 +1101,10 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 上海临港大道东大公路,https://rvsh.jtw.sh.gov.cn/live/310120a4-3d7c-4a7d-82dc-71fde233e060_sub/index.m3u8?t=1902119782&k=e5d9cad0fb4bde78
 
-上海第一财经,http://139.226.85.127:5678/608780988
+上海第一财经,http://58.32.26.112:5080/608780988
+
+上视东方影视,http://124.223.82.228:89/617290047
+上视东方影视,http://58.32.26.112:5080/617290047
 
 不思异剧场,http://live.nctv.top/douyu1.php?id=9297412
 
@@ -1066,9 +1116,9 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 东风破,https://cfss.cc/api/kg/158899.mp4
 
-中华特产,http://139.226.85.127:5678/959986618
+中华特产,http://58.32.26.112:5080/959986618
 
-中国天气,http://139.226.85.127:5678/959986621
+中国天气,http://58.32.26.112:5080/959986621
 
 中国教育3,http://192.151.150.154/live/cetv3.m3u8
 
@@ -1076,8 +1126,8 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 中央新影-老故事,http://192.151.150.154/live/lgs.m3u8
 
-中学生,http://139.226.85.127:5678/708869532
 中学生,http://124.77.202.8:49155/708869532
+中学生,http://58.32.26.112:5080/708869532
 
 中文DJ舞曲点播,https://txmov2.a.kwimgs.com/bs3/video-hls/5225020119572067546_hlsb.m3u8
 
@@ -1087,6 +1137,8 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 乡间的路,https://cfss.cc/api/kg/15118204.mp4
 
+二狗,https://live13.zubmhu.com/live/75241502.m3u8
+
 云,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 
 云浮文旅,https://livestream.oeeee.com/slive/28284.m3u8
@@ -1095,11 +1147,13 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 以父之名,https://cfss.cc/api/kg/758240.mp4
 
-体育休闲,http://139.226.85.127:5678/626064707
+体育休闲,http://58.32.26.112:5080/626064707
 
 你听得到,https://cfss.cc/api/kg/592430.mp4
 
 你好吗,https://cfss.cc/api/kg/758247.mp4
+
+便便🍦,https://iptv.catvod.com/douyin/98609982233
 
 倒带,https://cfss.cc/api/kg/57894.mp4
 
@@ -1117,6 +1171,8 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 公视戏剧,https://cdn12.178.indevs.in/163189/2973b910e7719c08
 
+六六侃球,https://live13.zubmhu.com/live/99460265.m3u8
+
 兰亭序,https://cfss.cc/api/kg/756476.mp4
 
 冰糖葫芦没放盐V,http://live.nctv.top/douyu1.php?id=3505453
@@ -1127,6 +1183,8 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 分裂,https://cfss.cc/api/kg/758257.mp4
 分裂,https://alimov2.a.kwimgs.com/upic/2024/10/09/09/BMjAyNDEwMDkwOTA4NDFfMTMxNzAwMDUwNV8xNDU2Nzg0MDk5MDdfMl8z_b_Bf4bc983e2d5804ab066c988ba7652ec5.mp4
+
+刘丝壶要升咖,https://iptv.catvod.com/douyin/KENNY_LIU
 
 刘少,https://iptv.catvod.com/douyin/LIUFUWEN666
 
@@ -1139,6 +1197,8 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 北京影帝的分身,http://live.nctv.top/douyu1.php?id=9805480
 
 北外滩,https://tftp6graunmttghanhctofa3uymmcpf5gkmmzqczgs45upiu1ha5xpw.100ycdn.com/live-ws.kksmg.com/live/webcam1/playlist.m3u8?wsSession=3ccfdb4284eaea73bb7cab60-177204275008725&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168218612390266553
+
+十安,https://live13.zubmhu.com/live/05624449.m3u8
 
 千山万水,https://cfss.cc/api/kg/237276.mp4
 
@@ -1154,13 +1214,13 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 单机/三国战记,http://live.nctv.top/douyu1.php?id=6122419
 
-南京十八,http://139.226.85.127:5678/838151753
+南京十八,http://58.32.26.112:5080/838151753
 
-南京教科,http://139.226.85.127:5678/838153729
+南京教科,http://58.32.26.112:5080/838153729
 
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 
-南方影视,http://139.226.85.127:5678/614961829
+南方影视,http://58.32.26.112:5080/614961829
 
 即兴曲,https://cfss.cc/api/kg/13559898.mp4
 
@@ -1173,19 +1233,20 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 发如雪,https://cfss.cc/api/kg/2761.mp4
 
 发现之旅,http://124.77.202.8:49155/624878970
-发现之旅,http://139.226.85.127:5678/624878970
+发现之旅,http://58.32.26.112:5080/624878970
 
+可可,https://live06.zuqiu106.com/live/57260225.m3u8
 可可,https://iptv.catvod.com/douyin/80692791170
 
 可爱女人,https://cfss.cc/api/kg/596815.mp4
-
-可馨,https://live13.zubmhu.com/live/14371201.m3u8
 
 听妈妈的话,https://cfss.cc/api/kg/578726.mp4
 
 听见下雨的声音,https://cfss.cc/api/kg/174237.mp4
 
 告白气球,https://cfss.cc/api/kg/589001.mp4
+
+周八,https://iptv.catvod.com/douyin/57968913238
 
 周大侠,https://cfss.cc/api/kg/53299.mp4
 
@@ -1270,10 +1331,6 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 唐NTD,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 
-啊纯,https://iptv.catvod.com/douyin/73014615660
-
-喵虎,https://kbpull.kktv8.com/livekktv/125279564/playlist.m3u8
-
 四大名著,https://lvbdcdncmn.inter.71edge.com/tslive/l1/c52_lb_568_300_t10/JuZaYFfgAtgzeXENAS1zAE098-EGizvi9nPyECctaYL6rieOqt7Q1KcZ4FGU4o3UUwpf5CbV_nUsDbQg6NsUgbaKgmctqIUwA_QC1rbrgBQxdxXRLPaFs_72-dTZ9RfNKlNk-q4ijiT_NDcjcHKt9xDb1Eqjc_SZlsuONXiTyrN7Pf0NpHYoo8TtkhTnxhUA1rZTDlGr_OhabLQs7kUhuQmWsru0TSRbLz5HGJh_c3Dyx5K_G39iq69d-esVm-DuOSYw2HZW5BZdIPhr87zSBI2nAkwdKUaqY00Hzz-AXgJ6-Cx--ZL-3uMHEMgiE9SUmFSErHMOhGX8s8ogQkI3lg/11e4badc79479921d33b383ae671d68fc/c52_lb_568_300_t10.m3u8?key=0baa5db205ac0d296684015f97ee400bf&dis_t=1752408227&uuid=6f1d53dc-6873a0a3-45b&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
 
 回到过去,https://cfss.cc/api/kg/5030038.mp4
@@ -1310,14 +1367,14 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 太阳之子,https://cfss.cc/api/kg/14850352.mp4
 
-央视,http://112.92.128.71:9003/hls/3/index.m3u8
-央视,http://112.92.128.71:9003/hls/6/index.m3u8
-央视,http://112.92.128.71:9003/hls/13/index.m3u8
-央视,http://112.92.128.71:9003/hls/7/index.m3u8
-央视,http://112.92.128.71:9003/hls/10/index.m3u8
 央视,http://112.92.128.71:9003/hls/2/index.m3u8
 央视,http://112.92.128.71:9003/hls/1/index.m3u8
+央视,http://112.92.128.71:9003/hls/12/index.m3u8
+央视,http://112.92.128.71:9003/hls/7/index.m3u8
+央视,http://112.92.128.71:9003/hls/3/index.m3u8
+央视,http://112.92.128.71:9003/hls/13/index.m3u8
 央视,http://112.92.128.71:9003/hls/15/index.m3u8
+央视,http://112.92.128.71:9003/hls/4/index.m3u8
 
 奈奈,https://live06.zuqiu106.com/live/36571087.m3u8
 
@@ -1327,43 +1384,49 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 她的睫毛,https://cfss.cc/api/kg/597971.mp4
 
+好命彭,https://iptv.catvod.com/douyin/44835660306
+
 威廉古堡,https://cfss.cc/api/kg/756497.mp4
 
 娘子,https://cfss.cc/api/kg/603067.mp4
 
-宁夏广播电视台文旅,http://139.226.85.127:5678/962067523
+宁夏广播电视台文旅,http://58.32.26.112:5080/962067523
 
-宁夏广播电视台经济,http://139.226.85.127:5678/962067520
+宁夏广播电视台经济,http://58.32.26.112:5080/962067520
+
+宁夏文旅,http://124.223.82.228:89/962067523
+
+宁夏经济,http://124.223.82.228:89/962067520
 
 安静,https://cfss.cc/api/kg/756685.mp4
 
 完美主义,https://cfss.cc/api/kg/603974.mp4
 
-寰宇台湾,http://rihou.cc:555/tv/寰宇台湾
-
 对不起,https://cfss.cc/api/kg/757175.mp4
 
 将军,https://cfss.cc/api/kg/60986.mp4
 
-小妖精,https://live13.zubmhu.com/live/60882706.m3u8
+小北聊球,https://live06.zuqiu106.com/live/25364189.m3u8
 
 小小天才搞笑视频,http://live.nctv.top/douyu1.php?id=9419678
 
 小小鹿老师,http://live.nctv.top/douyu1.php?id=9442889
 
-小羊不迷糊,https://iptv.catvod.com/douyin/1365563194
+小涵,https://down-hls.qxiu.com/live/459848/index.m3u8
 
 小鸡,https://live01-cn-ali.zytlka.com/live/81186543.m3u8
 
 少打白骨精,http://live.nctv.top/douyu1.php?id=11531165
 
-山东教育,http://139.226.85.127:5678/609154353
+山东教育,http://58.32.26.112:5080/609154353
 
 山茶花,https://down-hls.qxiu.com/live/458650/index.m3u8
 
 崔杋圭五颜一,http://live.nctv.top/douyu1.php?id=8189873
 
 崔然竣舞台天才,http://live.nctv.top/douyu1.php?id=113158
+
+希希,https://live06.zuqiu106.com/live/08624066.m3u8
 
 带劲越南鼓点播,https://txmov2.a.kwimgs.com/bs3/video-hls/5199968844019002757_hlsb.m3u8
 
@@ -1387,6 +1450,8 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 快摇越南鼓点播,https://txmov2.a.kwimgs.com/bs3/video-hls/5246130739648463544_hlsb.m3u8
 
+总舵主,https://live13.zubmhu.com/live/74457427.m3u8
+
 悉奇,http://live.nctv.top/douyu1.php?id=9401473
 
 戏剧影视,http://xatv-yt.xiancity.cn/live/4/index.m3u8
@@ -1407,23 +1472,23 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 手语,https://cfss.cc/api/kg/601348.mp4
 
-抗战经典影片,http://139.226.85.127:5678/617432318
+抗战经典影片,http://124.223.82.228:89/617432318
+抗战经典影片,http://58.32.26.112:5080/617432318
 
 搁浅,https://cfss.cc/api/kg/756760.mp4
 
 文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 
-文文,https://iptv.catvod.com/douyin/34721477049
-
 断了的弦,https://cfss.cc/api/kg/756412.mp4
 
-新动力量创一流,http://139.226.85.127:5678/713589837
+新动力量创一流,http://58.32.26.112:5080/713589837
 
 新唐人,http://rihou.cc:555/tv/NTD
 
 新增更多的港澳台，修复了蜘蛛,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d0eiu0vog65rvb7pkel0&ratio=720p&line=0
 
-新片放映厅,http://139.226.85.127:5678/619495952
+新片放映厅,http://124.223.82.228:89/619495952
+新片放映厅,http://58.32.26.112:5080/619495952
 
 明明就,https://cfss.cc/api/kg/596504.mp4
 
@@ -1450,6 +1515,8 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 枫,https://cfss.cc/api/kg/2808.mp4
 
+桃妖,https://live06.zuqiu106.com/live/96158820.m3u8
+
 武乡融媒体,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
 
 武林外传,https://lvbdcdncmn.inter.71edge.com/tslive/l1/c52_lb_553_300_t10/I67sb6wvoWaxfjPEdSuB8xyBShFln4Poub7LGIzPt5oGLcKaLXD21aR_t20nEIxJFmaf_i6EYQ77gA-gLJ3xOTtq6K7hpgCREwLfbuNMXruJdFta9-ai9bYk4cTMbhQgRh9SCkE3yt46X4E0qOVADDdga3TMRSLnFscFYr-_s4Sd2sgykmnFa4-hdgX9599FiW_RX5VYGH9B1jyj748_CAu4VgqqTDwxUx8w556tCWY7mlb1r84RWuip72e4H8-HkUuBUoFeD4aw9m1HOUfgwx7ixDqJUFOmq9F-LeKLTZ2Ap6fobRuaUiaSqHsCWvuy9XWe5KWBiZv6bUJ8oAuqkA/1a6758d872929c8d41a7629db52a831f7/c52_lb_553_300_t10.m3u8?key=0baa5db205ac0d29618a2e8d7964b7e4e&dis_t=1752408084&uuid=6f1d53dc-6873a014-459&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
@@ -1458,19 +1525,23 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 水手怕水,https://cfss.cc/api/kg/68318.mp4
 
-江苏国际,http://139.226.85.127:5678/626064674
+水水家猪蹄,https://iptv.catvod.com/douyin/ssjzt777
 
-江苏城市,http://139.226.85.127:5678/626064714
+江苏国际,http://58.32.26.112:5080/626064674
 
-江苏影视,http://139.226.85.127:5678/626064697
+江苏城市,http://58.32.26.112:5080/626064714
 
-江苏教育,http://139.226.85.127:5678/628008321
+江苏影视,http://58.32.26.112:5080/626064697
+
+江苏教育,http://58.32.26.112:5080/628008321
 
 河北,https://event.pull.hebtv.com:443/live/live101.m3u8
 
 河南曲艺,http://1.94.31.214/php/hntv.php?id=jczy
 
 浪漫手机,https://cfss.cc/api/kg/756738.mp4
+
+海燕,https://iptv.catvod.com/douyin/wanghaiyan120520
 
 淘金小镇,https://cfss.cc/api/kg/14862409.mp4
 
@@ -1504,31 +1575,31 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 烟花易冷,https://cfss.cc/api/kg/79424.mp4
 
-熊猫频道01,http://139.226.85.127:5678/609158151
+熊猫频道01,http://58.32.26.112:5080/609158151
 
-熊猫频道1,http://139.226.85.127:5678/608933610
+熊猫频道1,http://58.32.26.112:5080/608933610
 
-熊猫频道10,http://139.226.85.127:5678/609169285
+熊猫频道10,http://58.32.26.112:5080/609169285
 
-熊猫频道2,http://139.226.85.127:5678/608933640
+熊猫频道2,http://58.32.26.112:5080/608933640
 
-熊猫频道3,http://139.226.85.127:5678/608934619
+熊猫频道3,http://58.32.26.112:5080/608934619
 
-熊猫频道4,http://139.226.85.127:5678/608934721
+熊猫频道4,http://58.32.26.112:5080/608934721
 
-熊猫频道5,http://139.226.85.127:5678/608935104
+熊猫频道5,http://58.32.26.112:5080/608935104
 
-熊猫频道6,http://139.226.85.127:5678/608935797
+熊猫频道6,http://58.32.26.112:5080/608935797
 
-熊猫频道7,http://139.226.85.127:5678/609169286
+熊猫频道7,http://58.32.26.112:5080/609169286
 
-熊猫频道8,http://139.226.85.127:5678/609169287
+熊猫频道8,http://58.32.26.112:5080/609169287
 
-熊猫频道9,http://139.226.85.127:5678/609169226
+熊猫频道9,http://58.32.26.112:5080/609169226
 
 爱你没差,https://cfss.cc/api/kg/601548.mp4
 
-爱吃饭饭,https://live01-cn-ali.zytlka.com/live/50309152.m3u8
+爱吃葡萄酸,https://iptv.catvod.com/douyin/1651809031
 
 爱在西元前,https://cfss.cc/api/kg/596904.mp4
 
@@ -1572,11 +1643,11 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 百姓调解,http://39.165.39.49:85/tsfile/live/1124_1.m3u8?key=txiptv&playlive=0&authid=0
 
-睛彩广场,http://feilong123.vip/409990236/iptv/gdy.php?id=3
 睛彩广场,http://feilong123.vip/409990236/iptv/gdy.php?id=20
+睛彩广场,http://feilong123.vip/409990236/iptv/gdy.php?id=3
 
-睛彩竞技,http://feilong123.vip/409990236/iptv/gdy.php?id=24
 睛彩竞技,http://feilong123.vip/409990236/iptv/gdy.php?id=18
+睛彩竞技,http://feilong123.vip/409990236/iptv/gdy.php?id=24
 
 睛彩篮球,http://feilong123.vip/409990236/iptv/gdy.php?id=23
 睛彩篮球,http://feilong123.vip/409990236/iptv/gdy.php?id=2
@@ -1599,9 +1670,9 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 米兰的小铁匠,https://cfss.cc/api/kg/52792.mp4
 
-米苏,https://live06.zuqiu106.com/live/25685442.m3u8
-
 粉色海洋,https://cfss.cc/api/kg/7232105.mp4
+
+糖糖tt,https://iptv.catvod.com/douyin/71142508734
 
 红姐姐,https://live01-cn-ali.zytlka.com/live/04151736.m3u8
 
@@ -1609,9 +1680,9 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 红颜无霜,https://cfss.cc/api/kg/7979236.mp4
 
-纯纯baby,https://iptv.catvod.com/douyin/80176814321
-
 纳豆奶奶,http://live.nctv.top/douyu1.php?id=8745628
+
+经典短剧,https://down-hls.qxiu.com/live/455246/index.m3u8
 
 绘说篮球C,http://live.nctv.top/douyu1.php?id=9401305
 
@@ -1619,14 +1690,14 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 翡翠一台(TVB1),http://cdn6.163189.xyz/163189/tvb1
 
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,https://cdn6.163189.xyz/163189/fct4k
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://cdn6.163189.xyz/163189/fct
 翡翠台,http://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 
 老故事,http://124.77.202.8:49155/884121956
-老故事,http://139.226.85.127:5678/884121956
+老故事,http://58.32.26.112:5080/884121956
 
 老高与小茉,http://live.nctv.top/douyu1.php?id=236461
 
@@ -1634,13 +1705,13 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 至臻视界,http://feilong123.vip/409990236/iptv/gdy.php?id=47
 
-芭比宁,https://iptv.catvod.com/douyin/ningmei2007
-
 花海,https://cfss.cc/api/kg/29532.mp4
 
 苏州,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 
-茶,http://139.226.85.127:5678/961930369
+茜茜茜,https://iptv.catvod.com/douyin/48910553685
+
+茶,http://58.32.26.112:5080/961930369
 
 茶啊二中,http://live.nctv.top/douyu1.php?id=2925610
 
@@ -1670,7 +1741,8 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 负担亡魂,http://live.nctv.top/douyu1.php?id=10308242
 
-财富天下,http://139.226.85.127:5678/956923159
+财富天下,http://124.223.82.228:89/956923159
+财富天下,http://58.32.26.112:5080/956923159
 
 赵本删不删,http://live.nctv.top/douyu1.php?id=9837104
 
@@ -1690,14 +1762,22 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 轨迹,https://cfss.cc/api/kg/1129.mp4
 
+辽宁体育,http://124.223.82.228:89/962067526
+
+辽宁公共,http://124.223.82.228:89/962045223
+
 辽宁广播电视台体育休闲,http://124.77.202.8:49155/962067526
-辽宁广播电视台体育休闲,http://139.226.85.127:5678/962067526
+辽宁广播电视台体育休闲,http://58.32.26.112:5080/962067526
 
-辽宁广播电视台公共,http://139.226.85.127:5678/962045223
+辽宁广播电视台公共,http://58.32.26.112:5080/962045223
 
-辽宁广播电视台影视剧,http://139.226.85.127:5678/962067517
+辽宁广播电视台影视剧,http://58.32.26.112:5080/962067517
+
+辽宁影视剧,http://124.223.82.228:89/962067517
 
 还在流浪,https://cfss.cc/api/kg/6761264.mp4
+
+迷糊小羊,https://iptv.catvod.com/douyin/46224253966
 
 退后,https://cfss.cc/api/kg/179586.mp4
 
@@ -1713,13 +1793,11 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 采昌影剧台,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
 
-重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
-
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://cdn6.163189.xyz/163189/cwjd
 
-金光布袋戏,http://o11.163189.xyz/stream/live/jgbdx/
 金光布袋戏,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
+金光布袋戏,http://o11.163189.xyz/stream/live/jgbdx/
 
 金鹰纪实,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYJSMPP360.m3u8
 
@@ -1729,44 +1807,16 @@ tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.
 
 长沙政法,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/CSZFMPP360.m3u8
 
+闫闫呀,https://iptv.catvod.com/douyin/79649570741
+
 阳光宅男,https://cfss.cc/api/kg/6334.mp4
 
 阿久,https://live13.zubmhu.com/live/61705985.m3u8
 
 陆家嘴,https://tftp4ge3drmt1go5nhcju8yzdrptpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi5/playlist.m3u8?wsSession=8a15d23fe661e20e47cce670-177203770982085&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168187559701054860
 
+陕西体育,http://124.223.82.228:89/956909356
+
+陕西体育休闲,http://58.32.26.112:5080/956909356
 陕西体育休闲,http://124.77.202.8:49155/956909356
-陕西体育休闲,http://139.226.85.127:5678/956909356
-
-陕西秦腔,http://139.226.85.127:5678/956909303
-
-陕西都市青春,http://139.226.85.127:5678/956909358
-
-陕西银龄,http://139.226.85.127:5678/956909362
-
-雨下一整晚,https://cfss.cc/api/kg/21152.mp4
-
-雨雨,https://live01-cn-ali.zytlka.com/live/50902935.m3u8
-
-霍元甲,https://cfss.cc/api/kg/596581.mp4
-
-青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-
-青花瓷,https://cfss.cc/api/kg/592096.mp4
-
-靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003
-
-靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
-
-顾止最爱的小胖宝贝,http://live.nctv.top/douyu1.php?id=238643
-
-魔都眼,https://tftp0gaa1hcjagozdcmttgyan45djq311475uf3issh5pchzgg55p.100ycdn.com/live-ws.kksmg.com/live/sdi6/playlist.m3u8?wsSession=5b0157b25e26fa5fbe3ebedf-177204125960201&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168218615997031039
-
-鹰击长空,https://live13.zubmhu.com/live/70692098.m3u8
-
-鹿鹿,https://live01-cn-ali.zytlka.com/live/11451935.m3u8
-
-黄河,http://113.26.251.182:8009/hls/24/index.m3u8
-
-黄金甲,https://cfss.cc/api/kg/756761.mp4
 
