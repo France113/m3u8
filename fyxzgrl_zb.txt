@@ -8,17 +8,17 @@ CCTV-2 财经,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 CCTV-3 综艺,http://113.98.11.46:3000/624878271
 CCTV-3 综艺,http://204.12.221.218:8181/3m1080p/cctv3.m3u8
 
-CCTV-4 中文国际,http://113.98.11.46:3000/631780421
 CCTV-4 中文国际,http://113.98.11.46:3000/608807419
 CCTV-4 中文国际,http://113.98.11.46:3000/608807416
+CCTV-4 中文国际,http://113.98.11.46:3000/631780421
 CCTV-4 中文国际,http://204.12.221.218:8181/3m1080p/cctv4.m3u8
 
-CCTV-5 体育,http://113.98.11.46:3000/969508298
 CCTV-5 体育,http://113.98.11.46:3000/641886683
-CCTV-5 体育,http://204.12.221.218:8181/3m1080p/cctv5p.m3u8
 
 CCTV-6 电影,http://113.98.11.46:3000/624878396
 CCTV-6 电影,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
+
+CCTV-7 国防军事,http://113.98.11.46:3000/673168121
 
 CCTV-8 电视剧,http://113.98.11.46:3000/624878356
 CCTV-8 电视剧,http://204.12.221.218:8181/3m1080p/cctv8.m3u8
@@ -33,8 +33,10 @@ CCTV-12 社会与法,http://113.98.11.46:3000/673168185
 
 CCTV-13 新闻,http://113.98.11.46:3000/608807423
 
+CCTV-14 少儿,http://113.98.11.46:3000/624878440
 CCTV-14 少儿,http://204.12.221.218:8181/3m1080p/cctv14.m3u8
 
+CCTV-15 音乐,http://113.98.11.46:3000/673168223
 CCTV-15 音乐,http://204.12.221.218:8181/3m1080p/cctv15.m3u8
 
 CCTV-16 奥林匹克,http://204.12.221.218:8181/3m1080p/cctv16.m3u8
@@ -58,9 +60,15 @@ CGTN阿拉伯语,http://113.98.11.46:3000/609154345
 
 
 公·家庭频道,#genre#
+CHC影迷电影,http://113.98.11.46:3000/952383261
+
 上海第一财经,http://113.98.11.46:3000/608780988
 
-全国青年体操U系列冠军赛 男子成年甲组个人全能决赛 清流播出,http://113.98.11.46:3000/969469418
+中华小当家「动漫」,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342413
+
+中华特产,http://113.98.11.46:3000/959986618
+
+吉林综艺文化,http://113.98.11.46:3000/968553163
 
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
 
@@ -70,17 +78,30 @@ CGTN阿拉伯语,http://113.98.11.46:3000/609154345
 
 江苏综艺,http://113.98.11.46:3000/626065193
 
+电影_喜剧,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352877
+
+电影_喜剧专场,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602044
+
+电影_宇宙,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342428
+
+电影_怪兽系列,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059554
+
+电影_搞笑喜剧,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342423
+
 第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=c8db609722f9ed252559f883cc079200&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=9c40de9ef5c8cdf9cc21d6ad9e6b9d76&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=3c6cb6f00aa32febab803c0b2304d5d0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=50d4da670b986b3815f3797d1ffe0c6e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=3c6cb6f00aa32febab803c0b2304d5d0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 财富天下,http://113.98.11.46:3000/956923159
+
+马拉松系列赛 佛山市环两江稻田马拉松 清流播出,http://113.98.11.46:3000/969548456
 
 
 众·卫视剧场,#genre#
 三沙卫视,http://113.98.11.46:3000/961023778
 
+东南卫视,http://113.98.11.46:3000/849116810
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 
 东方卫视,http://113.98.11.46:3000/651632648
@@ -116,7 +137,6 @@ CGTN阿拉伯语,http://113.98.11.46:3000/609154345
 
 山西卫视,http://204.12.221.218:8181/3m1080p/sxws.m3u8
 
-广东卫视,http://113.98.11.46:3000/608831231
 广东卫视,http://204.12.221.218:8181/3m1080p/gdws.m3u8
 
 江苏卫视,http://113.98.11.46:3000/623899368
@@ -150,7 +170,6 @@ CGTN阿拉伯语,http://113.98.11.46:3000/609154345
 辽宁卫视,http://113.98.11.46:3000/630291707
 辽宁卫视,http://204.12.221.218:8181/3m1080p/lnws.m3u8
 
-重庆卫视,http://113.98.11.46:3000/738910914
 重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
 
 陕西卫视,http://113.98.11.46:3000/738910838
@@ -162,10 +181,10 @@ CGTN阿拉伯语,http://113.98.11.46:3000/609154345
 
 
 号·新闻资讯,#genre#
-上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=c0bc623be007e5295d462465c7bd7bd7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=6f4b191d0930fafab8274665578e1df8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=b42305d47a7ea7de356f6b9953dd63fb&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=a064629942f561cf9f5a930648802197&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=c0bc623be007e5295d462465c7bd7bd7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 
@@ -184,8 +203,8 @@ CGTN阿拉伯语,http://113.98.11.46:3000/609154345
 
 南通新闻综合,http://113.98.11.46:3000/955227985
 
-哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
+哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
 
 哈尔滨资讯,https://stream.hrbtv.net/zxpd/sd/live.m3u8
 
@@ -208,8 +227,8 @@ CGTN阿拉伯语,http://113.98.11.46:3000/609154345
 
 泰州新闻综合,http://113.98.11.46:3000/639731818
 
-浙江新闻,http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
 浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
+浙江新闻,http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
 
 海南广播电视总台新闻,http://113.98.11.46:3000/962067517
 
@@ -235,13 +254,35 @@ CGTN阿拉伯语,http://113.98.11.46:3000/609154345
 鹤壁新闻,http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
 
 
+*·戏曲文艺,#genre#
+BWF 王祉怡PK宫崎友花 凤凰冲决赛 刘子瑜/安琪拉VS陈康乐/蒂娜,http://113.98.11.46:3000/969598548
+
+快乐垂钓,http://113.98.11.46:3000/961930263
+
+梨园,http://113.98.11.46:3000/961930369
+
+治愈•放松「音乐」,http://tv.zimtv.cn/tv/player/api/huya.php?id=21241811
+
+电影_喜乐影院,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059580
+
+阅读•学习「音乐」,http://tv.zimtv.cn/tv/player/api/huya.php?id=21241813
+
+音乐石榴「音乐」,http://tv.zimtv.cn/tv/player/api/huya.php?id=17091681
+
+
 枫·少儿动漫,#genre#
+七龙珠「动漫」,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601966
+
 优漫卡通,http://113.98.11.46:3000/626064703
 优漫卡通,http://204.12.221.218:8181/3m1080p/ymkt.m3u8
+
+动漫•1「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=19757963
 
 北京卡酷少儿,http://204.12.221.218:8181/3m1080p/btvkk.m3u8
 
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+
+哆啦A梦「动漫」,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601963
 
 嘉佳卡通,http://113.98.11.46:3000/614952364
 嘉佳卡通,http://204.12.221.218:8181/3m1080p/gdjjkt.m3u8
@@ -249,16 +290,22 @@ CGTN阿拉伯语,http://113.98.11.46:3000/609154345
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
 
+海南广播电视总台少儿,http://113.98.11.46:3000/962067523
+
+猫和老鼠「动漫」,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352879
+
+经典动画大集合,http://113.98.11.46:3000/629942219
+
 
 观·影音娱乐,#genre#
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 
 上视东方影视,http://113.98.11.46:3000/617290047
 
-东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=4119308d25ef60295b2aa8f2898e3e31&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=6b0126f9b7bc4f48ba696eec5680e906&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=c016ecf40cfad98bdb2f24dae2067863&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=0995015e995fbffe5924ab43ff48f40f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=6b0126f9b7bc4f48ba696eec5680e906&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=4119308d25ef60295b2aa8f2898e3e31&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 
@@ -266,15 +313,161 @@ CGTN阿拉伯语,http://113.98.11.46:3000/609154345
 
 中央新影-老故事,http://204.12.221.218:8181/3m1080p/lgs.m3u8
 
+南方影视,http://113.98.11.46:3000/614961829
+
+吉林影视,http://113.98.11.46:3000/968553184
+
 哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
+
+恐怖电影「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=23419131
+
+新片放映厅,http://113.98.11.46:3000/619495952
+
+止戈电影「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=19863777
 
 江苏影视,http://113.98.11.46:3000/626064697
 
 浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 浙江教科影视,http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
 
+电影_不挤影院,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352897
+
+电影_丧尸片,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059578
+
+电影_八点档,http://tv.zimtv.cn/tv/player/api/huya.php?id=880261
+
+电影_刘德华,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342424
+
+电影_功夫片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352941
+
+电影_动作电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602077
+
+电影_发哥,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342387
+
+电影_变形金刚,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059596
+
+电影_古装片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11336590
+
+电影_周星星,http://tv.zimtv.cn/tv/player/api/huya.php?id=11336587
+
+电影_国产,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352973
+
+电影_国产悬疑,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342395
+
+电影_嫣然影厅,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601977
+
+电影_小鬼头,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352963
+
+电影_强森,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059581
+
+电影_快意江湖,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342435
+
+电影_怪兽,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059577
+
+电影_成龙,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342386
+
+电影_战争,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059592
+
+电影_战争片,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059574
+
+电影_推荐,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602041
+
+电影_搞笑恐怖,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601960
+
+电影_救援,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059594
+
+电影_斯坦森,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059588
+
+电影_星爷,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342412
+
+电影_李连杰,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342390
+
+电影_枪战,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059579
+
+电影_梁家辉,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342429
+
+电影_欢笑影院,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352894
+
+电影_武侠,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342427
+
+电影_死神来了,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352903
+
+电影_沈腾,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601968
+
+电影_洪金宝,http://tv.zimtv.cn/tv/player/api/huya.php?id=11279251
+
+电影_海盗,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059595
+
+电影_港片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602043
+
+电影_漫威,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602034
+
+电影_灾难片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602075
+
+电影_热血,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352934
+
+电影_犯罪片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352974
+
+电影_玄幻,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342414
+
+电影_王晶,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602058
+
+电影_盗墓,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059552
+
+电影_经典港片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352965
+
+电影_罪犯,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352962
+
+电影_英叔,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342421
+
+电影_蘑菇影厅,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601981
+
+电影_蜘蛛侠,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059599
+
+电影_警匪,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352886
+
+电影_许氏三杰,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602033
+
+电影_谍战,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059585
+
+电影_谍战片,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059587
+
+电影_贺岁,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601971
+
+电影_贺岁片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601986
+
+电影_赛车,http://tv.zimtv.cn/tv/player/api/huya.php?id=11279247
+
+电影_镖行天下,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352969
+
+电影_高分动作,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352884
+
+电影_高能反转,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352887
+
+电影_黄渤,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352876
+
+电影_黑帮斗争,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342419
+
+电影_黑帮片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11336719
+
 经典香港电影,http://113.98.11.46:3000/625703337
+
+解说_亮哥讲电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=16144175
+
+解说_大象放映室,http://tv.zimtv.cn/tv/player/api/huya.php?id=21277391
+
+解说_小川侃电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=15870999
+
+解说_扁豆看电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=16028551
+
+解说_涵哥评电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=16865726
+
+解说_越哥说电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=15894162
+
+解说_阿斗说电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=13303478
+
+解说_鱼丸电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=16615910
 
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 
@@ -282,8 +475,12 @@ CGTN阿拉伯语,http://113.98.11.46:3000/609154345
 山·生活健康,#genre#
 南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 
-哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
+吉林生活,http://113.98.11.46:3000/968553133
+
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
+
+四海钓鱼,http://113.98.11.46:3000/637444975
 
 定西文旅生活,http://play.kankanlive.com/live/1675303983674929.m3u8
 
@@ -291,6 +488,8 @@ CGTN阿拉伯语,http://113.98.11.46:3000/609154345
 
 浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 浙江经济生活,http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
+
+环球旅游,http://113.98.11.46:3000/958475356
 
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 
@@ -302,21 +501,49 @@ CGTN阿拉伯语,http://113.98.11.46:3000/609154345
 
 武术世界,http://113.98.11.46:3000/958475359
 
-浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 浙江民生休闲,http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 
+陕西体育休闲,http://113.98.11.46:3000/956909356
 陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
 
 
 ^·其他综合,#genre#
-BWF 中国香港羽毛球公开赛第三日：1/8决赛 1号场地,http://113.98.11.46:3000/969464022
+BWF 中国香港羽毛球公开赛第六日：决赛 1号场地,http://113.98.11.46:3000/969464577
 
-BWF 中国香港羽毛球公开赛第三日：1/8决赛 2号场地,http://113.98.11.46:3000/969464115
+BWF 王祉怡PK宫崎友花 凤凰冲决赛 1号场地,http://113.98.11.46:3000/969464501
+BWF 王祉怡PK宫崎友花 凤凰冲决赛 1号场地,http://113.98.11.46:3000/969464562
+
+BWF 王祉怡PK宫崎友花 凤凰冲决赛 万炜聪/郑凯文VS兰基雷迪/谢提,http://113.98.11.46:3000/969598465
+
+BWF 王祉怡PK宫崎友花 凤凰冲决赛 乌拜迪拉VS昆拉武特,http://113.98.11.46:3000/969598593
+
+BWF 王祉怡PK宫崎友花 凤凰冲决赛 冯彦哲/黄东萍VS吴埙阀/赖洁敏,http://113.98.11.46:3000/969598496
+
+BWF 王祉怡PK宫崎友花 凤凰冲决赛 卡尔南多/马丁VS姜珉赫/李钟民,http://113.98.11.46:3000/969598486
+
+BWF 王祉怡PK宫崎友花 凤凰冲决赛 因达农VS李美妙,http://113.98.11.46:3000/969598442
+
+BWF 王祉怡PK宫崎友花 凤凰冲决赛 安东森VS拉克什亚,http://113.98.11.46:3000/969598520
+
+BWF 王祉怡PK宫崎友花 凤凰冲决赛 德扬/费利沙VS蒋振邦/魏雅欣,http://113.98.11.46:3000/969598510
+
+BWF 王祉怡PK宫崎友花 凤凰冲决赛 王祉怡VS宫崎友花,http://113.98.11.46:3000/969598477
+
+BWF 王祉怡PK宫崎友花 凤凰冲决赛 阿玛莉亚/拉马丹蒂VS中出堇/高桥美优,http://113.98.11.46:3000/969598517
 
 CETV1,http://113.98.11.46:3000/923287154
 
-上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=7929616b4ed4f0398125e35ab1172c4a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CETV2,http://113.98.11.46:3000/923287211
+
+CETV4,http://113.98.11.46:3000/923287339
+
+HADO世冠杯 3V3大战开启！国家队对决 清流播出,http://113.98.11.46:3000/969464885
+
+七龙珠「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=25650806
+
 上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=8d167a5b0fdf668c0f442e838db5e410&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=7929616b4ed4f0398125e35ab1172c4a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=23a01b2c8e8e22aa3bb7b227a129e2c4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=b02bea090da12acecb8361a581676210&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
@@ -328,14 +555,14 @@ CETV1,http://113.98.11.46:3000/923287154
 上街,http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
 上街,http://live.dxhmt.cn:9081/tv/10106-1.m3u8
 
+世界动力冲浪板锦标赛 UIM MotoSurf动力冲浪世界锦标赛Day2 解说,http://113.98.11.46:3000/969521860
+
 丘北县,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
 
-东亚超级联赛 高阳索诺天枪VS乌兰巴托野马 王冠证,http://113.98.11.46:3000/969488764
-
+东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=6e1c8fcfd09faa555bf1a3f560c46d09&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=dcba68715ee4b61f9d03d23fe8cda368&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=eeaff1cd39e54df91b0c78a39177c49a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=ae298b071395e7c4b8f5105ba9b22ef6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=6e1c8fcfd09faa555bf1a3f560c46d09&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 中国教育2,http://204.12.221.218:8181/3m1080p/cetv2.m3u8
 
@@ -343,16 +570,46 @@ CETV1,http://113.98.11.46:3000/923287154
 
 中国教育4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
 
-中学生,http://113.98.11.46:3000/708869532
+中国网球公开赛 精彩回顾：郑钦文 vs 安德列娃 李宁、王蔷、张浩,http://113.98.11.46:3000/969405791
 
-五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=bacdc88caa25b71b955f471072f07349&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+书画,http://113.98.11.46:3000/968663920
+
+互扇巴掌大赛「其他」,http://tv.zimtv.cn/tv/player/api/huya.php?id=20072873
+
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=bacdc88caa25b71b955f471072f07349&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
+五福星,http://tv.zimtv.cn/tv/player/api/huya.php?id=11282233
 
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 
 凤凰香港台,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+
+剧集_地下交通站,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342433
+
+剧集_士兵突击,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342430
+
+剧集_庆余年,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352960
+
+剧集_新三国,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352944
+
+剧集_新水浒,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342384
+
+剧集_武林外传,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059598
+
+剧集_爱情公寓,http://tv.zimtv.cn/tv/player/api/huya.php?id=11336726
+
+剧集_纪晓岚,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342396
+
+剧集_老三国,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602081
+
+剧集_邻里一家亲,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342426
+
+剧集_雍正王朝,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342439
+
+南京十八,http://113.98.11.46:3000/838151753
 
 南京教科,http://113.98.11.46:3000/838153729
 南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
@@ -363,9 +620,13 @@ CETV1,http://113.98.11.46:3000/923287154
 
 古浪综合,http://play.kankanlive.com/live/1647934328544907.m3u8
 
+吉林乡村,http://113.98.11.46:3000/968553176
+
 吉林都市,http://113.98.11.46:3000/968553190
 
-咪咕体育日报 undefined 咪咕体育日报 第245期,http://113.98.11.46:3000/968817902
+咪咕体育日报 undefined 咪咕体育日报 第248期,http://113.98.11.46:3000/968817808
+
+咪咕体育日报 undefined 咪咕体育日报 第249期,http://113.98.11.46:3000/968817796
 
 嘉峪关公共,https://play.kankanlive.com/live/1658978141553927.m3u8
 
@@ -373,17 +634,19 @@ CETV1,http://113.98.11.46:3000/923287154
 
 国学,http://204.12.221.218:8181/3m1080p/gxpd.m3u8
 
-国际自盟场地自行车世锦赛 国际自盟场地自行车世锦赛-3 解说,http://113.98.11.46:3000/969497991
-
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 
-天祝,http://play.kankanlive.com/live/1656487214793905.flv
 天祝,http://play.kankanlive.com/live/1656487214793905.m3u8
+天祝,http://play.kankanlive.com/live/1656487214793905.flv
 天祝,https://play.kankanlive.com/live/1656487214793905.m3u8
 
 安定,https://play.kankanlive.com/live/1672881652415978.m3u8
 
 定西综合,https://play.kankanlive.com/live/1675303871634928.m3u8
+
+射箭杯 复合弓、反曲弓多项金牌争夺 清流播出,http://113.98.11.46:3000/969497310
+
+山东教育,http://113.98.11.46:3000/609154353
 
 岷县,http://play.kankanlive.com/live/1672715401874967.m3u8
 
@@ -391,11 +654,23 @@ CETV1,http://113.98.11.46:3000/923287154
 
 平川,http://play.kankanlive.com/live/1658907556249918.m3u8
 
+广东珠江,http://113.98.11.46:3000/639731952
+
 广南县,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8
 
 庄浪,https://play.kankanlive.com/live/1655107221272926.m3u8
 
 庆元,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+
+建党105周年巡礼,http://113.98.11.46:3000/713600957
+
+徐克,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352909
+
+挨饿德•1「其他」,http://tv.zimtv.cn/tv/player/api/huya.php?id=20985858
+
+挨饿德•2「其他」,http://tv.zimtv.cn/tv/player/api/huya.php?id=17693860
+
+搞笑_陈翔六点半,http://tv.zimtv.cn/tv/player/api/huya.php?id=11274154
 
 文山市,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
 
@@ -421,9 +696,7 @@ CETV1,http://113.98.11.46:3000/923287154
 
 泰安综合,http://play.kankanlive.com/live/1680577080200944.m3u8
 
-浙BA 义乌VS富阳 赛场原声,http://113.98.11.46:3000/969464051
-
-浙BA 宁波VS苍南 赛场原声,http://113.98.11.46:3000/969464069
+浙BA 衢州VS金华 赛场原声,http://113.98.11.46:3000/969464156
 
 浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 浙江国际,http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
@@ -431,27 +704,51 @@ CETV1,http://113.98.11.46:3000/923287154
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 
+浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯决赛 赛场原声,http://113.98.11.46:3000/969375946
+
+浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 中文解说,http://113.98.11.46:3000/969376188
+
+浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 智能字幕,http://113.98.11.46:3000/969378710
+
+浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 英文解说,http://113.98.11.46:3000/969376059
+
+浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 赛场原声,http://113.98.11.46:3000/969375722
+
+海南广播电视总台文旅,http://113.98.11.46:3000/962067526
+
+海南广播电视总台社会与法,http://113.98.11.46:3000/962045223
+
+海南广播电视总台自贸,http://113.98.11.46:3000/962045226
+
 熊猫频道01,http://113.98.11.46:3000/609158151
 
 熊猫频道1,http://113.98.11.46:3000/608933610
 
 熊猫频道10,http://113.98.11.46:3000/609169285
 
-熊猫频道2,http://113.98.11.46:3000/608933640
-
 熊猫频道3,http://113.98.11.46:3000/608934619
 
 熊猫频道4,http://113.98.11.46:3000/608934721
 
+熊猫频道5,http://113.98.11.46:3000/608935104
+
 熊猫频道6,http://113.98.11.46:3000/608935797
 
-熊猫频道9,http://113.98.11.46:3000/609169226
+熊猫频道7,http://113.98.11.46:3000/609169286
+
+熊猫频道8,http://113.98.11.46:3000/609169287
 
 砚山县,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
 
 秦安,https://play.kankanlive.com/live/1680577080200944.m3u8
 
 老故事,http://113.98.11.46:3000/884121956
+
+英女超 伯明翰女足VS曼联女足 兰子非,http://113.98.11.46:3000/969524851
+
+英女超 查尔顿女足VS阿斯顿维拉女足 魏欣怡,http://113.98.11.46:3000/969524889
+
+荒野求生「其他」,http://tv.zimtv.cn/tv/player/api/huya.php?id=593667
 
 荥阳1,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
 荥阳1,http://live.dxhmt.cn:9081/tv/10182-1.m3u8
@@ -462,6 +759,14 @@ CETV1,http://113.98.11.46:3000/923287154
 
 西畴县,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel11/playlist.m3u8
 
+解说_斌哥漫说,http://tv.zimtv.cn/tv/player/api/huya.php?id=18632116
+
+解说_科幻梦工场,http://tv.zimtv.cn/tv/player/api/huya.php?id=15152155
+
+解说_阿良说剧,http://tv.zimtv.cn/tv/player/api/huya.php?id=20488841
+
+许冠英,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601972
+
 象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 
 迁西综合,https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
@@ -469,6 +774,10 @@ CETV1,http://113.98.11.46:3000/923287154
 通渭,http://play.kankanlive.com/live/1661761962676984.m3u8
 
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+
+邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+
+野行者「其他」,http://tv.zimtv.cn/tv/player/api/huya.php?id=20072663
 
 金川,http://play.kankanlive.com/live/1657360567739997.m3u8
 
@@ -484,6 +793,10 @@ CETV1,http://113.98.11.46:3000/923287154
 
 陕西银龄,http://113.98.11.46:3000/956909362
 陕西银龄,http://gxlive.snrtv.com/sx3-SD.m3u8
+
+青县综合,http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
+
+青岛城市足球争霸赛 西海岸新区vs市北区 清流播出,http://113.98.11.46:3000/969486681
 
 青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
