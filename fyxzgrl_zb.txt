@@ -9,8 +9,8 @@ CCTV-3 综艺,http://113.98.11.46:3000/624878271
 CCTV-3 综艺,http://204.12.221.218:8181/3m1080p/cctv3.m3u8
 
 CCTV-4 中文国际,http://113.98.11.46:3000/608807419
-CCTV-4 中文国际,http://113.98.11.46:3000/608807416
 CCTV-4 中文国际,http://113.98.11.46:3000/631780421
+CCTV-4 中文国际,http://113.98.11.46:3000/608807416
 CCTV-4 中文国际,http://204.12.221.218:8181/3m1080p/cctv4.m3u8
 
 CCTV-5 体育,http://113.98.11.46:3000/641886683
@@ -64,8 +64,6 @@ CHC影迷电影,http://113.98.11.46:3000/952383261
 
 上海第一财经,http://113.98.11.46:3000/608780988
 
-中华小当家「动漫」,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342413
-
 中华特产,http://113.98.11.46:3000/959986618
 
 吉林综艺文化,http://113.98.11.46:3000/968553163
@@ -89,13 +87,11 @@ CHC影迷电影,http://113.98.11.46:3000/952383261
 电影_搞笑喜剧,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342423
 
 第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=c8db609722f9ed252559f883cc079200&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=9c40de9ef5c8cdf9cc21d6ad9e6b9d76&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=50d4da670b986b3815f3797d1ffe0c6e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=9c40de9ef5c8cdf9cc21d6ad9e6b9d76&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=3c6cb6f00aa32febab803c0b2304d5d0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 财富天下,http://113.98.11.46:3000/956923159
-
-马拉松系列赛 佛山市环两江稻田马拉松 清流播出,http://113.98.11.46:3000/969548456
 
 
 众·卫视剧场,#genre#
@@ -181,10 +177,10 @@ CHC影迷电影,http://113.98.11.46:3000/952383261
 
 
 号·新闻资讯,#genre#
-上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=6f4b191d0930fafab8274665578e1df8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=b42305d47a7ea7de356f6b9953dd63fb&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=a064629942f561cf9f5a930648802197&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=6f4b191d0930fafab8274665578e1df8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=c0bc623be007e5295d462465c7bd7bd7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=b42305d47a7ea7de356f6b9953dd63fb&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 
@@ -227,8 +223,8 @@ CHC影迷电影,http://113.98.11.46:3000/952383261
 
 泰州新闻综合,http://113.98.11.46:3000/639731818
 
-浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 浙江新闻,http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
+浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 
 海南广播电视总台新闻,http://113.98.11.46:3000/962067517
 
@@ -255,8 +251,6 @@ CHC影迷电影,http://113.98.11.46:3000/952383261
 
 
 *·戏曲文艺,#genre#
-BWF 王祉怡PK宫崎友花 凤凰冲决赛 刘子瑜/安琪拉VS陈康乐/蒂娜,http://113.98.11.46:3000/969598548
-
 快乐垂钓,http://113.98.11.46:3000/961930263
 
 梨园,http://113.98.11.46:3000/961930369
@@ -271,8 +265,6 @@ BWF 王祉怡PK宫崎友花 凤凰冲决赛 刘子瑜/安琪拉VS陈康乐/蒂�
 
 
 枫·少儿动漫,#genre#
-七龙珠「动漫」,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601966
-
 优漫卡通,http://113.98.11.46:3000/626064703
 优漫卡通,http://204.12.221.218:8181/3m1080p/ymkt.m3u8
 
@@ -282,8 +274,6 @@ BWF 王祉怡PK宫崎友花 凤凰冲决赛 刘子瑜/安琪拉VS陈康乐/蒂�
 
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 
-哆啦A梦「动漫」,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601963
-
 嘉佳卡通,http://113.98.11.46:3000/614952364
 嘉佳卡通,http://204.12.221.218:8181/3m1080p/gdjjkt.m3u8
 
@@ -292,9 +282,9 @@ BWF 王祉怡PK宫崎友花 凤凰冲决赛 刘子瑜/安琪拉VS陈康乐/蒂�
 
 海南广播电视总台少儿,http://113.98.11.46:3000/962067523
 
-猫和老鼠「动漫」,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352879
-
 经典动画大集合,http://113.98.11.46:3000/629942219
+
+金鹰卡通,http://204.12.221.218:8181/3m1080p/hnjykt.m3u8
 
 
 观·影音娱乐,#genre#
@@ -302,10 +292,10 @@ BWF 王祉怡PK宫崎友花 凤凰冲决赛 刘子瑜/安琪拉VS陈康乐/蒂�
 
 上视东方影视,http://113.98.11.46:3000/617290047
 
+东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=4119308d25ef60295b2aa8f2898e3e31&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=0995015e995fbffe5924ab43ff48f40f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=6b0126f9b7bc4f48ba696eec5680e906&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=c016ecf40cfad98bdb2f24dae2067863&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=0995015e995fbffe5924ab43ff48f40f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=4119308d25ef60295b2aa8f2898e3e31&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 
@@ -328,8 +318,8 @@ BWF 王祉怡PK宫崎友花 凤凰冲决赛 刘子瑜/安琪拉VS陈康乐/蒂�
 
 江苏影视,http://113.98.11.46:3000/626064697
 
-浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 浙江教科影视,http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
+浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 
 电影_不挤影院,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352897
 
@@ -501,36 +491,25 @@ BWF 王祉怡PK宫崎友花 凤凰冲决赛 刘子瑜/安琪拉VS陈康乐/蒂�
 
 武术世界,http://113.98.11.46:3000/958475359
 
-浙江民生休闲,http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
 浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
 
 陕西体育休闲,http://113.98.11.46:3000/956909356
 陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
 
 
 ^·其他综合,#genre#
-BWF 中国香港羽毛球公开赛第六日：决赛 1号场地,http://113.98.11.46:3000/969464577
+BWF 因陀罗/华金领衔出战男双 1号场地,http://113.98.11.46:3000/969703952
 
-BWF 王祉怡PK宫崎友花 凤凰冲决赛 1号场地,http://113.98.11.46:3000/969464501
-BWF 王祉怡PK宫崎友花 凤凰冲决赛 1号场地,http://113.98.11.46:3000/969464562
+BWF 因陀罗/华金领衔出战男双 2号场地,http://113.98.11.46:3000/969703983
 
-BWF 王祉怡PK宫崎友花 凤凰冲决赛 万炜聪/郑凯文VS兰基雷迪/谢提,http://113.98.11.46:3000/969598465
+BWF 因陀罗/华金领衔出战男双 3号场地,http://113.98.11.46:3000/969704035
 
-BWF 王祉怡PK宫崎友花 凤凰冲决赛 乌拜迪拉VS昆拉武特,http://113.98.11.46:3000/969598593
+BWF 因陀罗/华金领衔出战男双 4号场地,http://113.98.11.46:3000/969704083
 
-BWF 王祉怡PK宫崎友花 凤凰冲决赛 冯彦哲/黄东萍VS吴埙阀/赖洁敏,http://113.98.11.46:3000/969598496
+BWF 赛德莫迪羽毛球国际赛Day2 2号场地,http://113.98.11.46:3000/969704253
 
-BWF 王祉怡PK宫崎友花 凤凰冲决赛 卡尔南多/马丁VS姜珉赫/李钟民,http://113.98.11.46:3000/969598486
-
-BWF 王祉怡PK宫崎友花 凤凰冲决赛 因达农VS李美妙,http://113.98.11.46:3000/969598442
-
-BWF 王祉怡PK宫崎友花 凤凰冲决赛 安东森VS拉克什亚,http://113.98.11.46:3000/969598520
-
-BWF 王祉怡PK宫崎友花 凤凰冲决赛 德扬/费利沙VS蒋振邦/魏雅欣,http://113.98.11.46:3000/969598510
-
-BWF 王祉怡PK宫崎友花 凤凰冲决赛 王祉怡VS宫崎友花,http://113.98.11.46:3000/969598477
-
-BWF 王祉怡PK宫崎友花 凤凰冲决赛 阿玛莉亚/拉马丹蒂VS中出堇/高桥美优,http://113.98.11.46:3000/969598517
+BWF 赛德莫迪羽毛球国际赛Day2 4号场地,http://113.98.11.46:3000/969704312
 
 CETV1,http://113.98.11.46:3000/923287154
 
@@ -538,31 +517,27 @@ CETV2,http://113.98.11.46:3000/923287211
 
 CETV4,http://113.98.11.46:3000/923287339
 
-HADO世冠杯 3V3大战开启！国家队对决 清流播出,http://113.98.11.46:3000/969464885
-
 七龙珠「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=25650806
 
-上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=8d167a5b0fdf668c0f442e838db5e410&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=7929616b4ed4f0398125e35ab1172c4a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=23a01b2c8e8e22aa3bb7b227a129e2c4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=8d167a5b0fdf668c0f442e838db5e410&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=b02bea090da12acecb8361a581676210&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=7929616b4ed4f0398125e35ab1172c4a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 上海都市,https://live.264788.xyz/channel/shanghaidushi?streamid=04d627efc64630bba0d2507513583a6f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-上海都市,https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f793c0ae59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 上海都市,https://live.264788.xyz/channel/shanghaidushi?streamid=d6aa1eedf2ffc5a88ee19737d90c28c6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 上海都市,https://live.264788.xyz/channel/shanghaidushi?streamid=08cdaffbd7855272c1a4c37b75f53892&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+上海都市,https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f793c0ae59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 上街,http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
 上街,http://live.dxhmt.cn:9081/tv/10106-1.m3u8
 
-世界动力冲浪板锦标赛 UIM MotoSurf动力冲浪世界锦标赛Day2 解说,http://113.98.11.46:3000/969521860
-
 丘北县,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
 
-东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=6e1c8fcfd09faa555bf1a3f560c46d09&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=dcba68715ee4b61f9d03d23fe8cda368&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=eeaff1cd39e54df91b0c78a39177c49a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=dcba68715ee4b61f9d03d23fe8cda368&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=ae298b071395e7c4b8f5105ba9b22ef6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=6e1c8fcfd09faa555bf1a3f560c46d09&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 中国教育2,http://204.12.221.218:8181/3m1080p/cetv2.m3u8
 
@@ -570,20 +545,20 @@ HADO世冠杯 3V3大战开启！国家队对决 清流播出,http://113.98.11.46
 
 中国教育4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
 
-中国网球公开赛 精彩回顾：郑钦文 vs 安德列娃 李宁、王蔷、张浩,http://113.98.11.46:3000/969405791
+乒乓狂想 网络行为的边界在哪里？ 探讨网络发言底线 程靖淇 周冠达 李真,http://113.98.11.46:3000/969574254
 
 书画,http://113.98.11.46:3000/968663920
 
-互扇巴掌大赛「其他」,http://tv.zimtv.cn/tv/player/api/huya.php?id=20072873
-
-五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=bacdc88caa25b71b955f471072f07349&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 五福星,http://tv.zimtv.cn/tv/player/api/huya.php?id=11282233
 
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+
+凤凰中文台,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 
 凤凰香港台,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 
@@ -624,9 +599,7 @@ HADO世冠杯 3V3大战开启！国家队对决 清流播出,http://113.98.11.46
 
 吉林都市,http://113.98.11.46:3000/968553190
 
-咪咕体育日报 undefined 咪咕体育日报 第248期,http://113.98.11.46:3000/968817808
-
-咪咕体育日报 undefined 咪咕体育日报 第249期,http://113.98.11.46:3000/968817796
+咪咕体育日报 undefined 咪咕体育日报 第251期,http://113.98.11.46:3000/968817747
 
 嘉峪关公共,https://play.kankanlive.com/live/1658978141553927.m3u8
 
@@ -636,15 +609,13 @@ HADO世冠杯 3V3大战开启！国家队对决 清流播出,http://113.98.11.46
 
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 
-天祝,http://play.kankanlive.com/live/1656487214793905.m3u8
-天祝,http://play.kankanlive.com/live/1656487214793905.flv
 天祝,https://play.kankanlive.com/live/1656487214793905.m3u8
+天祝,http://play.kankanlive.com/live/1656487214793905.flv
+天祝,http://play.kankanlive.com/live/1656487214793905.m3u8
 
 安定,https://play.kankanlive.com/live/1672881652415978.m3u8
 
 定西综合,https://play.kankanlive.com/live/1675303871634928.m3u8
-
-射箭杯 复合弓、反曲弓多项金牌争夺 清流播出,http://113.98.11.46:3000/969497310
 
 山东教育,http://113.98.11.46:3000/609154353
 
@@ -676,6 +647,10 @@ HADO世冠杯 3V3大战开启！国家队对决 清流播出,http://113.98.11.46
 
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 
+斗罗大陆,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352906
+
+新动力量创一流,http://113.98.11.46:3000/713589837
+
 新昌综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
@@ -685,6 +660,8 @@ HADO世冠杯 3V3大战开启！国家队对决 清流播出,http://113.98.11.46
 普陀,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 
 景泰,https://play.kankanlive.com/live/1624439143745981.m3u8
+
+永劫无间世界冠军赛 永劫无间世界冠军赛Day3 清流播出,http://113.98.11.46:3000/969665778
 
 永昌,https://play.kankanlive.com/live/1652755738635915.m3u8
 
@@ -696,23 +673,13 @@ HADO世冠杯 3V3大战开启！国家队对决 清流播出,http://113.98.11.46
 
 泰安综合,http://play.kankanlive.com/live/1680577080200944.m3u8
 
-浙BA 衢州VS金华 赛场原声,http://113.98.11.46:3000/969464156
+浙BA 温州VS海宁 赛场原声,http://113.98.11.46:3000/969696241
 
 浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 浙江国际,http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
 
-浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-
-浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯决赛 赛场原声,http://113.98.11.46:3000/969375946
-
-浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 中文解说,http://113.98.11.46:3000/969376188
-
-浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 智能字幕,http://113.98.11.46:3000/969378710
-
-浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 英文解说,http://113.98.11.46:3000/969376059
-
-浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 赛场原声,http://113.98.11.46:3000/969375722
+浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 
 海南广播电视总台文旅,http://113.98.11.46:3000/962067526
 
@@ -726,6 +693,8 @@ HADO世冠杯 3V3大战开启！国家队对决 清流播出,http://113.98.11.46
 
 熊猫频道10,http://113.98.11.46:3000/609169285
 
+熊猫频道2,http://113.98.11.46:3000/608933640
+
 熊猫频道3,http://113.98.11.46:3000/608934619
 
 熊猫频道4,http://113.98.11.46:3000/608934721
@@ -738,17 +707,15 @@ HADO世冠杯 3V3大战开启！国家队对决 清流播出,http://113.98.11.46
 
 熊猫频道8,http://113.98.11.46:3000/609169287
 
+熊猫频道9,http://113.98.11.46:3000/609169226
+
+短道速滑世界巡回赛 加拿大蒙特利尔站 2 解说,http://113.98.11.46:3000/969706434
+
 砚山县,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
 
 秦安,https://play.kankanlive.com/live/1680577080200944.m3u8
 
 老故事,http://113.98.11.46:3000/884121956
-
-英女超 伯明翰女足VS曼联女足 兰子非,http://113.98.11.46:3000/969524851
-
-英女超 查尔顿女足VS阿斯顿维拉女足 魏欣怡,http://113.98.11.46:3000/969524889
-
-荒野求生「其他」,http://tv.zimtv.cn/tv/player/api/huya.php?id=593667
 
 荥阳1,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
 荥阳1,http://live.dxhmt.cn:9081/tv/10182-1.m3u8
@@ -777,8 +744,6 @@ HADO世冠杯 3V3大战开启！国家队对决 清流播出,http://113.98.11.46
 
 邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 
-野行者「其他」,http://tv.zimtv.cn/tv/player/api/huya.php?id=20072663
-
 金川,http://play.kankanlive.com/live/1657360567739997.m3u8
 
 金昌综合,http://play.kankanlive.com/live/1660096574549900.m3u8
@@ -795,8 +760,6 @@ HADO世冠杯 3V3大战开启！国家队对决 清流播出,http://113.98.11.46
 陕西银龄,http://gxlive.snrtv.com/sx3-SD.m3u8
 
 青县综合,http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
-
-青岛城市足球争霸赛 西海岸新区vs市北区 清流播出,http://113.98.11.46:3000/969486681
 
 青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
