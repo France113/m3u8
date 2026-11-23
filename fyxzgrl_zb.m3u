@@ -14,9 +14,9 @@ http://204.12.221.218:8181/3m1080p/cctv3.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-id="" tvg-logo="" group-title="新·央视频道",CCTV-4 中文国际
 http://113.98.11.46:3000/608807419
 #EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-id="" tvg-logo="" group-title="新·央视频道",CCTV-4 中文国际
-http://113.98.11.46:3000/608807416
-#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-id="" tvg-logo="" group-title="新·央视频道",CCTV-4 中文国际
 http://113.98.11.46:3000/631780421
+#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-id="" tvg-logo="" group-title="新·央视频道",CCTV-4 中文国际
+http://113.98.11.46:3000/608807416
 #EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-id="" tvg-logo="" group-title="新·央视频道",CCTV-4 中文国际
 http://204.12.221.218:8181/3m1080p/cctv4.m3u8
 #EXTINF:-1 tvg-name="CCTV-5 体育" tvg-id="" tvg-logo="" group-title="新·央视频道",CCTV-5 体育
@@ -73,8 +73,6 @@ http://113.98.11.46:3000/609154345
 http://113.98.11.46:3000/952383261
 #EXTINF:-1 tvg-name="上海第一财经" tvg-id="" tvg-logo="" group-title="公·家庭频道",上海第一财经
 http://113.98.11.46:3000/608780988
-#EXTINF:-1 tvg-name="中华小当家「动漫」" tvg-id="" tvg-logo="" group-title="公·家庭频道",中华小当家「动漫」
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11342413
 #EXTINF:-1 tvg-name="中华特产" tvg-id="" tvg-logo="" group-title="公·家庭频道",中华特产
 http://113.98.11.46:3000/959986618
 #EXTINF:-1 tvg-name="吉林综艺文化" tvg-id="" tvg-logo="" group-title="公·家庭频道",吉林综艺文化
@@ -100,15 +98,13 @@ http://tv.zimtv.cn/tv/player/api/huya.php?id=11342423
 #EXTINF:-1 tvg-name="第一财经" tvg-id="" tvg-logo="" group-title="公·家庭频道",第一财经
 https://live.264788.xyz/channel/diyicaijing?streamid=c8db609722f9ed252559f883cc079200&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="第一财经" tvg-id="" tvg-logo="" group-title="公·家庭频道",第一财经
-https://live.264788.xyz/channel/diyicaijing?streamid=9c40de9ef5c8cdf9cc21d6ad9e6b9d76&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="第一财经" tvg-id="" tvg-logo="" group-title="公·家庭频道",第一财经
 https://live.264788.xyz/channel/diyicaijing?streamid=50d4da670b986b3815f3797d1ffe0c6e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="第一财经" tvg-id="" tvg-logo="" group-title="公·家庭频道",第一财经
+https://live.264788.xyz/channel/diyicaijing?streamid=9c40de9ef5c8cdf9cc21d6ad9e6b9d76&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="第一财经" tvg-id="" tvg-logo="" group-title="公·家庭频道",第一财经
 https://live.264788.xyz/channel/diyicaijing?streamid=3c6cb6f00aa32febab803c0b2304d5d0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="财富天下" tvg-id="" tvg-logo="" group-title="公·家庭频道",财富天下
 http://113.98.11.46:3000/956923159
-#EXTINF:-1 tvg-name="马拉松系列赛 佛山市环两江稻田马拉松 清流播出" tvg-id="" tvg-logo="" group-title="公·家庭频道",马拉松系列赛 佛山市环两江稻田马拉松 清流播出
-http://113.98.11.46:3000/969548456
 #EXTINF:-1 tvg-name="三沙卫视" tvg-id="" tvg-logo="" group-title="众·卫视剧场",三沙卫视
 http://113.98.11.46:3000/961023778
 #EXTINF:-1 tvg-name="东南卫视" tvg-id="" tvg-logo="" group-title="众·卫视剧场",东南卫视
@@ -200,13 +196,13 @@ http://113.98.11.46:3000/947472506
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="" tvg-logo="" group-title="众·卫视剧场",黑龙江卫视
 http://113.98.11.46:3000/738906901
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-id="" tvg-logo="" group-title="号·新闻资讯",上海新闻综合
-https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=6f4b191d0930fafab8274665578e1df8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-id="" tvg-logo="" group-title="号·新闻资讯",上海新闻综合
-https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=b42305d47a7ea7de356f6b9953dd63fb&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-id="" tvg-logo="" group-title="号·新闻资讯",上海新闻综合
 https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=a064629942f561cf9f5a930648802197&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-id="" tvg-logo="" group-title="号·新闻资讯",上海新闻综合
+https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=6f4b191d0930fafab8274665578e1df8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-id="" tvg-logo="" group-title="号·新闻资讯",上海新闻综合
 https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=c0bc623be007e5295d462465c7bd7bd7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-id="" tvg-logo="" group-title="号·新闻资讯",上海新闻综合
+https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=b42305d47a7ea7de356f6b9953dd63fb&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="上虞新闻综合" tvg-id="" tvg-logo="" group-title="号·新闻资讯",上虞新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 tvg-name="上视新闻综合" tvg-id="" tvg-logo="" group-title="号·新闻资讯",上视新闻综合
@@ -252,9 +248,9 @@ http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 #EXTINF:-1 tvg-name="泰州新闻综合" tvg-id="" tvg-logo="" group-title="号·新闻资讯",泰州新闻综合
 http://113.98.11.46:3000/639731818
 #EXTINF:-1 tvg-name="浙江新闻" tvg-id="" tvg-logo="" group-title="号·新闻资讯",浙江新闻
-http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江新闻" tvg-id="" tvg-logo="" group-title="号·新闻资讯",浙江新闻
 http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
+#EXTINF:-1 tvg-name="浙江新闻" tvg-id="" tvg-logo="" group-title="号·新闻资讯",浙江新闻
+http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 #EXTINF:-1 tvg-name="海南广播电视总台新闻" tvg-id="" tvg-logo="" group-title="号·新闻资讯",海南广播电视总台新闻
 http://113.98.11.46:3000/962067517
 #EXTINF:-1 tvg-name="淮安新闻综合" tvg-id="" tvg-logo="" group-title="号·新闻资讯",淮安新闻综合
@@ -279,8 +275,6 @@ http://gxlive.snrtv.com/sx1-SD.m3u8
 https://play.kankanlive.com/live/1658194434596952.m3u8
 #EXTINF:-1 tvg-name="鹤壁新闻" tvg-id="" tvg-logo="" group-title="号·新闻资讯",鹤壁新闻
 http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
-#EXTINF:-1 tvg-name="BWF 王祉怡PK宫崎友花 凤凰冲决赛 刘子瑜/安琪拉VS陈康乐/蒂娜" tvg-id="" tvg-logo="" group-title="*·戏曲文艺",BWF 王祉怡PK宫崎友花 凤凰冲决赛 刘子瑜/安琪拉VS陈康乐/蒂娜
-http://113.98.11.46:3000/969598548
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="" tvg-logo="" group-title="*·戏曲文艺",快乐垂钓
 http://113.98.11.46:3000/961930263
 #EXTINF:-1 tvg-name="梨园" tvg-id="" tvg-logo="" group-title="*·戏曲文艺",梨园
@@ -293,8 +287,6 @@ http://tv.zimtv.cn/tv/player/api/huya.php?id=21059580
 http://tv.zimtv.cn/tv/player/api/huya.php?id=21241813
 #EXTINF:-1 tvg-name="音乐石榴「音乐」" tvg-id="" tvg-logo="" group-title="*·戏曲文艺",音乐石榴「音乐」
 http://tv.zimtv.cn/tv/player/api/huya.php?id=17091681
-#EXTINF:-1 tvg-name="七龙珠「动漫」" tvg-id="" tvg-logo="" group-title="枫·少儿动漫",七龙珠「动漫」
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11601966
 #EXTINF:-1 tvg-name="优漫卡通" tvg-id="" tvg-logo="" group-title="枫·少儿动漫",优漫卡通
 http://113.98.11.46:3000/626064703
 #EXTINF:-1 tvg-name="优漫卡通" tvg-id="" tvg-logo="" group-title="枫·少儿动漫",优漫卡通
@@ -305,8 +297,6 @@ http://tv.zimtv.cn/tv/player/api/huya.php?id=19757963
 http://204.12.221.218:8181/3m1080p/btvkk.m3u8
 #EXTINF:-1 tvg-name="南京少儿" tvg-id="" tvg-logo="" group-title="枫·少儿动漫",南京少儿
 http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-#EXTINF:-1 tvg-name="哆啦A梦「动漫」" tvg-id="" tvg-logo="" group-title="枫·少儿动漫",哆啦A梦「动漫」
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11601963
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="" tvg-logo="" group-title="枫·少儿动漫",嘉佳卡通
 http://113.98.11.46:3000/614952364
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="" tvg-logo="" group-title="枫·少儿动漫",嘉佳卡通
@@ -317,22 +307,22 @@ http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
 #EXTINF:-1 tvg-name="海南广播电视总台少儿" tvg-id="" tvg-logo="" group-title="枫·少儿动漫",海南广播电视总台少儿
 http://113.98.11.46:3000/962067523
-#EXTINF:-1 tvg-name="猫和老鼠「动漫」" tvg-id="" tvg-logo="" group-title="枫·少儿动漫",猫和老鼠「动漫」
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11352879
 #EXTINF:-1 tvg-name="经典动画大集合" tvg-id="" tvg-logo="" group-title="枫·少儿动漫",经典动画大集合
 http://113.98.11.46:3000/629942219
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="" tvg-logo="" group-title="枫·少儿动漫",金鹰卡通
+http://204.12.221.218:8181/3m1080p/hnjykt.m3u8
 #EXTINF:-1 tvg-name="上虞文化影视" tvg-id="" tvg-logo="" group-title="观·影音娱乐",上虞文化影视
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 tvg-name="上视东方影视" tvg-id="" tvg-logo="" group-title="观·影音娱乐",上视东方影视
 http://113.98.11.46:3000/617290047
 #EXTINF:-1 tvg-name="东方影视" tvg-id="" tvg-logo="" group-title="观·影音娱乐",东方影视
-https://live.264788.xyz/channel/dongfangyingshi?streamid=6b0126f9b7bc4f48ba696eec5680e906&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="东方影视" tvg-id="" tvg-logo="" group-title="观·影音娱乐",东方影视
-https://live.264788.xyz/channel/dongfangyingshi?streamid=c016ecf40cfad98bdb2f24dae2067863&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/dongfangyingshi?streamid=4119308d25ef60295b2aa8f2898e3e31&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="东方影视" tvg-id="" tvg-logo="" group-title="观·影音娱乐",东方影视
 https://live.264788.xyz/channel/dongfangyingshi?streamid=0995015e995fbffe5924ab43ff48f40f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="东方影视" tvg-id="" tvg-logo="" group-title="观·影音娱乐",东方影视
-https://live.264788.xyz/channel/dongfangyingshi?streamid=4119308d25ef60295b2aa8f2898e3e31&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/dongfangyingshi?streamid=6b0126f9b7bc4f48ba696eec5680e906&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="东方影视" tvg-id="" tvg-logo="" group-title="观·影音娱乐",东方影视
+https://live.264788.xyz/channel/dongfangyingshi?streamid=c016ecf40cfad98bdb2f24dae2067863&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="东阳影视生活" tvg-id="" tvg-logo="" group-title="观·影音娱乐",东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 #EXTINF:-1 tvg-name="中央新影-发现之旅" tvg-id="" tvg-logo="" group-title="观·影音娱乐",中央新影-发现之旅
@@ -356,9 +346,9 @@ http://tv.zimtv.cn/tv/player/api/huya.php?id=19863777
 #EXTINF:-1 tvg-name="江苏影视" tvg-id="" tvg-logo="" group-title="观·影音娱乐",江苏影视
 http://113.98.11.46:3000/626064697
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-id="" tvg-logo="" group-title="观·影音娱乐",浙江教科影视
-http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江教科影视" tvg-id="" tvg-logo="" group-title="观·影音娱乐",浙江教科影视
 http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
+#EXTINF:-1 tvg-name="浙江教科影视" tvg-id="" tvg-logo="" group-title="观·影音娱乐",浙江教科影视
+http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 #EXTINF:-1 tvg-name="电影_不挤影院" tvg-id="" tvg-logo="" group-title="观·影音娱乐",电影_不挤影院
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11352897
 #EXTINF:-1 tvg-name="电影_丧尸片" tvg-id="" tvg-logo="" group-title="观·影音娱乐",电影_丧尸片
@@ -528,103 +518,87 @@ http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 #EXTINF:-1 tvg-name="武术世界" tvg-id="" tvg-logo="" group-title="^·休闲健身",武术世界
 http://113.98.11.46:3000/958475359
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-id="" tvg-logo="" group-title="^·休闲健身",浙江民生休闲
-http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江民生休闲" tvg-id="" tvg-logo="" group-title="^·休闲健身",浙江民生休闲
 http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-id="" tvg-logo="" group-title="^·休闲健身",浙江民生休闲
+http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-id="" tvg-logo="" group-title="^·休闲健身",陕西体育休闲
 http://113.98.11.46:3000/956909356
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-id="" tvg-logo="" group-title="^·休闲健身",陕西体育休闲
 http://gxlive.snrtv.com/sx7-SD.m3u8
-#EXTINF:-1 tvg-name="BWF 中国香港羽毛球公开赛第六日：决赛 1号场地" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 中国香港羽毛球公开赛第六日：决赛 1号场地
-http://113.98.11.46:3000/969464577
-#EXTINF:-1 tvg-name="BWF 王祉怡PK宫崎友花 凤凰冲决赛 1号场地" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 王祉怡PK宫崎友花 凤凰冲决赛 1号场地
-http://113.98.11.46:3000/969464501
-#EXTINF:-1 tvg-name="BWF 王祉怡PK宫崎友花 凤凰冲决赛 1号场地" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 王祉怡PK宫崎友花 凤凰冲决赛 1号场地
-http://113.98.11.46:3000/969464562
-#EXTINF:-1 tvg-name="BWF 王祉怡PK宫崎友花 凤凰冲决赛 万炜聪/郑凯文VS兰基雷迪/谢提" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 王祉怡PK宫崎友花 凤凰冲决赛 万炜聪/郑凯文VS兰基雷迪/谢提
-http://113.98.11.46:3000/969598465
-#EXTINF:-1 tvg-name="BWF 王祉怡PK宫崎友花 凤凰冲决赛 乌拜迪拉VS昆拉武特" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 王祉怡PK宫崎友花 凤凰冲决赛 乌拜迪拉VS昆拉武特
-http://113.98.11.46:3000/969598593
-#EXTINF:-1 tvg-name="BWF 王祉怡PK宫崎友花 凤凰冲决赛 冯彦哲/黄东萍VS吴埙阀/赖洁敏" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 王祉怡PK宫崎友花 凤凰冲决赛 冯彦哲/黄东萍VS吴埙阀/赖洁敏
-http://113.98.11.46:3000/969598496
-#EXTINF:-1 tvg-name="BWF 王祉怡PK宫崎友花 凤凰冲决赛 卡尔南多/马丁VS姜珉赫/李钟民" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 王祉怡PK宫崎友花 凤凰冲决赛 卡尔南多/马丁VS姜珉赫/李钟民
-http://113.98.11.46:3000/969598486
-#EXTINF:-1 tvg-name="BWF 王祉怡PK宫崎友花 凤凰冲决赛 因达农VS李美妙" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 王祉怡PK宫崎友花 凤凰冲决赛 因达农VS李美妙
-http://113.98.11.46:3000/969598442
-#EXTINF:-1 tvg-name="BWF 王祉怡PK宫崎友花 凤凰冲决赛 安东森VS拉克什亚" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 王祉怡PK宫崎友花 凤凰冲决赛 安东森VS拉克什亚
-http://113.98.11.46:3000/969598520
-#EXTINF:-1 tvg-name="BWF 王祉怡PK宫崎友花 凤凰冲决赛 德扬/费利沙VS蒋振邦/魏雅欣" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 王祉怡PK宫崎友花 凤凰冲决赛 德扬/费利沙VS蒋振邦/魏雅欣
-http://113.98.11.46:3000/969598510
-#EXTINF:-1 tvg-name="BWF 王祉怡PK宫崎友花 凤凰冲决赛 王祉怡VS宫崎友花" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 王祉怡PK宫崎友花 凤凰冲决赛 王祉怡VS宫崎友花
-http://113.98.11.46:3000/969598477
-#EXTINF:-1 tvg-name="BWF 王祉怡PK宫崎友花 凤凰冲决赛 阿玛莉亚/拉马丹蒂VS中出堇/高桥美优" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 王祉怡PK宫崎友花 凤凰冲决赛 阿玛莉亚/拉马丹蒂VS中出堇/高桥美优
-http://113.98.11.46:3000/969598517
+#EXTINF:-1 tvg-name="BWF 因陀罗/华金领衔出战男双 1号场地" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 因陀罗/华金领衔出战男双 1号场地
+http://113.98.11.46:3000/969703952
+#EXTINF:-1 tvg-name="BWF 因陀罗/华金领衔出战男双 2号场地" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 因陀罗/华金领衔出战男双 2号场地
+http://113.98.11.46:3000/969703983
+#EXTINF:-1 tvg-name="BWF 因陀罗/华金领衔出战男双 3号场地" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 因陀罗/华金领衔出战男双 3号场地
+http://113.98.11.46:3000/969704035
+#EXTINF:-1 tvg-name="BWF 因陀罗/华金领衔出战男双 4号场地" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 因陀罗/华金领衔出战男双 4号场地
+http://113.98.11.46:3000/969704083
+#EXTINF:-1 tvg-name="BWF 赛德莫迪羽毛球国际赛Day2 2号场地" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 赛德莫迪羽毛球国际赛Day2 2号场地
+http://113.98.11.46:3000/969704253
+#EXTINF:-1 tvg-name="BWF 赛德莫迪羽毛球国际赛Day2 4号场地" tvg-id="" tvg-logo="" group-title="^·其他综合",BWF 赛德莫迪羽毛球国际赛Day2 4号场地
+http://113.98.11.46:3000/969704312
 #EXTINF:-1 tvg-name="CETV1" tvg-id="" tvg-logo="" group-title="^·其他综合",CETV1
 http://113.98.11.46:3000/923287154
 #EXTINF:-1 tvg-name="CETV2" tvg-id="" tvg-logo="" group-title="^·其他综合",CETV2
 http://113.98.11.46:3000/923287211
 #EXTINF:-1 tvg-name="CETV4" tvg-id="" tvg-logo="" group-title="^·其他综合",CETV4
 http://113.98.11.46:3000/923287339
-#EXTINF:-1 tvg-name="HADO世冠杯 3V3大战开启！国家队对决 清流播出" tvg-id="" tvg-logo="" group-title="^·其他综合",HADO世冠杯 3V3大战开启！国家队对决 清流播出
-http://113.98.11.46:3000/969464885
 #EXTINF:-1 tvg-name="七龙珠「解说」" tvg-id="" tvg-logo="" group-title="^·其他综合",七龙珠「解说」
 http://tv.zimtv.cn/tv/player/api/huya.php?id=25650806
 #EXTINF:-1 tvg-name="上海教育" tvg-id="" tvg-logo="" group-title="^·其他综合",上海教育
-https://live.264788.xyz/channel/shanghaijiaoyu?streamid=8d167a5b0fdf668c0f442e838db5e410&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="上海教育" tvg-id="" tvg-logo="" group-title="^·其他综合",上海教育
-https://live.264788.xyz/channel/shanghaijiaoyu?streamid=7929616b4ed4f0398125e35ab1172c4a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="上海教育" tvg-id="" tvg-logo="" group-title="^·其他综合",上海教育
 https://live.264788.xyz/channel/shanghaijiaoyu?streamid=23a01b2c8e8e22aa3bb7b227a129e2c4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="上海教育" tvg-id="" tvg-logo="" group-title="^·其他综合",上海教育
+https://live.264788.xyz/channel/shanghaijiaoyu?streamid=8d167a5b0fdf668c0f442e838db5e410&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="上海教育" tvg-id="" tvg-logo="" group-title="^·其他综合",上海教育
 https://live.264788.xyz/channel/shanghaijiaoyu?streamid=b02bea090da12acecb8361a581676210&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="上海教育" tvg-id="" tvg-logo="" group-title="^·其他综合",上海教育
+https://live.264788.xyz/channel/shanghaijiaoyu?streamid=7929616b4ed4f0398125e35ab1172c4a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="上海都市" tvg-id="" tvg-logo="" group-title="^·其他综合",上海都市
 https://live.264788.xyz/channel/shanghaidushi?streamid=04d627efc64630bba0d2507513583a6f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="上海都市" tvg-id="" tvg-logo="" group-title="^·其他综合",上海都市
-https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f793c0ae59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="上海都市" tvg-id="" tvg-logo="" group-title="^·其他综合",上海都市
 https://live.264788.xyz/channel/shanghaidushi?streamid=d6aa1eedf2ffc5a88ee19737d90c28c6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="上海都市" tvg-id="" tvg-logo="" group-title="^·其他综合",上海都市
 https://live.264788.xyz/channel/shanghaidushi?streamid=08cdaffbd7855272c1a4c37b75f53892&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="上海都市" tvg-id="" tvg-logo="" group-title="^·其他综合",上海都市
+https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f793c0ae59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="上街" tvg-id="" tvg-logo="" group-title="^·其他综合",上街
 http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
 #EXTINF:-1 tvg-name="上街" tvg-id="" tvg-logo="" group-title="^·其他综合",上街
 http://live.dxhmt.cn:9081/tv/10106-1.m3u8
-#EXTINF:-1 tvg-name="世界动力冲浪板锦标赛 UIM MotoSurf动力冲浪世界锦标赛Day2 解说" tvg-id="" tvg-logo="" group-title="^·其他综合",世界动力冲浪板锦标赛 UIM MotoSurf动力冲浪世界锦标赛Day2 解说
-http://113.98.11.46:3000/969521860
 #EXTINF:-1 tvg-name="丘北县" tvg-id="" tvg-logo="" group-title="^·其他综合",丘北县
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
 #EXTINF:-1 tvg-name="东方购物" tvg-id="" tvg-logo="" group-title="^·其他综合",东方购物
-https://live.264788.xyz/channel/dongfanggouwu?streamid=6e1c8fcfd09faa555bf1a3f560c46d09&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/dongfanggouwu?streamid=eeaff1cd39e54df91b0c78a39177c49a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="东方购物" tvg-id="" tvg-logo="" group-title="^·其他综合",东方购物
 https://live.264788.xyz/channel/dongfanggouwu?streamid=dcba68715ee4b61f9d03d23fe8cda368&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="东方购物" tvg-id="" tvg-logo="" group-title="^·其他综合",东方购物
-https://live.264788.xyz/channel/dongfanggouwu?streamid=eeaff1cd39e54df91b0c78a39177c49a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="东方购物" tvg-id="" tvg-logo="" group-title="^·其他综合",东方购物
 https://live.264788.xyz/channel/dongfanggouwu?streamid=ae298b071395e7c4b8f5105ba9b22ef6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="东方购物" tvg-id="" tvg-logo="" group-title="^·其他综合",东方购物
+https://live.264788.xyz/channel/dongfanggouwu?streamid=6e1c8fcfd09faa555bf1a3f560c46d09&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="中国教育2" tvg-id="" tvg-logo="" group-title="^·其他综合",中国教育2
 http://204.12.221.218:8181/3m1080p/cetv2.m3u8
 #EXTINF:-1 tvg-name="中国教育3" tvg-id="" tvg-logo="" group-title="^·其他综合",中国教育3
 http://204.12.221.218:8181/3m1080p/cetv3.m3u8
 #EXTINF:-1 tvg-name="中国教育4" tvg-id="" tvg-logo="" group-title="^·其他综合",中国教育4
 http://204.12.221.218:8181/3m1080p/cetv4.m3u8
-#EXTINF:-1 tvg-name="中国网球公开赛 精彩回顾：郑钦文 vs 安德列娃 李宁、王蔷、张浩" tvg-id="" tvg-logo="" group-title="^·其他综合",中国网球公开赛 精彩回顾：郑钦文 vs 安德列娃 李宁、王蔷、张浩
-http://113.98.11.46:3000/969405791
+#EXTINF:-1 tvg-name="乒乓狂想 网络行为的边界在哪里？ 探讨网络发言底线 程靖淇 周冠达 李真" tvg-id="" tvg-logo="" group-title="^·其他综合",乒乓狂想 网络行为的边界在哪里？ 探讨网络发言底线 程靖淇 周冠达 李真
+http://113.98.11.46:3000/969574254
 #EXTINF:-1 tvg-name="书画" tvg-id="" tvg-logo="" group-title="^·其他综合",书画
 http://113.98.11.46:3000/968663920
-#EXTINF:-1 tvg-name="互扇巴掌大赛「其他」" tvg-id="" tvg-logo="" group-title="^·其他综合",互扇巴掌大赛「其他」
-http://tv.zimtv.cn/tv/player/api/huya.php?id=20072873
-#EXTINF:-1 tvg-name="五星体育" tvg-id="" tvg-logo="" group-title="^·其他综合",五星体育
-https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="五星体育" tvg-id="" tvg-logo="" group-title="^·其他综合",五星体育
 https://live.264788.xyz/channel/wuxingtiyu?streamid=bacdc88caa25b71b955f471072f07349&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="五星体育" tvg-id="" tvg-logo="" group-title="^·其他综合",五星体育
+https://live.264788.xyz/channel/wuxingtiyu?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="五星体育" tvg-id="" tvg-logo="" group-title="^·其他综合",五星体育
 https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="五星体育" tvg-id="" tvg-logo="" group-title="^·其他综合",五星体育
-https://live.264788.xyz/channel/wuxingtiyu?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="五福星" tvg-id="" tvg-logo="" group-title="^·其他综合",五福星
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11282233
 #EXTINF:-1 tvg-name="兴隆综合" tvg-id="" tvg-logo="" group-title="^·其他综合",兴隆综合
 https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="凤凰中文台" tvg-id="" tvg-logo="" group-title="^·其他综合",凤凰中文台
+http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 #EXTINF:-1 tvg-name="凤凰香港台" tvg-id="" tvg-logo="" group-title="^·其他综合",凤凰香港台
 http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 #EXTINF:-1 tvg-name="剧集_地下交通站" tvg-id="" tvg-logo="" group-title="^·其他综合",剧集_地下交通站
@@ -665,10 +639,8 @@ http://play.kankanlive.com/live/1647934328544907.m3u8
 http://113.98.11.46:3000/968553176
 #EXTINF:-1 tvg-name="吉林都市" tvg-id="" tvg-logo="" group-title="^·其他综合",吉林都市
 http://113.98.11.46:3000/968553190
-#EXTINF:-1 tvg-name="咪咕体育日报 undefined 咪咕体育日报 第248期" tvg-id="" tvg-logo="" group-title="^·其他综合",咪咕体育日报 undefined 咪咕体育日报 第248期
-http://113.98.11.46:3000/968817808
-#EXTINF:-1 tvg-name="咪咕体育日报 undefined 咪咕体育日报 第249期" tvg-id="" tvg-logo="" group-title="^·其他综合",咪咕体育日报 undefined 咪咕体育日报 第249期
-http://113.98.11.46:3000/968817796
+#EXTINF:-1 tvg-name="咪咕体育日报 undefined 咪咕体育日报 第251期" tvg-id="" tvg-logo="" group-title="^·其他综合",咪咕体育日报 undefined 咪咕体育日报 第251期
+http://113.98.11.46:3000/968817747
 #EXTINF:-1 tvg-name="嘉峪关公共" tvg-id="" tvg-logo="" group-title="^·其他综合",嘉峪关公共
 https://play.kankanlive.com/live/1658978141553927.m3u8
 #EXTINF:-1 tvg-name="嘉峪关综合" tvg-id="" tvg-logo="" group-title="^·其他综合",嘉峪关综合
@@ -678,17 +650,15 @@ http://204.12.221.218:8181/3m1080p/gxpd.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-id="" tvg-logo="" group-title="^·其他综合",天元围棋
 http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 #EXTINF:-1 tvg-name="天祝" tvg-id="" tvg-logo="" group-title="^·其他综合",天祝
-http://play.kankanlive.com/live/1656487214793905.m3u8
+https://play.kankanlive.com/live/1656487214793905.m3u8
 #EXTINF:-1 tvg-name="天祝" tvg-id="" tvg-logo="" group-title="^·其他综合",天祝
 http://play.kankanlive.com/live/1656487214793905.flv
 #EXTINF:-1 tvg-name="天祝" tvg-id="" tvg-logo="" group-title="^·其他综合",天祝
-https://play.kankanlive.com/live/1656487214793905.m3u8
+http://play.kankanlive.com/live/1656487214793905.m3u8
 #EXTINF:-1 tvg-name="安定" tvg-id="" tvg-logo="" group-title="^·其他综合",安定
 https://play.kankanlive.com/live/1672881652415978.m3u8
 #EXTINF:-1 tvg-name="定西综合" tvg-id="" tvg-logo="" group-title="^·其他综合",定西综合
 https://play.kankanlive.com/live/1675303871634928.m3u8
-#EXTINF:-1 tvg-name="射箭杯 复合弓、反曲弓多项金牌争夺 清流播出" tvg-id="" tvg-logo="" group-title="^·其他综合",射箭杯 复合弓、反曲弓多项金牌争夺 清流播出
-http://113.98.11.46:3000/969497310
 #EXTINF:-1 tvg-name="山东教育" tvg-id="" tvg-logo="" group-title="^·其他综合",山东教育
 http://113.98.11.46:3000/609154353
 #EXTINF:-1 tvg-name="岷县" tvg-id="" tvg-logo="" group-title="^·其他综合",岷县
@@ -719,6 +689,10 @@ http://tv.zimtv.cn/tv/player/api/huya.php?id=11274154
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
 #EXTINF:-1 tvg-name="文山综合" tvg-id="" tvg-logo="" group-title="^·其他综合",文山综合
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 tvg-name="斗罗大陆" tvg-id="" tvg-logo="" group-title="^·其他综合",斗罗大陆
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352906
+#EXTINF:-1 tvg-name="新动力量创一流" tvg-id="" tvg-logo="" group-title="^·其他综合",新动力量创一流
+http://113.98.11.46:3000/713589837
 #EXTINF:-1 tvg-name="新昌综合" tvg-id="" tvg-logo="" group-title="^·其他综合",新昌综合
 http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 #EXTINF:-1 tvg-name="无锡经济" tvg-id="" tvg-logo="" group-title="^·其他综合",无锡经济
@@ -729,6 +703,8 @@ http://204.12.221.218:8181/3m1080p/zqjy.m3u8
 http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 #EXTINF:-1 tvg-name="景泰" tvg-id="" tvg-logo="" group-title="^·其他综合",景泰
 https://play.kankanlive.com/live/1624439143745981.m3u8
+#EXTINF:-1 tvg-name="永劫无间世界冠军赛 永劫无间世界冠军赛Day3 清流播出" tvg-id="" tvg-logo="" group-title="^·其他综合",永劫无间世界冠军赛 永劫无间世界冠军赛Day3 清流播出
+http://113.98.11.46:3000/969665778
 #EXTINF:-1 tvg-name="永昌" tvg-id="" tvg-logo="" group-title="^·其他综合",永昌
 https://play.kankanlive.com/live/1652755738635915.m3u8
 #EXTINF:-1 tvg-name="江苏国际" tvg-id="" tvg-logo="" group-title="^·其他综合",江苏国际
@@ -739,26 +715,16 @@ http://113.98.11.46:3000/626064714
 http://113.98.11.46:3000/628008321
 #EXTINF:-1 tvg-name="泰安综合" tvg-id="" tvg-logo="" group-title="^·其他综合",泰安综合
 http://play.kankanlive.com/live/1680577080200944.m3u8
-#EXTINF:-1 tvg-name="浙BA 衢州VS金华 赛场原声" tvg-id="" tvg-logo="" group-title="^·其他综合",浙BA 衢州VS金华 赛场原声
-http://113.98.11.46:3000/969464156
+#EXTINF:-1 tvg-name="浙BA 温州VS海宁 赛场原声" tvg-id="" tvg-logo="" group-title="^·其他综合",浙BA 温州VS海宁 赛场原声
+http://113.98.11.46:3000/969696241
 #EXTINF:-1 tvg-name="浙江国际" tvg-id="" tvg-logo="" group-title="^·其他综合",浙江国际
 http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江国际" tvg-id="" tvg-logo="" group-title="^·其他综合",浙江国际
 http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-id="" tvg-logo="" group-title="^·其他综合",浙江钱江都市
-http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江钱江都市" tvg-id="" tvg-logo="" group-title="^·其他综合",浙江钱江都市
 http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-#EXTINF:-1 tvg-name="浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯决赛 赛场原声" tvg-id="" tvg-logo="" group-title="^·其他综合",浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯决赛 赛场原声
-http://113.98.11.46:3000/969375946
-#EXTINF:-1 tvg-name="浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 中文解说" tvg-id="" tvg-logo="" group-title="^·其他综合",浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 中文解说
-http://113.98.11.46:3000/969376188
-#EXTINF:-1 tvg-name="浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 智能字幕" tvg-id="" tvg-logo="" group-title="^·其他综合",浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 智能字幕
-http://113.98.11.46:3000/969378710
-#EXTINF:-1 tvg-name="浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 英文解说" tvg-id="" tvg-logo="" group-title="^·其他综合",浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 英文解说
-http://113.98.11.46:3000/969376059
-#EXTINF:-1 tvg-name="浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 赛场原声" tvg-id="" tvg-logo="" group-title="^·其他综合",浪琴环球马术冠军赛 维罗纳季后赛GCL超级杯半决赛 赛场原声
-http://113.98.11.46:3000/969375722
+#EXTINF:-1 tvg-name="浙江钱江都市" tvg-id="" tvg-logo="" group-title="^·其他综合",浙江钱江都市
+http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 #EXTINF:-1 tvg-name="海南广播电视总台文旅" tvg-id="" tvg-logo="" group-title="^·其他综合",海南广播电视总台文旅
 http://113.98.11.46:3000/962067526
 #EXTINF:-1 tvg-name="海南广播电视总台社会与法" tvg-id="" tvg-logo="" group-title="^·其他综合",海南广播电视总台社会与法
@@ -771,6 +737,8 @@ http://113.98.11.46:3000/609158151
 http://113.98.11.46:3000/608933610
 #EXTINF:-1 tvg-name="熊猫频道10" tvg-id="" tvg-logo="" group-title="^·其他综合",熊猫频道10
 http://113.98.11.46:3000/609169285
+#EXTINF:-1 tvg-name="熊猫频道2" tvg-id="" tvg-logo="" group-title="^·其他综合",熊猫频道2
+http://113.98.11.46:3000/608933640
 #EXTINF:-1 tvg-name="熊猫频道3" tvg-id="" tvg-logo="" group-title="^·其他综合",熊猫频道3
 http://113.98.11.46:3000/608934619
 #EXTINF:-1 tvg-name="熊猫频道4" tvg-id="" tvg-logo="" group-title="^·其他综合",熊猫频道4
@@ -783,18 +751,16 @@ http://113.98.11.46:3000/608935797
 http://113.98.11.46:3000/609169286
 #EXTINF:-1 tvg-name="熊猫频道8" tvg-id="" tvg-logo="" group-title="^·其他综合",熊猫频道8
 http://113.98.11.46:3000/609169287
+#EXTINF:-1 tvg-name="熊猫频道9" tvg-id="" tvg-logo="" group-title="^·其他综合",熊猫频道9
+http://113.98.11.46:3000/609169226
+#EXTINF:-1 tvg-name="短道速滑世界巡回赛 加拿大蒙特利尔站 2 解说" tvg-id="" tvg-logo="" group-title="^·其他综合",短道速滑世界巡回赛 加拿大蒙特利尔站 2 解说
+http://113.98.11.46:3000/969706434
 #EXTINF:-1 tvg-name="砚山县" tvg-id="" tvg-logo="" group-title="^·其他综合",砚山县
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
 #EXTINF:-1 tvg-name="秦安" tvg-id="" tvg-logo="" group-title="^·其他综合",秦安
 https://play.kankanlive.com/live/1680577080200944.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-id="" tvg-logo="" group-title="^·其他综合",老故事
 http://113.98.11.46:3000/884121956
-#EXTINF:-1 tvg-name="英女超 伯明翰女足VS曼联女足 兰子非" tvg-id="" tvg-logo="" group-title="^·其他综合",英女超 伯明翰女足VS曼联女足 兰子非
-http://113.98.11.46:3000/969524851
-#EXTINF:-1 tvg-name="英女超 查尔顿女足VS阿斯顿维拉女足 魏欣怡" tvg-id="" tvg-logo="" group-title="^·其他综合",英女超 查尔顿女足VS阿斯顿维拉女足 魏欣怡
-http://113.98.11.46:3000/969524889
-#EXTINF:-1 tvg-name="荒野求生「其他」" tvg-id="" tvg-logo="" group-title="^·其他综合",荒野求生「其他」
-http://tv.zimtv.cn/tv/player/api/huya.php?id=593667
 #EXTINF:-1 tvg-name="荥阳1" tvg-id="" tvg-logo="" group-title="^·其他综合",荥阳1
 http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
 #EXTINF:-1 tvg-name="荥阳1" tvg-id="" tvg-logo="" group-title="^·其他综合",荥阳1
@@ -823,8 +789,6 @@ http://play.kankanlive.com/live/1661761962676984.m3u8
 https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="邯郸科教" tvg-id="" tvg-logo="" group-title="^·其他综合",邯郸科教
 https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="野行者「其他」" tvg-id="" tvg-logo="" group-title="^·其他综合",野行者「其他」
-http://tv.zimtv.cn/tv/player/api/huya.php?id=20072663
 #EXTINF:-1 tvg-name="金川" tvg-id="" tvg-logo="" group-title="^·其他综合",金川
 http://play.kankanlive.com/live/1657360567739997.m3u8
 #EXTINF:-1 tvg-name="金昌综合" tvg-id="" tvg-logo="" group-title="^·其他综合",金昌综合
@@ -845,8 +809,6 @@ http://113.98.11.46:3000/956909362
 http://gxlive.snrtv.com/sx3-SD.m3u8
 #EXTINF:-1 tvg-name="青县综合" tvg-id="" tvg-logo="" group-title="^·其他综合",青县综合
 http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="青岛城市足球争霸赛 西海岸新区vs市北区 清流播出" tvg-id="" tvg-logo="" group-title="^·其他综合",青岛城市足球争霸赛 西海岸新区vs市北区 清流播出
-http://113.98.11.46:3000/969486681
 #EXTINF:-1 tvg-name="青田" tvg-id="" tvg-logo="" group-title="^·其他综合",青田
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 tvg-name="靖远" tvg-id="" tvg-logo="" group-title="^·其他综合",靖远
